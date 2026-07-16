@@ -1,0 +1,156 @@
+Hero Name,Skill Slot,Skill Name,Skill Type,Effect Summary (Max/Lv30 baseline),Scales With,Unlock Level,Star Gate,Data Source,Needs Screenshot Update
+Sera,Basic Attack,Bow Strike,Basic,Physical attack on single target,ATK,1,—,Community,Yes — fill % from your hero screen
+Sera,Skill 1,Arrow of Destiny,Active,Strikes 8 times; each hit ~121% physical DMG to random enemy,ATK / Penetration,1,—,Community estimate,Yes — verify exact % per level
+Sera,Skill 2,TBD,Active/Pasive,Check in-game hero detail screen,ATK,10,★,In-game,Yes
+Sera,Skill 3,TBD,Active/Pasive,Check in-game hero detail screen,ATK,20,★★,In-game,Yes
+Sera,Ultimate,TBD,Ultimate,Check in-game hero detail screen,ATK,30,★★★,In-game,Yes
+Yord,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
+Yord,Skill 1,Travel Invitation,Active,Buffs all allies ATK (~6.15% at listed level) for 1 turn,ATK / Buff,1,—,Community,Yes — verify % at each level
+Yord,Skill 2,Lingering Echo,Active/Pasive,Increases own Speed by 6 (base),Speed,10,★,Community,Yes
+Yord,Skill 3,TBD,Active/Pasive,General team buffer — check in-game,ATK / CRIT,20,★★,Guide + In-game,Yes
+Yord,Ultimate,TBD,Ultimate,Massive team buff for World Boss comps,ATK / CRIT,30,★★★,Guide,Yes
+Dragonic,Basic Attack,TBD,Basic,Standard attack,ATK / HP,1,—,In-game,Yes
+Dragonic,Skill 1,TBD,Active,Tank skill — damage reduction / shield,HP / DMG Immune,1,—,Guide,Yes
+Dragonic,Skill 2,TBD,Active,Burst damage or self-sustain,ATK / HP,10,★,In-game,Yes
+Dragonic,Skill 3,TBD,Passive,Frontline durability passive,HP / DMG Immune,20,★★,Guide — prioritize DMG Immune + HP,Yes
+Dragonic,Ultimate,TBD,Ultimate,Tank ultimate,HP,30,★★★,In-game,Yes
+Monica,Basic Attack,TBD,Basic,Standard attack,ATK / Penetration,1,—,In-game,Yes
+Monica,Skill 1,TBD,Active,PvP: bypasses tanks to hit backline; WB: multi-target hits,ATK / Penetration,1,—,Van DeVaughn guide,Yes
+Monica,Skill 2,TBD,Active,Shadow/assassin damage skill,ATK,10,★,In-game,Yes
+Monica,Skill 3,TBD,Passive,Backline targeting enhancement,Penetration,20,★★,Guide,Yes
+Monica,Ultimate,TBD,Ultimate,High burst backline nuke,ATK,30,★★★,In-game,Yes
+Sophia,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
+Sophia,Skill 1,TBD,Active,Highest single-target skill damage in game,ATK / Skill DMG,1,—,Van DeVaughn guide,Yes
+Sophia,Skill 2,TBD,Active,Ripple/water damage skill,ATK,10,★,In-game,Yes
+Sophia,Skill 3,TBD,Passive,Skill damage scaling passive,Skill DMG,20,★★,Guide,Yes
+Sophia,Ultimate,TBD,Ultimate,Massive single-target burst,ATK,30,★★★,In-game,Yes
+Fenixia,Basic Attack,TBD,Basic,Standard attack,ATK / CRIT,1,—,In-game,Yes
+Fenixia,Skill 1,TBD,Active,Crit-based burst damage; core World Boss skill,ATK / CRIT / CRIT DMG,1,—,Guide,Yes
+Fenixia,Skill 2,TBD,Active,Fire/plume AoE damage,ATK / CRIT,10,★,In-game,Yes
+Fenixia,Skill 3,TBD,Passive,Crit rate/damage passive,CRIT,20,★★,Guide,Yes
+Fenixia,Ultimate,TBD,Ultimate,Damage decreases as enemy heroes die (PvP weakness),ATK / CRIT,30,★★★,Guide,Yes
+Daphne,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
+Daphne,Skill 1,TBD,Active,Best Nightfall DPS skill; strong vs Human,ATK,1,—,Guide,Yes
+Daphne,Skill 2,TBD,Active,Rose/nightfall damage,ATK,10,★,In-game,Yes
+Daphne,Skill 3,TBD,Passive,Anti-Human faction bonus,ATK,20,★★,Guide,Yes
+Daphne,Ultimate,TBD,Ultimate,Nightfall burst; weak vs Forest teams,Ultimate DMG,30,★★★,Guide,Yes
+Andrew,Basic Attack,TBD,Basic,Standard attack,HP / ATK,1,—,In-game,Yes
+Andrew,Skill 1,TBD,Active,Debuff skill; anti-magic capabilities,HP / Debuff,1,—,Guide,Yes
+Andrew,Skill 2,TBD,Active,Tank mitigation / counter Forest,HP / DMG Immune,10,★,Guide,Yes
+Andrew,Skill 3,TBD,Passive,Anti-magic passive,DMG Immune,20,★★,Guide,Yes
+Andrew,Ultimate,TBD,Ultimate,Frontline protection ultimate,HP,30,★★★,In-game,Yes
+Crystal,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
+Crystal,Skill 1,TBD,Active,Buffs Forest backline allies (% scales with stars),ATK / Buff,1,—,Van DeVaughn guide,Yes — note % at 1★/4★/max
+Crystal,Skill 2,TBD,Active,Support/heal or buff skill,ATK,10,★,In-game,Yes
+Crystal,Skill 3,TBD,Passive,Backline buff passive,Buff,20,★★,Guide,Yes
+Crystal,Ultimate,TBD,Ultimate,Team Forest support ultimate,Buff,30,★★★,In-game,Yes
+Verna,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
+Verna,Skill 1,TBD,Active,Increases damage World Boss takes (unique boss debuff),Debuff,1,—,Van DeVaughn guide,Yes — critical for WB teams
+Verna,Skill 2,TBD,Active,Starlit support skill,ATK,10,★,In-game,Yes
+Verna,Skill 3,TBD,Passive,Boss damage amplification passive,Debuff,20,★★,Guide,Yes
+Verna,Ultimate,TBD,Ultimate,Boss debuff ultimate,Debuff,30,★★★,In-game,Yes
+Sparta,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
+Sparta,Skill 1,TBD,Active,Nightfall warrior damage (decent DMG),ATK,1,—,Official FB preview,Yes
+Sparta,Skill 2,TBD,Active,Mechanic-heavy tank/DPS skill,ATK / HP,10,★,Guide,Yes
+Sparta,Skill 3,TBD,Passive,Complex mechanic passive,Varies,20,★★,Guide — technical hero,Yes
+Sparta,Ultimate,TBD,Ultimate,PvP creative uses; skip for World Boss,ATK,30,★★★,Guide,Yes
+Valkyr,Basic Attack,TBD,Basic,Standard attack,ATK / HP,1,—,In-game,Yes
+Valkyr,Skill 1,Ultimate Spear,Active,Front-row burst damage consuming Judgment stacks,ATK,1,—,Official FB preview,Yes
+Valkyr,Skill 2,Shrine Shadow,Active/Pasive,Mark of Judgment stacking mechanic,ATK / Buff,10,★,Official FB preview,Yes
+Valkyr,Skill 3,Mark of Judgment,Passive,Judgment stack system for burst,Buff,20,★★,Official FB preview,Yes
+Valkyr,Ultimate,Unparalleled Domain,Ultimate,God warrior domain buff + burst,ATK / Buff,30,★★★,Official FB preview,Yes
+Rexar,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
+Rexar,Skill 1,TBD,Active,Winter/ice burst damage,ATK,1,—,Guide — Forest PvP duo,Yes
+Rexar,Skill 2,TBD,Active,Synergy skill with Dragonic,ATK,10,★,Guide,Yes
+Rexar,Skill 3,TBD,Passive,Forest faction bonus passive,ATK,20,★★,In-game,Yes
+Rexar,Ultimate,TBD,Ultimate,Forest PvP burst ultimate,ATK,30,★★★,In-game,Yes
+Alvarez,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
+Alvarez,Skill 1,TBD,Active,Shadow/exile burst damage,ATK / Penetration,1,—,In-game,Yes
+Alvarez,Skill 2,TBD,Active,Exile shadow skill,ATK,10,★,In-game,Yes
+Alvarez,Skill 3,TBD,Passive,Shadow passive,ATK,20,★★,In-game,Yes
+Alvarez,Ultimate,TBD,Ultimate,High burst ultimate,ATK,30,★★★,In-game,Yes
+Belial,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
+Belial,Skill 1,TBD,Active,Cursed soul damage,ATK,1,—,In-game,Yes
+Belial,Skill 2,TBD,Active,Dark curse debuff,ATK / Debuff,10,★,In-game,Yes
+Belial,Skill 3,TBD,Passive,Cursed passive,ATK,20,★★,In-game,Yes
+Belial,Ultimate,TBD,Ultimate,Cursed burst ultimate,ATK,30,★★★,In-game,Yes
+Kataras,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
+Kataras,Skill 1,TBD,Active,Demon masked burst,ATK,1,—,In-game,Yes
+Kataras,Skill 2,TBD,Active,Asura damage skill,ATK,10,★,In-game,Yes
+Kataras,Skill 3,TBD,Passive,Demon passive,ATK,20,★★,In-game,Yes
+Kataras,Ultimate,TBD,Ultimate,Asura ultimate,ATK,30,★★★,In-game,Yes
+Mirana,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
+Mirana,Skill 1,TBD,Active,Spectral rakkhasa damage,ATK,1,—,In-game,Yes
+Mirana,Skill 2,TBD,Active,Spectral support/damage,ATK,10,★,In-game,Yes
+Mirana,Skill 3,TBD,Passive,Spectral passive,ATK,20,★★,In-game,Yes
+Mirana,Ultimate,TBD,Ultimate,Rakkhasa ultimate,ATK,30,★★★,In-game,Yes
+Chakiss,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
+Chakiss,Skill 1,TBD,Active,Dragon warrior damage,ATK,1,—,In-game,Yes
+Chakiss,Skill 2,TBD,Active,Warrior skill,ATK,10,★,In-game,Yes
+Chakiss,Skill 3,TBD,Passive,Dragon passive,ATK,20,★★,In-game,Yes
+Chakiss,Ultimate,TBD,Ultimate,Dragon burst,ATK,30,★★★,In-game,Yes
+Edric,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
+Edric,Skill 1,TBD,Active,Spore warrior damage,ATK,1,—,In-game,Yes
+Edric,Skill 2,TBD,Active,Spore skill,ATK,10,★,In-game,Yes
+Edric,Skill 3,TBD,Passive,Spore passive,ATK,20,★★,In-game,Yes
+Edric,Ultimate,TBD,Ultimate,Spore burst,ATK,30,★★★,In-game,Yes
+Denise,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
+Denise,Skill 1,TBD,Active,Bard team buff,ATK / Buff,1,—,Guide — PvE support,Yes
+Denise,Skill 2,TBD,Active,Bard skill,ATK,10,★,In-game,Yes
+Denise,Skill 3,TBD,Passive,Bard passive,Buff,20,★★,In-game,Yes
+Denise,Ultimate,TBD,Ultimate,Team support ultimate,Buff,30,★★★,In-game,Yes
+Faerie,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
+Faerie,Skill 1,TBD,Active,Tree spirit heal/buff,HP / Heal,1,—,Guide,Yes
+Faerie,Skill 2,TBD,Active,Merciful support skill,Heal,10,★,In-game,Yes
+Faerie,Skill 3,TBD,Passive,Healing passive,HP,20,★★,In-game,Yes
+Faerie,Ultimate,TBD,Ultimate,Sustain ultimate,Heal,30,★★★,In-game,Yes
+Aaron,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
+Aaron,Skill 1,TBD,Active,Wolf king damage,ATK,1,—,In-game,Yes
+Aaron,Skill 2,TBD,Active,Howling skill,ATK,10,★,In-game,Yes
+Aaron,Skill 3,TBD,Passive,Wolf passive,ATK,20,★★,In-game,Yes
+Aaron,Ultimate,TBD,Ultimate,Wolf burst,ATK,30,★★★,In-game,Yes
+Ali,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
+Ali,Skill 1,TBD,Active,Electric boxer combo,ATK,1,—,In-game,Yes
+Ali,Skill 2,TBD,Active,Electric skill,ATK,10,★,In-game,Yes
+Ali,Skill 3,TBD,Passive,Boxer passive,ATK,20,★★,In-game,Yes
+Ali,Ultimate,TBD,Ultimate,Electric burst,ATK,30,★★★,In-game,Yes
+Cthylla,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
+Cthylla,Skill 1,TBD,Active,Deep terror AoE,ATK,1,—,In-game,Yes
+Cthylla,Skill 2,TBD,Active,Terror control skill,ATK / Control,10,★,In-game,Yes
+Cthylla,Skill 3,TBD,Passive,Deep sea passive,ATK,20,★★,In-game,Yes
+Cthylla,Ultimate,TBD,Ultimate,Terror ultimate,ATK,30,★★★,In-game,Yes
+Garuda,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
+Garuda,Skill 1,TBD,Active,Dragonslayer burst,ATK,1,—,In-game,Yes
+Garuda,Skill 2,TBD,Active,Slayer skill,ATK,10,★,In-game,Yes
+Garuda,Skill 3,TBD,Passive,Anti-beast passive,ATK,20,★★,In-game,Yes
+Garuda,Ultimate,TBD,Ultimate,Dragon slayer ultimate,ATK,30,★★★,In-game,Yes
+Marissa,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
+Marissa,Skill 1,TBD,Active,Spear of revenge damage,ATK,1,—,In-game,Yes
+Marissa,Skill 2,TBD,Active,Revenge skill,ATK,10,★,In-game,Yes
+Marissa,Skill 3,TBD,Passive,Revenge passive,ATK,20,★★,In-game,Yes
+Marissa,Ultimate,TBD,Ultimate,Revenge burst,ATK,30,★★★,In-game,Yes
+Reina,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
+Reina,Skill 1,TBD,Active,Enchanting witch debuff,ATK / Debuff,1,—,In-game,Yes
+Reina,Skill 2,TBD,Active,Witch skill,ATK,10,★,In-game,Yes
+Reina,Skill 3,TBD,Passive,Enchant passive,ATK,20,★★,In-game,Yes
+Reina,Ultimate,TBD,Ultimate,Witch ultimate,ATK,30,★★★,In-game,Yes
+Harold,Basic Attack,TBD,Basic,Standard attack,ATK / HP,1,—,In-game,Yes
+Harold,Skill 1,TBD,Active,Tekken chief tank skill,HP,1,—,In-game,Yes
+Harold,Skill 2,TBD,Active,Chief skill,HP,10,★,In-game,Yes
+Harold,Skill 3,TBD,Passive,Tank passive,HP,20,★★,In-game,Yes
+Harold,Ultimate,TBD,Ultimate,Tekken ultimate,HP,30,★★★,In-game,Yes
+Moga,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
+Moga,Skill 1,TBD,Active,Garlic samurai slash,ATK,1,—,In-game,Yes
+Moga,Skill 2,TBD,Active,Samurai skill,ATK,10,★,In-game,Yes
+Moga,Skill 3,TBD,Passive,Samurai passive,ATK,20,★★,In-game,Yes
+Moga,Ultimate,TBD,Ultimate,Samurai burst,ATK,30,★★★,In-game,Yes
+Romano,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
+Romano,Skill 1,TBD,Active,Holy inquisitor damage/buff,ATK,1,—,In-game,Yes
+Romano,Skill 2,TBD,Active,Inquisitor skill,ATK,10,★,In-game,Yes
+Romano,Skill 3,TBD,Passive,Holy passive,ATK,20,★★,In-game,Yes
+Romano,Ultimate,TBD,Ultimate,Inquisitor ultimate,ATK,30,★★★,In-game,Yes
+Torun,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
+Torun,Skill 1,TBD,Active,Berserk axe damage,ATK,1,—,In-game,Yes
+Torun,Skill 2,TBD,Active,Berserk skill,ATK,10,★,In-game,Yes
+Torun,Skill 3,TBD,Passive,Berserk passive,ATK,20,★★,In-game,Yes
+Torun,Ultimate,TBD,Ultimate,Berserk burst,ATK,30,★★★,In-game,Yes

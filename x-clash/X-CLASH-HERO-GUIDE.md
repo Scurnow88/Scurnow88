@@ -5,6 +5,20 @@
 
 ---
 
+## Full Hero Profiles
+
+For **complete hero profiles** with raw stats, detailed skills, ★1–★5 star effects, passives, recommended artifacts/gear/runes, team synergies, and mode-by-mode performance ratings, see:
+
+**[`X-CLASH-HERO-PROFILES.md`](X-CLASH-HERO-PROFILES.md)** — 31 heroes; **16 verified** with full skill data from your screenshots.
+
+| New data files | Contents |
+|----------------|----------|
+| `x-clash-hero-skill-stars.csv` | ★1–★5 upgrade effect per skill |
+| `x-clash-hero-builds.csv` | Artifacts, runes, gear, talents by role |
+| `x-clash-hero-mode-ratings.csv` | PvP, WB, Rally, Siege, Peak Arena, Monster Hunt, etc. |
+
+---
+
 ## Quick Reference — Faction Triangle
 
 ```
@@ -164,7 +178,9 @@ Monica + Sera + Yord + Dragonic + Rexar
 
 ---
 
-## Known Skill Details (Fill gaps from your screenshots)
+## Known Skill Details (Quick Reference)
+
+> **Full profiles:** See [`X-CLASH-HERO-PROFILES.md`](X-CLASH-HERO-PROFILES.md) for ★1–★5 tables, builds, synergies, and mode ratings per hero.
 
 ### Sera — Bow of Tomorrow *(verified @ CP 3,874,489, 5★)*
 
@@ -225,34 +241,6 @@ Monica + Sera + Yord + Dragonic + Rexar
 | **Soul Protection** | 25/30 | Back-row **Forest** heroes **+24.75% monster damage** | +3% per star (~39.75%+ at 5★) |
 
 **Role:** World Boss enabler — buffs your Forest backline (Sera/Verna) + massive execute damage.
-
----
-| Skill | Effect |
-|-------|--------|
-| Core identity | PvP: **bypasses tanks**, hits backline |
-| World Boss | **Multi-target** hits |
-
-### Valkyr — Valiant Warrior (Official preview)
-| Skill | Effect |
-|-------|--------|
-| **Ultimate Spear** | Burst damage using Judgment stacks |
-| **Shrine Shadow** | Judgment / mark mechanic |
-| **Mark of Judgment** | Stack system for burst |
-| **Unparalleled Domain** | Domain buff + burst |
-| Position | **Front row** buffer-tank |
-
-### Sparta — God Slayer (Official preview)
-| Feature | Detail |
-|---------|--------|
-| Faction | Nightfall |
-| Role | Warrior with decent damage |
-| Position | **Back row** |
-| World Boss | **Not recommended** |
-
-### Crystal — Soul Ferrier
-| Skill | Effect |
-|-------|--------|
-| Core | **Buffs Forest backline** (% scales with star level) |
 
 ### Andrew — Knight of Death *(verified from your screenshots @ Lv140)*
 
@@ -363,9 +351,14 @@ Monica + Sera + Yord + Dragonic + Rexar
 
 | File | Use |
 |------|-----|
+| **`X-CLASH-HERO-PROFILES.md`** | **Full profiles** — stats, skills, ★1–★5, builds, synergies, mode ratings |
+| `X-CLASH-HERO-GUIDE.md` | Quick tier list, upgrade priority, team comps |
 | `x-clash-heroes-master.csv` | Main roster — import to Google Sheets |
 | `x-clash-heroes-skills.csv` | Skills per hero; update from screenshots |
-| `x-clash-heroes-tier-by-mode.csv` | PvP / WB / Campaign tiers side-by-side |
+| `x-clash-hero-skill-stars.csv` | ★1–★5 skill upgrade effects |
+| `x-clash-hero-builds.csv` | Artifacts, runes, gear, talent recommendations |
+| `x-clash-hero-mode-ratings.csv` | Performance by game mode (PvP, WB, Rally, etc.) |
+| `x-clash-heroes-tier-by-mode.csv` | Legacy mode tiers (subset of mode-ratings) |
 | `x-clash-my-roster-template.csv` | **Your** heroes — fill with your levels/gear |
 
 ### Import to Google Sheets

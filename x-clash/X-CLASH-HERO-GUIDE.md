@@ -173,14 +173,37 @@ Monica + Sera + Yord + Dragonic + Rexar
 | **Arrow of Destiny** | Strikes **8 times**; each hit ~**121% physical DMG** to a random enemy |
 | Others | Fill from your hero screen |
 
-### Yord — Traveler of the Forest Sea
-| Skill | Effect (community data — verify in-game) |
-|-------|------------------------------------------|
-| **Travel Invitation** | Increases all allies' ATK by **~6.15%** for 1 turn |
-| **Lingering Echo** | Increases own Speed by **6** |
-| Others | Fill from your hero screen |
+### Yord — Traveler of the Forest Sea *(verified @ CP 2,769,428, 5★)*
 
-### Monica — Shadowhunt
+| Skill | Lv | Effect | Star gates |
+|-------|-----|--------|------------|
+| **Travel Invitation** | 17/30 | **+14.55% ATK** all allies (1 turn) | 2★ +10% CRIT; **4★ → 2 turns**; 5★ +2% ATK |
+| **Lingering Echo** | 20/30 | **+35 Speed**; −11% dmg to highest-ATK ally | +2 Speed +1% reduction per tier |
+| **Universal Chord** | 17/30 | **402.7% Magic DMG** single | 5★: +270% bonus DMG |
+
+**Role:** Mandatory buffer — protects your top DPS and amplifies whole team. **Non-negotiable investment.**
+
+### Fenixia — Fiery Plume *(verified @ CP 2,764,305, 5★)*
+
+| Skill | Lv | Effect | Star gates |
+|-------|-----|--------|------------|
+| **Incinerate** | 17/31 | **481.5% Magic DMG** single; +2 Flame Overload per Human ally at battle start | 5★: +270% bonus DMG |
+| **Flame Spiral** | 17/31 | **253.7% Magic DMG** to **all enemies** | 5★: +270% bonus DMG |
+| **Fireborn** | 16/31 | **+27.2% CRIT Rate** | +3% CRIT per star (~42%+ at 5★) |
+
+**Role:** World Boss queen — AoE + single-target magic burst; synergizes with Human-heavy teams.
+
+### Crystal — Soul Ferrier *(verified @ CP 3,144,246, 5★)*
+
+| Skill | Lv | Effect | Star gates |
+|-------|-----|--------|------------|
+| **Ferry Soul** | 20/30 | **522.8% Physical DMG** single | 5★: +270% bonus DMG |
+| **Shadowy Soul** | 24/30 | **1372.7% Physical DMG** single; **recast at 50%** on kill | 5★: +270% bonus DMG |
+| **Soul Protection** | 25/30 | Back-row **Forest** heroes **+24.75% monster damage** | +3% per star (~39.75%+ at 5★) |
+
+**Role:** World Boss enabler — buffs your Forest backline (Sera/Verna) + massive execute damage.
+
+---
 | Skill | Effect |
 |-------|--------|
 | Core identity | PvP: **bypasses tanks**, hits backline |

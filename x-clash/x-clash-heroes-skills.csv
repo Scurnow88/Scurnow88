@@ -4,11 +4,10 @@ Sera,Skill 1,Arrow of Destiny,Active,Strikes 8 times; each hit ~121% physical DM
 Sera,Skill 2,TBD,Active/Pasive,Check in-game hero detail screen,ATK,10,★,In-game,Yes
 Sera,Skill 3,TBD,Active/Pasive,Check in-game hero detail screen,ATK,20,★★,In-game,Yes
 Sera,Ultimate,TBD,Ultimate,Check in-game hero detail screen,ATK,30,★★★,In-game,Yes
-Yord,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
-Yord,Skill 1,Travel Invitation,Active,Buffs all allies ATK (~6.15% at listed level) for 1 turn,ATK / Buff,1,—,Community,Yes — verify % at each level
-Yord,Skill 2,Lingering Echo,Active/Pasive,Increases own Speed by 6 (base),Speed,10,★,Community,Yes
-Yord,Skill 3,TBD,Active/Pasive,General team buffer — check in-game,ATK / CRIT,20,★★,Guide + In-game,Yes
-Yord,Ultimate,TBD,Ultimate,Massive team buff for World Boss comps,ATK / CRIT,30,★★★,Guide,Yes
+Yord,Skill 1,Travel Invitation,Active (Buff),"All allies +14.55% ATK for 1 turn (Lv17→14.7%). 2★: +10% CRIT Rate; 4★: 2 turns; 5★: +2% ATK.",ATK / CRIT / Buff,17,★★★★★ (+2% ATK / +10% CRIT / 2 turns),User screenshot CP 2769428 @5★,No
+Yord,Skill 2,Lingering Echo,Passive,"+35 Speed; reduces damage to highest-ATK ally by 11% (Lv20). Each tier +2 Speed +1% reduction.",Speed / Buff,20,★★★★★ (4 tiers unlocked),User screenshot @5★,No
+Yord,Skill 3,Universal Chord,Active (Magic),"Magic DMG: 402.7% ATK (Lv17→410.8%) single enemy. 5★: +270% bonus Magic DMG.",ATK,17,★★★★★ (5★ = +270% DMG),User screenshot @5★,No
+Yord,Skill 4,TBD,Active/Pasive,Level 1 — not yet invested,ATK,1,—,User screenshot,Yes
 Dragonic,Basic Attack,TBD,Basic,Standard attack,ATK / HP,1,—,In-game,Yes
 Dragonic,Skill 1,TBD,Active,Tank skill — damage reduction / shield,HP / DMG Immune,1,—,Guide,Yes
 Dragonic,Skill 2,TBD,Active,Burst damage or self-sustain,ATK / HP,10,★,In-game,Yes
@@ -72,11 +71,10 @@ Kataras,Skill 1,TBD,Active,Demon masked burst,ATK,1,—,In-game,Yes
 Kataras,Skill 2,TBD,Active,Asura damage skill,ATK,10,★,In-game,Yes
 Kataras,Skill 3,TBD,Passive,Demon passive,ATK,20,★★,In-game,Yes
 Kataras,Ultimate,TBD,Ultimate,Asura ultimate,ATK,30,★★★,In-game,Yes
-Mirana,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
-Mirana,Skill 1,TBD,Active,Spectral rakkhasa damage,ATK,1,—,In-game,Yes
-Mirana,Skill 2,TBD,Active,Spectral support/damage,ATK,10,★,In-game,Yes
-Mirana,Skill 3,TBD,Passive,Spectral passive,ATK,20,★★,In-game,Yes
-Mirana,Ultimate,TBD,Ultimate,Rakkhasa ultimate,ATK,30,★★★,In-game,Yes
+Mirana,Skill 1,Ceremony,Active,"Physical DMG: 246.3% ATK (Lv10) single enemy. 5★ unlock: +270% bonus Physical DMG.",ATK,10,★★★ (5★ = +270% DMG),User screenshot CP 2230237 @3★,No
+Mirana,Skill 2,Resentful Chorus,Active (AoE),"Physical DMG: 129.3% ATK (Lv10) to ALL enemies. 5★ unlock: +270% bonus Physical DMG.",ATK,10,★★★ (5★ = +270% DMG),User screenshot @3★,No
+Mirana,Skill 3,Soul Drain,Passive,"+20% Physical DMG dealt during battle. Each star +3%. 5★: +35% total Physical DMG.",ATK / Penetration,10,★★★ (5★ = +3% phys DMG),User screenshot @3★,No
+Mirana,Skill 4,TBD,Active/Pasive,Locked at 3★ — unlock on ascend,ATK,—,Ascend required,User screenshot,Yes
 Chakiss,Skill 1,Valiant Charge,Active,"Physical DMG: 297% ATK (Lv17→303%) single enemy. 5★: +150% bonus Physical DMG.",ATK,17,★★★★★ (+20/45/70/100/150%),User screenshot CP 2407331,No
 Chakiss,Skill 2,Valiant Counterattack,Active,"Physical DMG: 249.4% ATK (Lv14→256.5%) to all enemies in a row; reduces ATK 6% for 1 turn. 5★: +150% bonus Physical DMG.",ATK / Debuff,14,★★★★★ (+20/45/70/100/150%),User screenshot,No
 Chakiss,Skill 3,Shield Shock,Passive,"Reduces monster damage taken by 32.2% (Lv14→32.5%). Each star +4% monster DMG reduction.",HP / DMG Immune,14,★★★★★ (+4% per star),User screenshot,No

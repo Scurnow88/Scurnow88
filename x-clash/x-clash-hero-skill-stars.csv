@@ -1,0 +1,49 @@
+Hero Name,Skill Name,Skill Type,Star 1 Effect,Star 2 Effect,Star 3 Effect,Star 4 Effect,Star 5 Effect,Verified,Notes
+Sera,Arrow of Destiny,Active (CS Magic),+30% bonus Magic DMG,Attack limit increased to 12 times,+70% bonus Magic DMG,Attack limit increased to 16 times,+120% bonus Magic DMG,Yes,Base: 16 hits × 127% Magic random; +1 hit per Magic Amplification stack @ Lv33
+Sera,Arrow of the Butterfly,Active (Magic),+30% bonus Magic DMG,+70% bonus Magic DMG,+120% bonus Magic DMG,+185% bonus Magic DMG,+270% bonus Magic DMG,Yes,628.4% Magic single @ Lv32; crit grants 1–3 Amplification stacks
+Sera,Shadow Sprite,Passive,+3% Magic DMG dealt,+3% Magic DMG dealt,+3% Magic DMG dealt,+3% Magic DMG dealt,+3% Magic DMG dealt,Yes,Base +30.4% Magic DMG @ Lv32; ~45% from stars (~75%+ total @ 5★)
+Dragonic,Thunder Breath,Active (Physical),+30% bonus Physical DMG,+70% bonus Physical DMG,+120% bonus Physical DMG,+185% bonus Physical DMG,+270% bonus Physical DMG,Yes,461.8% ATK single @ Lv24
+Dragonic,Overload,Active (Buff),−2% more Physical DMG reduction,Duration extended to 2 turns,−2% more Physical DMG reduction,Effect applies to all allies,−2% more Physical DMG reduction,Yes,Base −26.6% Physical DMG to allies @ Lv22
+Dragonic,Thunderous Wrath,Passive,−2% all damage taken (front row),−2% all damage taken,−2% all damage taken,−2% all damage taken,−2% all damage taken,Yes,Base −16.4% all damage @ Lv24; ~26%+ total @ 5★
+Monica,Desert Ember,Active (Magic),+30% bonus Magic DMG,+70% bonus Magic DMG,+120% bonus Magic DMG,+185% bonus Magic DMG,+270% bonus Magic DMG,Yes,555.2% Magic single; splashes to back-row if target is front row
+Monica,Savage Swoop,Active (Magic),+30% bonus Magic DMG,Attack limit increased to 4 times,+70% bonus Magic DMG,Attack limit increased to 5 times,+120% bonus Magic DMG,Yes,3 hits × 348% Magic random @ Lv22
+Monica,Feline Fury,Passive,+3% CRIT Rate,+3% CRIT Rate,+3% CRIT Rate,+3% CRIT Rate,+3% CRIT Rate,Yes,Base +27.8% CRIT @ Lv19; ~42.8%+ total @ 5★
+Yord,Travel Invitation,Active (Buff),+10% CRIT Rate to buff,—,—,Duration extended to 2 turns,+2% ATK on buff,Yes,Base +14.55% ATK all allies @ Lv17
+Yord,Lingering Echo,Passive,+2 Speed; −1% dmg to highest-ATK ally,+2 Speed; −1% reduction,+2 Speed; −1% reduction,+2 Speed; −1% reduction,+2 Speed; −1% reduction,Yes,Base +35 Speed; −11% dmg to top DPS @ Lv20
+Yord,Universal Chord,Active (Magic),+30% bonus Magic DMG,+70% bonus Magic DMG,+120% bonus Magic DMG,+185% bonus Magic DMG,+270% bonus Magic DMG,Yes,402.7% Magic single @ Lv17
+Fenixia,Incinerate,Active (Magic),+30% bonus Magic DMG,+70% bonus Magic DMG,+120% bonus Magic DMG,+185% bonus Magic DMG,+270% bonus Magic DMG,Yes,481.5% Magic; +2 Flame Overload per Human ally @ battle start
+Fenixia,Flame Spiral,Active (AoE Magic),+30% bonus Magic DMG,+70% bonus Magic DMG,+120% bonus Magic DMG,+185% bonus Magic DMG,+270% bonus Magic DMG,Yes,253.7% Magic to ALL enemies @ Lv17
+Fenixia,Fireborn,Passive,+3% CRIT Rate,+3% CRIT Rate,+3% CRIT Rate,+3% CRIT Rate,+3% CRIT Rate,Yes,Base +27.2% CRIT @ Lv16; ~42%+ @ 5★
+Andrew,Ultimate Duel,Active (Physical),Standard star DMG tiers,Standard star DMG tiers,Standard star DMG tiers,Standard star DMG tiers,+270% bonus Physical DMG (5★ awaken),Yes,361.2% ATK single @ Lv15 (4★)
+Andrew,Despair's Backlash,Active (AoE),Standard star DMG tiers,Standard star DMG tiers,Standard star DMG tiers,Standard star DMG tiers,+120% bonus Physical DMG AoE (5★ awaken),Yes,78% ATK all enemies + −12.45% enemy Magic DMG @ Lv13
+Andrew,Ode to Darkness,Passive,+4% Magic DMG reduction,+4% Magic DMG reduction,+4% Magic DMG reduction,+4% Magic DMG reduction,+4% Magic DMG reduction (5★ awaken),Yes,Base −29.2% Magic DMG taken @ Lv13; ~33%+ @ 5★
+Crystal,Ferry Soul,Active (Physical),+30% bonus Physical DMG,+70% bonus Physical DMG,+120% bonus Physical DMG,+185% bonus Physical DMG,+270% bonus Physical DMG,Yes,522.8% ATK single @ Lv20
+Crystal,Shadowy Soul,Active (Execute),+30% bonus Physical DMG,+70% bonus Physical DMG,+120% bonus Physical DMG,+185% bonus Physical DMG,+270% bonus Physical DMG,Yes,1372.7% ATK single; recast at 50% on kill @ Lv24
+Crystal,Soul Protection,Passive,+3% monster DMG to Forest backline,+3% monster DMG,+3% monster DMG,+3% monster DMG,+3% monster DMG,Yes,Base +24.75% monster DMG @ Lv25; ~39.75%+ @ 5★
+Verna,Whispers of the Stars,Active (CS),+20% bonus Physical DMG,+45% bonus Physical DMG,+70% bonus Physical DMG,+100% bonus Physical DMG,+150% bonus Physical DMG,Yes,683% ATK random; +12% damage taken debuff vs monsters @ Lv21
+Verna,Astral Guardian,Passive,+2% DMG to monsters; +5% resource gains,+2% / +5%,+2% / +5%,+2% / +5%,+2% / +5%,Yes,Base +17.45% monster DMG; +53.45% Food/Iron/Gold @ Lv23
+Verna,Dance of the Stars,Active,+20% bonus Physical DMG,+45% bonus Physical DMG,+70% bonus Physical DMG,+100% bonus Physical DMG,+150% bonus Physical DMG,Yes,331.2% ATK to 2 random @ Lv24
+Sophia,Dragonhunt,Active (Magic),Standard star DMG tiers,Standard star DMG tiers,Standard star DMG tiers,Standard star DMG tiers,+270% bonus Magic DMG (5★ awaken),Yes,170% Magic single @ Lv5 (2★)
+Sophia,Dragon's Waltz,Active (Magic/Control),Targets increased to 2,Standard star DMG tiers,Standard star DMG tiers,Targets increased to 3,+120% bonus Magic DMG (5★ awaken),Yes,156.2% Magic back-row; 10% Stun @ Lv5
+Sophia,Moonlit Ripples,Passive,+4% ATK,+4% ATK,+4% ATK,+4% ATK,+4% ATK (5★ awaken),Yes,Base +20.5% ATK @ Lv5; ~36.5%+ @ 5★
+Alvarez,Revolving Blades,Active (Physical),Standard star DMG tiers,Standard star DMG tiers,Standard star DMG tiers,Standard star DMG tiers,+270% bonus Physical DMG (5★ awaken),Yes,346.6% ATK single @ Lv13 (4★)
+Alvarez,Terror Blade,Active (CS Multi-hit),Standard star DMG tiers,Standard star DMG tiers,Standard star DMG tiers,Attacks scale to 20 hits,+120% bonus DMG (5★ awaken),Yes,10 hits × 43% ATK random; −5% DEF stack @ Lv12
+Alvarez,Identify Weakness,Passive,+3% Physical DMG dealt,+3% Physical DMG,+3% Physical DMG,+3% Physical DMG,+3% Physical DMG (5★ awaken),Yes,Base +23.6% Physical DMG @ Lv13
+Chakiss,Valiant Charge,Active (Physical),+20% bonus Physical DMG,+45% bonus Physical DMG,+70% bonus Physical DMG,+100% bonus Physical DMG,+150% bonus Physical DMG,Yes,297% ATK single @ Lv17
+Chakiss,Valiant Counterattack,Active (Row AoE),+20% bonus Physical DMG,+45% bonus Physical DMG,+70% bonus Physical DMG,+100% bonus Physical DMG,+150% bonus Physical DMG,Yes,249.4% ATK row AoE; −6% enemy ATK @ Lv14
+Chakiss,Shield Shock,Passive,+4% monster DMG reduction,+4% reduction,+4% reduction,+4% reduction,+4% reduction,Yes,Base −32.2% monster damage taken @ Lv14
+Valkyr,Battle Realm,Active (Physical),Standard star DMG tiers,Standard star DMG tiers,Standard star DMG tiers,Standard star DMG tiers,+270% bonus Physical DMG (5★ awaken),Yes,207% ATK single @ Lv10 (3★)
+Valkyr,Battle Mark,Passive,+1.5% damage reduction (front row),+1.5%,+1.5%,+1.5%,+1.5% (5★ awaken),Yes,Front-row −8% all dmg + −8% magic dmg @ Lv10
+Valkyr,Judgment,Active (Buff),Human allies +4% extra magic reduction,Human +8% extra,Human +12% extra,Human +16% extra,Duration → 2 turns (5★ awaken),Yes,All allies −13.3% magic dmg 1 turn @ Lv10
+Sparta,Demonic Sacrifice,Active (Physical),Standard star DMG tiers,Standard star DMG tiers,Standard star DMG tiers,Standard star DMG tiers,+270% bonus Physical DMG (5★ awaken),Yes,205% ATK single @ Lv10 (3★)
+Sparta,Scatter the Weak,Active (Taunt),Taunt 2 enemies, Taunt 3 enemies,Standard debuff tiers,Taunt 4 enemies,−2% more ATK reduction (5★ awaken),Yes,−11.5% enemy ATK 2 turns @ Lv10
+Sparta,Devil's Rage,Passive,−3% all damage taken,−3%,−3%,−3%,−3% (5★ awaken),Yes,Base −18% all damage @ Lv10; ~−33% @ 5★
+Belial,Malice Curse,Active (Execute),Standard star DMG tiers,Standard star DMG tiers,Standard star DMG tiers,Standard star DMG tiers,+270% bonus Physical DMG (5★ awaken),Yes,246.3% ATK to lowest-HP enemy @ Lv10
+Belial,Otherworld Distortion,Active (Multi-target),+30% bonus Physical DMG,+6% permanent ATK,+70% bonus Physical DMG,Standard tier,+120% bonus Physical DMG (5★ awaken),Yes,193.8% ATK to 3 random @ Lv10
+Belial,Endless Trepidation,Passive,+3% CRIT Rate,+3% CRIT,+3% CRIT,+3% CRIT,+3% CRIT (5★ awaken),Yes,Base +20% CRIT @ Lv10; ~35% @ 5★
+Mirana,Ceremony,Active (Physical),Standard star DMG tiers,Standard star DMG tiers,Standard star DMG tiers,Standard star DMG tiers,+270% bonus Physical DMG (5★ awaken),Yes,246.3% ATK single @ Lv10 (3★)
+Mirana,Resentful Chorus,Active (AoE),Standard star DMG tiers,Standard star DMG tiers,Standard star DMG tiers,Standard star DMG tiers,+270% bonus Physical DMG (5★ awaken),Yes,129.3% ATK to ALL enemies @ Lv10
+Mirana,Soul Drain,Passive,+3% Physical DMG dealt,+3%,+3%,+3%,+3% (5★ awaken),Yes,Base +20% Physical DMG @ Lv10; ~35% @ 5★
+Rexar,Frostlord's Throne,Active (Physical),Standard star DMG tiers,Standard star DMG tiers,Standard star DMG tiers,Standard star DMG tiers,+270% bonus Physical DMG (5★ awaken),Yes,204.4% ATK single @ Lv10 (3★)
+Rexar,Frostbite Touch,Active (Buff),Standard buff tiers,Standard buff tiers,Effect applies to all allies,Duration → 2 turns,+5% DEF (5★ awaken),Yes,+35% DEF front row @ Lv10; all allies at 3★
+Rexar,Eternal Frostlands,Passive,−3% all damage taken,−3%,−3%,−3%,−3% (5★ awaken),Yes,Base −18% all damage @ Lv10; ~−33% @ 5★

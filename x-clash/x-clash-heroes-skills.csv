@@ -1,23 +1,20 @@
 Hero Name,Skill Slot,Skill Name,Skill Type,Effect Summary (Max/Lv30 baseline),Scales With,Unlock Level,Star Gate,Data Source,Needs Screenshot Update
-Sera,Basic Attack,Bow Strike,Basic,Physical attack on single target,ATK,1,—,Community,Yes — fill % from your hero screen
-Sera,Skill 1,Arrow of Destiny,Active,Strikes 8 times; each hit ~121% physical DMG to random enemy,ATK / Penetration,1,—,Community estimate,Yes — verify exact % per level
-Sera,Skill 2,TBD,Active/Pasive,Check in-game hero detail screen,ATK,10,★,In-game,Yes
-Sera,Skill 3,TBD,Active/Pasive,Check in-game hero detail screen,ATK,20,★★,In-game,Yes
-Sera,Ultimate,TBD,Ultimate,Check in-game hero detail screen,ATK,30,★★★,In-game,Yes
+Sera,Skill 1,Arrow of Destiny,Active (CS Magic),"16 hits × 127% Magic DMG random (Lv33 MAX). +1 hit per Magic Amplification stack. 4★→16 hits; 5★: +120% bonus DMG.",ATK / Magic,33,★★★★★ (5★ = +120% DMG),User screenshot CP 3874489 @5★,No
+Sera,Skill 2,Arrow of the Butterfly,Active (Magic),"628.4% Magic DMG single (Lv32). On crit: 1–3 Magic Amplification stacks; limit = Forest allies on team. 5★: +270% bonus DMG.",ATK / CRIT / Magic,32,★★★★★ (5★ = +270% DMG),User screenshot @5★,No
+Sera,Skill 3,Shadow Sprite,Passive,"+30.4% Magic DMG dealt (Lv32→30.6%). Each star +3%. 5★: ~45%+ bonus (~75%+ total).",Magic DMG,32,★★★★★ (+3% per star),User screenshot @5★,No
+Sera,Skill 4,TBD,Active/Pasive,Level 1 — not yet invested,ATK,1,—,User screenshot,Yes
 Yord,Skill 1,Travel Invitation,Active (Buff),"All allies +14.55% ATK for 1 turn (Lv17→14.7%). 2★: +10% CRIT Rate; 4★: 2 turns; 5★: +2% ATK.",ATK / CRIT / Buff,17,★★★★★ (+2% ATK / +10% CRIT / 2 turns),User screenshot CP 2769428 @5★,No
 Yord,Skill 2,Lingering Echo,Passive,"+35 Speed; reduces damage to highest-ATK ally by 11% (Lv20). Each tier +2 Speed +1% reduction.",Speed / Buff,20,★★★★★ (4 tiers unlocked),User screenshot @5★,No
 Yord,Skill 3,Universal Chord,Active (Magic),"Magic DMG: 402.7% ATK (Lv17→410.8%) single enemy. 5★: +270% bonus Magic DMG.",ATK,17,★★★★★ (5★ = +270% DMG),User screenshot @5★,No
 Yord,Skill 4,TBD,Active/Pasive,Level 1 — not yet invested,ATK,1,—,User screenshot,Yes
-Dragonic,Basic Attack,TBD,Basic,Standard attack,ATK / HP,1,—,In-game,Yes
-Dragonic,Skill 1,TBD,Active,Tank skill — damage reduction / shield,HP / DMG Immune,1,—,Guide,Yes
-Dragonic,Skill 2,TBD,Active,Burst damage or self-sustain,ATK / HP,10,★,In-game,Yes
-Dragonic,Skill 3,TBD,Passive,Frontline durability passive,HP / DMG Immune,20,★★,Guide — prioritize DMG Immune + HP,Yes
-Dragonic,Ultimate,TBD,Ultimate,Tank ultimate,HP,30,★★★,In-game,Yes
-Monica,Basic Attack,TBD,Basic,Standard attack,ATK / Penetration,1,—,In-game,Yes
-Monica,Skill 1,TBD,Active,PvP: bypasses tanks to hit backline; WB: multi-target hits,ATK / Penetration,1,—,Van DeVaughn guide,Yes
-Monica,Skill 2,TBD,Active,Shadow/assassin damage skill,ATK,10,★,In-game,Yes
-Monica,Skill 3,TBD,Passive,Backline targeting enhancement,Penetration,20,★★,Guide,Yes
-Monica,Ultimate,TBD,Ultimate,High burst backline nuke,ATK,30,★★★,In-game,Yes
+Dragonic,Skill 1,Thunder Breath,Active,"Physical DMG: 461.8% ATK (Lv24→470%) single enemy. 5★: +270% bonus Physical DMG.",ATK,24,★★★★★ (5★ = +270% DMG),User screenshot CP 3609199 @5★,No
+Dragonic,Skill 2,Overload,Active (Buff),"−26.6% Physical DMG to front-row allies 1 turn (Lv22). 2★→2 turns; 4★→all allies; 5★: +2% more.",HP / Buff,22,★★★★★ (5★ = +2% reduction),User screenshot @5★,No
+Dragonic,Skill 3,Thunderous Wrath,Passive,"Front-row −16.4% all damage taken (Lv24→16.5%). Each star +2%. 5★: ~26%+ total reduction.",HP / DMG Immune,24,★★★★★ (+2% per star),User screenshot @5★,No
+Dragonic,Skill 4,TBD,Active/Pasive,Level 1 — not yet invested,ATK,1,—,User screenshot,Yes
+Monica,Skill 1,Desert Ember,Active (Magic),"555.2% Magic DMG single (Lv24); splashes to back-row if target is front row. 5★: +270% bonus Magic DMG.",ATK / Penetration,24,★★★★★ (5★ = +270% DMG),User screenshot CP 3221797 @5★,No
+Monica,Skill 2,Savage Swoop,Active (Magic),"3 hits × 348% Magic random (Lv22→354%). 2★→4 hits; 4★→5 hits; 5★: +120% bonus DMG.",ATK,22,★★★★★ (5★ = +120% DMG),User screenshot @5★,No
+Monica,Skill 3,Feline Fury,Passive,"+27.8% CRIT (Lv19→28%). Each star +3%. 5★: ~42.8%+ total CRIT.",CRIT,19,★★★★★ (+3% CRIT per star),User screenshot @5★,No
+Monica,Skill 4,TBD,Active/Pasive,Level 1 — not yet invested,ATK,1,—,User screenshot,Yes
 Sophia,Skill 1,Dragonhunt,Active (Magic),"Magic DMG: 170% ATK (Lv5) single enemy. 5★ unlock: +270% bonus Magic DMG.",ATK / Skill DMG,5,★★ (5★ = +270% DMG),User screenshot CP 2212015 @2★,No
 Sophia,Skill 2,Dragon's Waltz,Active (Magic),"Magic DMG: 156.2% ATK (Lv5) back-row priority; 10% Stun 1 turn. 2★→2 targets; 4★→3 targets; 5★: +120% bonus Magic DMG.",ATK / Control,5,★★ (5★ = +120% DMG),User screenshot @2★,No
 Sophia,Skill 3,Moonlit Ripples,Passive,"+20.5% ATK during battle (Lv5). Each star +4%. 5★: ~36.5%+ total ATK.",ATK,5,★★ (5★ = +4% ATK),User screenshot @2★,No

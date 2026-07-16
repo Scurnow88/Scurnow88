@@ -23,10 +23,10 @@ Pick heroes that **counter the enemy faction** when building arena and rally tea
 
 | Hero | Full Name | Faction | Role | Combat Identity |
 |------|-----------|---------|------|-----------------|
-| **Sera** | Sera, Bow of Tomorrow | Forest | DPS | Capable of dealing **massive multi-hit DMG**; best F2P day-1 pick *(skills pending)* |
-| **Dragonic** | Dragonic, Dragonborn | Forest | Tank | Capable of **taking a great deal of DMG**; free first altar hero *(skills pending)* |
+| **Sera** | Sera, Bow of Tomorrow | Forest | DPS | **16×127% magic hits** + Magic Amplification; 628% Butterfly crit skill ✅ |
+| **Dragonic** | Dragonic, Dragonborn | Forest | Tank | **−26% phys dmg** team buff + **462%** burst; front-row −26% damage taken ✅ |
 | **Yord** | Yord, Traveler of the Forest Sea | Forest | Buffer | **+14.55% ATK + CRIT buff** all allies; protects highest-ATK ally — **mandatory on every team** ✅ |
-| **Monica** | Monica, Shadowhunt | Forest | DPS | **Bypasses tanks**, nukes backline; best Forest DPS when maxed *(skills pending)* |
+| **Monica** | Monica, Shadowhunt | Forest | DPS | **555% magic + back-row splash**; Savage Swoop 5-hit random ✅ |
 | **Sophia** | Sophia, Spirit of Ripples | Human | DPS | **Back-row magic DPS** + Stun; Dragon's Waltz hits 3 targets at 4★ ✅ |
 | **Fenixia** | Fenixia, Fiery Plume | Human | DPS | **481% single + 254% AoE** magic; +42% CRIT; Flame Overload per Human ally ✅ |
 | **Daphne** | Daphne, Rose's Watch | Nightfall | DPS | **Best Nightfall DPS**; hard counter to Human teams *(skills pending)* |
@@ -37,7 +37,7 @@ Pick heroes that **counter the enemy faction** when building arena and rally tea
 | **Sparta** | Sparta, God Slayer | Nightfall | Tank/DPS | **Mechanic-heavy** hybrid; strong PvP, skip for World Boss |
 | **Rexar** | Rexar, Winter's Wrath | Forest | DPS | **Forest PvP specialist**; pairs with Dragonic |
 | **Alvarez** | Alvarez, Shadow of Exile | Nightfall | DPS | High burst shadow damage dealer |
-| **Belial** | Belial, Cursed Soul of the Dark | Nightfall | DPS | Cursed damage / debuff specialist |
+| **Belial** | Belial, Cursed Soul of the Dark Tome | Nightfall | DPS | **Lowest-HP execute** + 35% CRIT; Otherworld Distortion hits 3 random ✅ |
 | **Kataras** | Kataras, Demon Masked Asura | God* | DPS | Demon warrior burst damage |
 | **Mirana** | Mirana, Spectral Rakkhasa | Nightfall* | DPS | Spectral damage dealer |
 
@@ -59,7 +59,6 @@ Pick heroes that **counter the enemy faction** when building arena and rally tea
 | **Garuda** | Garuda, Dragonslayer | Human | DPS | Anti-beast burst DPS |
 | **Marissa** | Marissa, Spear of Revenge | Human | DPS | Revenge single-target DPS |
 | **Reina** | Reina, Enchanting Witch | Nightfall* | Support | Enchant/debuff support |
-| **Verna** | Verna, Starlit Princess | Forest | Support | World Boss debuff specialist |
 
 ---
 
@@ -167,11 +166,35 @@ Monica + Sera + Yord + Dragonic + Rexar
 
 ## Known Skill Details (Fill gaps from your screenshots)
 
-### Sera — Bow of Tomorrow
-| Skill | Effect (community data — verify in-game) |
-|-------|------------------------------------------|
-| **Arrow of Destiny** | Strikes **8 times**; each hit ~**121% physical DMG** to a random enemy |
-| Others | Fill from your hero screen |
+### Sera — Bow of Tomorrow *(verified @ CP 3,874,489, 5★)*
+
+| Skill | Lv | Effect |
+|-------|-----|--------|
+| **Arrow of Destiny** | 33 MAX | **16 hits × 127% Magic** random; +1 hit per **Magic Amplification** stack |
+| **Arrow of the Butterfly** | 32/33 | **628.4% Magic** single; crit → 1–3 Amplification stacks (limit = Forest allies) |
+| **Shadow Sprite** | 32/33 | **+30.4% Magic DMG** dealt (+3% per star) |
+
+**Role:** Core Forest magic DPS — more Forest allies = more Amplification stacks = more hits.
+
+### Dragonic — Dragonborn *(verified @ CP 3,609,199, 5★)*
+
+| Skill | Lv | Effect |
+|-------|-----|--------|
+| **Thunder Breath** | 24/30 | **461.8% Physical** single target |
+| **Overload** | 22/30 | **−26.6% Physical DMG** to allies; 4★ → **all allies**, 2 turns at 2★ |
+| **Thunderous Wrath** | 24/30 | Front-row **−16.4% all damage** (+2% per star) |
+
+**Role:** Forest tank-buffer — team physical protection + solid burst damage.
+
+### Monica — Shadowhunt *(verified @ CP 3,221,797, 5★)*
+
+| Skill | Lv | Effect |
+|-------|-----|--------|
+| **Desert Ember** | 24/30 | **555.2% Magic** single; **splashes to back-row** if target is front row |
+| **Savage Swoop** | 22/30 | **3–5 hits × 348% Magic** random (more hits at higher stars) |
+| **Feline Fury** | 19/30 | **+27.8% CRIT** (+3% per star) |
+
+**Role:** Premium Forest DPS — confirmed backline splash mechanic for PvP.
 
 ### Yord — Traveler of the Forest Sea *(verified @ CP 2,769,428, 5★)*
 
@@ -370,6 +393,9 @@ Monica + Sera + Yord + Dragonic + Rexar
 | Fenixia | ✅ Complete (3 skills) | User screenshots @ 5★ |
 | Yord | ✅ Complete (3 skills) | User screenshots @ 5★ |
 | Crystal | ✅ Complete (3 skills) | User screenshots @ 5★ |
+| Sera | ✅ Complete (3 skills) | User screenshots @ 5★ CP 3.87M |
+| Dragonic | ✅ Complete (3 skills) | User screenshots @ 5★ CP 3.61M |
+| Monica | ✅ Complete (3 skills) | User screenshots @ 5★ CP 3.22M |
 | *Remaining 18 heroes* | ⏳ Pending | Send skill screenshots |
 
 ---

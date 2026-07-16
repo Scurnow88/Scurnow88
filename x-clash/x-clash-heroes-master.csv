@@ -1,7 +1,7 @@
 Hero Name,Official Title,Overall Tier,Faction,Primary Role,Secondary Role,Row Position,Combat Identity,F2P or Spender,Upgrade Priority (1=Highest),Best Game Modes,Strong Against (Faction),Weak Against (Faction),Synergy Partners,Notes
 Alvarez,Shadow of Exile,S+,Nightfall,DPS,Debuffer,Back,Multi-hit physical DPS; DEF shred + self Physical DMG buff,Spender,8,PvP / PvE,Human,Forest,Belial / Daphne,Terror Blade scales hits with stars (10→20)
 Andrew,Knight of Death,S+,Human,Tank,Debuffer,Front,Anti-magic tank with debuffs; counters early Forest meta,F2P (Day 60),6,PvP / Defense,Forest,Nightfall,Dragonic,Free summon on server day 60
-Belial,Cursed Soul of the Dark,S+,Nightfall,DPS,Debuffer,Back,Cursed damage dealer; strong in Nightfall comps,Spender,9,PvP,Nightfall counters,Forest,Alvarez / Daphne,Verify faction in-game
+Belial,Cursed Soul of the Dark Tome,S+,Nightfall,DPS,Execute,Back,Lowest-HP execute + CRIT scaling; 35% CRIT at 5★,Spender,9,PvP,Human,Forest,Alvarez / Daphne,Malice Curse targets lowest HP enemy
 Crystal,Soul Ferrier,S+,Forest,Support,Buffer,Back,Buffs Forest backline; World Boss enabler,F2P/Epic,5,World Boss / PvE,—,—,Sera / Monica / Yord,Epic support; scales at 4★+
 Daphne,Rose's Watch,S+,Nightfall,DPS,—,Back,Best Nightfall DPS; hard counter to Human teams,Spender,3,PvP / Arena,Human,Forest,Monica / Sophia,Also called Rose's Wrath in some sources
 Dragonic,Dragonborn,S+,Forest,Tank,Burst DPS,Front,F2P starter tank; absorbs damage for backline,F2P,4,PvP / Campaign,—,—,Andrew / Rexar,First altar summon; pair with Andrew late

@@ -48,16 +48,14 @@ Verna,Skill 1,Whispers of the Stars,Active (CS),"Physical DMG: 683% ATK (Lv21→
 Verna,Skill 2,Astral Guardian,Passive,"+17.45% DMG to monsters (Lv23→17.6%). Team +53.45% Food/Iron/Gold after defeating monsters. Each star: +2% monster DMG +5% resources.",ATK / Resource,23,★★★★★ (+2% DMG +5% resources per star),User screenshot,No
 Verna,Skill 3,Dance of the Stars,Active,"Physical DMG: 331.2% ATK (Lv24→337%) to 2 random enemies. 5★: +150% bonus Physical DMG.",ATK,24,★★★★★ (+20/45/70/100/150%),User screenshot,No
 Verna,Skill 4,TBD,Active/Pasive,Level 1 — not yet invested,ATK,1,—,User screenshot,Yes
-Sparta,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
-Sparta,Skill 1,TBD,Active,Nightfall warrior damage (decent DMG),ATK,1,—,Official FB preview,Yes
-Sparta,Skill 2,TBD,Active,Mechanic-heavy tank/DPS skill,ATK / HP,10,★,Guide,Yes
-Sparta,Skill 3,TBD,Passive,Complex mechanic passive,Varies,20,★★,Guide — technical hero,Yes
-Sparta,Ultimate,TBD,Ultimate,PvP creative uses; skip for World Boss,ATK,30,★★★,Guide,Yes
-Valkyr,Basic Attack,TBD,Basic,Standard attack,ATK / HP,1,—,In-game,Yes
-Valkyr,Skill 1,Ultimate Spear,Active,Front-row burst damage consuming Judgment stacks,ATK,1,—,Official FB preview,Yes
-Valkyr,Skill 2,Shrine Shadow,Active/Pasive,Mark of Judgment stacking mechanic,ATK / Buff,10,★,Official FB preview,Yes
-Valkyr,Skill 3,Mark of Judgment,Passive,Judgment stack system for burst,Buff,20,★★,Official FB preview,Yes
-Valkyr,Ultimate,Unparalleled Domain,Ultimate,God warrior domain buff + burst,ATK / Buff,30,★★★,Official FB preview,Yes
+Sparta,Skill 1,Demonic Sacrifice,Active,"Physical DMG: 205% ATK (Lv10) single enemy. 5★ unlock: +270% bonus Physical DMG.",ATK,10,★★★ (5★ = +270% DMG),User screenshot CP 2391258 @3★,No
+Sparta,Skill 2,Scatter the Weak,Active,"Taunts 2 enemies; −11.5% ATK for 2 turns. 2★→3 targets; 4★→4 targets; 5★: −2% more ATK reduction.",ATK / Debuff / Taunt,10,★★★ (5★ = +2% ATK debuff),User screenshot @3★,No
+Sparta,Skill 3,Devil's Rage,Passive,"Reduces all damage taken by 18%. Each star +3%. 5★: −33% total damage reduction.",HP / DMG Immune,10,★★★ (5★ = +3% reduction),User screenshot @3★,No
+Sparta,Skill 4,TBD,Active/Pasive,Locked at 3★ — unlock on ascend,ATK,—,Ascend required,User screenshot,Yes
+Valkyr,Skill 1,Battle Realm,Active,"Physical DMG: 207% ATK (Lv10) single enemy. 5★ unlock: +270% bonus Physical DMG.",ATK,10,★★★ (5★ = +270% DMG),User screenshot CP 2535465 @3★,No
+Valkyr,Skill 2,Battle Mark,Passive,"Front-row: −8% all damage + −8% Magic DMG taken. Each star +1.5% reduction. 5★: ~15.5%+ total reduction.",HP / DMG Immune,10,★★★ (5★ = +1.5% reduction),User screenshot @3★,No
+Valkyr,Skill 3,Judgment,Active (Buff),"All allies −13.3% Magic DMG taken for 1 turn. Human heroes +4/8/12/16% extra. 5★: duration → 2 turns.",Buff / DMG Immune,10,★★★ (5★ = 2 turn duration),User screenshot @3★,No
+Valkyr,Skill 4,TBD,Active/Pasive,Locked at 3★ — unlock on ascend,ATK,—,Ascend required,User screenshot,Yes
 Rexar,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
 Rexar,Skill 1,TBD,Active,Winter/ice burst damage,ATK,1,—,Guide — Forest PvP duo,Yes
 Rexar,Skill 2,TBD,Active,Synergy skill with Dragonic,ATK,10,★,Guide,Yes
@@ -67,11 +65,10 @@ Alvarez,Skill 1,Revolving Blades,Active,"Physical DMG: 346.6% ATK (Lv13→354.3%
 Alvarez,Skill 2,Terror Blade,Active (CS),"10 hits × 43% ATK (Lv12→44.2%) random enemies; reduces DEF 5% (max 25%) for 2 turns. 5★: +120% DMG + attacks scale to 20 hits at 4★.",ATK / Debuff,12,★★★★ (5★ = +120% DMG),User screenshot,No
 Alvarez,Skill 3,Identify Weakness,Passive,"Increases Physical DMG dealt by 23.6% (Lv13→23.8%). Each star +3%. 5★ unlock: +3% more (~38%+ total).",ATK / Penetration,13,★★★★ (5★ = +3% phys DMG),User screenshot,No
 Alvarez,Skill 4,TBD,Active/Pasive,Level 1 — not yet invested,ATK,1,—,User screenshot,Yes
-Belial,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
-Belial,Skill 1,TBD,Active,Cursed soul damage,ATK,1,—,In-game,Yes
-Belial,Skill 2,TBD,Active,Dark curse debuff,ATK / Debuff,10,★,In-game,Yes
-Belial,Skill 3,TBD,Passive,Cursed passive,ATK,20,★★,In-game,Yes
-Belial,Ultimate,TBD,Ultimate,Cursed burst ultimate,ATK,30,★★★,In-game,Yes
+Belial,Skill 1,Malice Curse,Active,"Physical DMG: 246.3% ATK (Lv10) to lowest-HP enemy. 5★ unlock: +270% bonus Physical DMG.",ATK / Execute,10,★★★ (5★ = +270% DMG),User screenshot CP 2339655 @3★,No
+Belial,Skill 2,Otherworld Distortion,Active,"Physical DMG: 193.8% ATK (Lv10) to 3 random enemies. Stars: +30% DMG; +3/6% permanent ATK; +70/120% DMG.",ATK,10,★★★ (5★ = +120% DMG),User screenshot @3★,No
+Belial,Skill 3,Endless Trepidation,Passive,"+20% CRIT Rate during battle. Each star +3%. 5★: +35% total CRIT Rate.",CRIT,10,★★★ (5★ = +3% CRIT),User screenshot @3★,No
+Belial,Skill 4,TBD,Active/Pasive,Locked at 3★ — unlock on ascend,ATK,—,Ascend required,User screenshot,Yes
 Kataras,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
 Kataras,Skill 1,TBD,Active,Demon masked burst,ATK,1,—,In-game,Yes
 Kataras,Skill 2,TBD,Active,Asura damage skill,ATK,10,★,In-game,Yes

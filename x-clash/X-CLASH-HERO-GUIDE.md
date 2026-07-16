@@ -251,6 +251,36 @@ Monica + Sera + Yord + Dragonic + Rexar
 
 **Role:** PvE / monster tank-DPS — strong vs monsters, row AoE + ATK debuff.
 
+### Valkyr — Valiant Warrior *(verified @ CP 2,535,465, 3★)*
+
+| Skill | Lv | Effect (3★) | **5★ Awaken unlock** |
+|-------|-----|-------------|----------------------|
+| **Battle Realm** | 10/10 | **207% ATK** single target | **+270% bonus Physical DMG** |
+| **Battle Mark** | 10/10 | Front-row **−8%** all dmg + **−8%** magic dmg | **+1.5%** reduction (~15.5%+ total) |
+| **Judgment** | 10/10 | All allies **−13.3%** magic dmg (1 turn); Human +12% extra | **Duration → 2 turns** |
+
+**Role:** God faction front-row buffer-tank — protects front line; **Judgment** synergizes with Human teams (pairs with Andrew).
+
+### Sparta — God Slayer *(verified @ CP 2,391,258, 3★)*
+
+| Skill | Lv | Effect (3★) | **5★ Awaken unlock** |
+|-------|-----|-------------|----------------------|
+| **Demonic Sacrifice** | 10/10 | **205% ATK** single target | **+270% bonus Physical DMG** |
+| **Scatter the Weak** | 10/10 | **Taunt 3** enemies; **−11.5% ATK** (2 turns) | **−2%** more ATK reduction |
+| **Devil's Rage** | 10/10 | **−18%** all damage taken | **−3%** more (~**−33%** total) |
+
+**Role:** Nightfall taunt-tank — scales taunt to **4 targets** at 4★. Strong PvP; skip World Boss.
+
+### Belial — Cursed Soul of the Dark Tome *(verified @ CP 2,339,655, 3★)*
+
+| Skill | Lv | Effect (3★) | **5★ Awaken unlock** |
+|-------|-----|-------------|----------------------|
+| **Malice Curse** | 10/10 | **246.3% ATK** to **lowest-HP** enemy | **+270% bonus Physical DMG** |
+| **Otherworld Distortion** | 10/10 | **193.8% ATK** to **3 random**; +9% permanent ATK | **+120% bonus Physical DMG** |
+| **Endless Trepidation** | 10/10 | **+20% CRIT Rate** (+9% from stars) | **+3% CRIT** (~**35%** total) |
+
+**Role:** Execute-style Nightfall DPS — finishes low-HP targets; CRIT scales hard at 5★.
+
 ---
 
 ## Files in This Folder
@@ -278,7 +308,10 @@ Monica + Sera + Yord + Dragonic + Rexar
 | Verna | ✅ Complete (3 skills) | User screenshots |
 | Alvarez | ✅ Complete (3 skills) | User screenshots |
 | Chakiss | ✅ Complete (3 skills) | User screenshots |
-| *Remaining 27 heroes* | ⏳ Pending | Send skill screenshots |
+| Valkyr | ✅ Complete (3 skills) | User screenshots @ 3★ |
+| Sparta | ✅ Complete (3 skills) | User screenshots @ 3★ |
+| Belial | ✅ Complete (3 skills) | User screenshots @ 3★ |
+| *Remaining 24 heroes* | ⏳ Pending | Send skill screenshots |
 
 ---
 

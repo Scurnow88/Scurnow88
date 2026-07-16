@@ -23,16 +23,16 @@ Pick heroes that **counter the enemy faction** when building arena and rally tea
 
 | Hero | Full Name | Faction | Role | Combat Identity |
 |------|-----------|---------|------|-----------------|
-| **Sera** | Sera, Bow of Tomorrow | Forest | DPS | Capable of dealing **massive multi-hit DMG**; best F2P day-1 pick |
-| **Dragonic** | Dragonic, Dragonborn | Forest | Tank | Capable of **taking a great deal of DMG**; free first altar hero |
-| **Yord** | Yord, Traveler of the Forest Sea | Forest | Buffer | **Best general buffer**; mandatory for World Boss; fits every team |
-| **Monica** | Monica, Shadowhunt | Forest | DPS | **Bypasses tanks**, nukes backline; best Forest DPS when maxed |
-| **Sophia** | Sophia, Spirit of Ripples | Human | DPS | **Highest consistent single-target** skill damage |
-| **Fenixia** | Fenixia, Fiery Plume | Human | DPS | **World Boss queen**; crit burst (RNG-dependent) |
-| **Daphne** | Daphne, Rose's Watch | Nightfall | DPS | **Best Nightfall DPS**; hard counter to Human teams |
-| **Andrew** | Andrew, Knight of Death | Human | Tank | **Anti-magic tank** with debuffs; counters Forest meta (Day 60 free) |
-| **Crystal** | Crystal, Soul Ferrier | Forest | Support | **Buffs Forest backline**; World Boss enabler |
-| **Verna** | Verna, Starlit Princess | Forest | Support | **Increases World Boss damage taken**; boss specialist |
+| **Sera** | Sera, Bow of Tomorrow | Forest | DPS | Capable of dealing **massive multi-hit DMG**; best F2P day-1 pick *(skills pending)* |
+| **Dragonic** | Dragonic, Dragonborn | Forest | Tank | Capable of **taking a great deal of DMG**; free first altar hero *(skills pending)* |
+| **Yord** | Yord, Traveler of the Forest Sea | Forest | Buffer | **+14.55% ATK + CRIT buff** all allies; protects highest-ATK ally — **mandatory on every team** ✅ |
+| **Monica** | Monica, Shadowhunt | Forest | DPS | **Bypasses tanks**, nukes backline; best Forest DPS when maxed *(skills pending)* |
+| **Sophia** | Sophia, Spirit of Ripples | Human | DPS | **Back-row magic DPS** + Stun; Dragon's Waltz hits 3 targets at 4★ ✅ |
+| **Fenixia** | Fenixia, Fiery Plume | Human | DPS | **481% single + 254% AoE** magic; +42% CRIT; Flame Overload per Human ally ✅ |
+| **Daphne** | Daphne, Rose's Watch | Nightfall | DPS | **Best Nightfall DPS**; hard counter to Human teams *(skills pending)* |
+| **Andrew** | Andrew, Knight of Death | Human | Tank | **Anti-magic tank** — 33% magic reduction, AoE debuff; unlocks 3 Forest + 2 Human bonus ✅ |
+| **Crystal** | Crystal, Soul Ferrier | Forest | Support/DPS | **+25% monster DMG** to Forest backline; **1372% execute** on kill ✅ |
+| **Verna** | Verna, Starlit Princess | Forest | DPS/Support | **683% hit + 12% damage taken** debuff on monsters; +53% resource gains ✅ |
 | **Valkyr** | Valkyr, Valiant Warrior | God | Tank/Buffer | **Front-row buffer** with Judgment-stack burst damage |
 | **Sparta** | Sparta, God Slayer | Nightfall | Tank/DPS | **Mechanic-heavy** hybrid; strong PvP, skip for World Boss |
 | **Rexar** | Rexar, Winter's Wrath | Forest | DPS | **Forest PvP specialist**; pairs with Dragonic |

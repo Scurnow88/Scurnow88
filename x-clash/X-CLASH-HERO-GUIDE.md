@@ -341,7 +341,10 @@ Monica + Sera + Yord + Dragonic + Rexar
 | Valkyr | ✅ Complete (3 skills) | User screenshots @ 3★ |
 | Sparta | ✅ Complete (3 skills) | User screenshots @ 3★ |
 | Belial | ✅ Complete (3 skills) | User screenshots @ 3★ |
-| *Remaining 24 heroes* | ⏳ Pending | Send skill screenshots |
+| Mirana | ✅ Complete (3 skills) | User screenshots @ 3★ |
+| Sophia | ✅ Complete (3 skills) | User screenshots @ 2★ |
+| Rexar | ✅ Complete (3 skills) | User screenshots @ 3★ |
+| *Remaining 21 heroes* | ⏳ Pending | Send skill screenshots |
 
 ---
 

@@ -55,11 +55,10 @@ Valkyr,Skill 1,Battle Realm,Active,"Physical DMG: 207% ATK (Lv10) single enemy. 
 Valkyr,Skill 2,Battle Mark,Passive,"Front-row: −8% all damage + −8% Magic DMG taken. Each star +1.5% reduction. 5★: ~15.5%+ total reduction.",HP / DMG Immune,10,★★★ (5★ = +1.5% reduction),User screenshot @3★,No
 Valkyr,Skill 3,Judgment,Active (Buff),"All allies −13.3% Magic DMG taken for 1 turn. Human heroes +4/8/12/16% extra. 5★: duration → 2 turns.",Buff / DMG Immune,10,★★★ (5★ = 2 turn duration),User screenshot @3★,No
 Valkyr,Skill 4,TBD,Active/Pasive,Locked at 3★ — unlock on ascend,ATK,—,Ascend required,User screenshot,Yes
-Rexar,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
-Rexar,Skill 1,TBD,Active,Winter/ice burst damage,ATK,1,—,Guide — Forest PvP duo,Yes
-Rexar,Skill 2,TBD,Active,Synergy skill with Dragonic,ATK,10,★,Guide,Yes
-Rexar,Skill 3,TBD,Passive,Forest faction bonus passive,ATK,20,★★,In-game,Yes
-Rexar,Ultimate,TBD,Ultimate,Forest PvP burst ultimate,ATK,30,★★★,In-game,Yes
+Rexar,Skill 1,Frostlord's Throne,Active,"Physical DMG: 204.4% ATK (Lv10) single enemy. 5★ unlock: +270% bonus Physical DMG.",ATK,10,★★★ (5★ = +270% DMG),User screenshot CP 2613293 @3★,No
+Rexar,Skill 2,Frostbite Touch,Active (Buff),"+35% DEF to front row 1 turn (Lv10). 3★→all allies; 4★→2 turns; 5★: +5% DEF.",HP / Buff,10,★★★ (5★ = +5% DEF),User screenshot @3★,No
+Rexar,Skill 3,Eternal Frostlands,Passive,"Reduces all damage taken by 18%. Each star +3%. 5★: −33% total damage reduction.",HP / DMG Immune,10,★★★ (5★ = +3% reduction),User screenshot @3★,No
+Rexar,Skill 4,TBD,Active/Pasive,Locked at 3★ — unlock on ascend,ATK,—,Ascend required,User screenshot,Yes
 Alvarez,Skill 1,Revolving Blades,Active,"Physical DMG: 346.6% ATK (Lv13→354.3%) single enemy. 5★ unlock: +270% bonus Physical DMG.",ATK / Penetration,13,★★★★ (5★ = +270% DMG),User screenshot CP 2565568,No
 Alvarez,Skill 2,Terror Blade,Active (CS),"10 hits × 43% ATK (Lv12→44.2%) random enemies; reduces DEF 5% (max 25%) for 2 turns. 5★: +120% DMG + attacks scale to 20 hits at 4★.",ATK / Debuff,12,★★★★ (5★ = +120% DMG),User screenshot,No
 Alvarez,Skill 3,Identify Weakness,Passive,"Increases Physical DMG dealt by 23.6% (Lv13→23.8%). Each star +3%. 5★ unlock: +3% more (~38%+ total).",ATK / Penetration,13,★★★★ (5★ = +3% phys DMG),User screenshot,No

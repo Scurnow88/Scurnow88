@@ -281,6 +281,36 @@ Monica + Sera + Yord + Dragonic + Rexar
 
 **Role:** Execute-style Nightfall DPS — finishes low-HP targets; CRIT scales hard at 5★.
 
+### Mirana — Spectral Rakkhasa *(verified @ CP 2,230,237, 3★)*
+
+| Skill | Lv | Effect (3★) | **5★ Awaken unlock** |
+|-------|-----|-------------|----------------------|
+| **Ceremony** | 10/10 | **246.3% ATK** single target | **+270% bonus Physical DMG** |
+| **Resentful Chorus** | 10/10 | **129.3% ATK** to **all enemies** | **+270% bonus Physical DMG** |
+| **Soul Drain** | 10/10 | **+20% Physical DMG** dealt (+9% from stars) | **+3%** (~**35%** total) |
+
+**Role:** Nightfall AoE DPS — full-team physical damage; strong wave clear.
+
+### Sophia — Spirit of Ripples *(verified @ CP 2,212,015, 2★)*
+
+| Skill | Lv | Effect (2★) | **5★ Awaken unlock** |
+|-------|-----|-------------|----------------------|
+| **Dragonhunt** | 5/5 | **170% Magic DMG** single target | **+270% bonus Magic DMG** |
+| **Dragon's Waltz** | 5/5 | **156.2% Magic DMG** back-row; 10% Stun; **2 targets** | **+120% bonus Magic DMG** (3 targets at 4★) |
+| **Moonlit Ripples** | 5/5 | **+20.5% ATK** (+8% from stars) | **+4% ATK** (~**36.5%** total) |
+
+**Role:** S+ Human magic DPS — **back-row priority** + Stun; scales to **3 targets** at 4★. Top spender investment.
+
+### Rexar — Winter's Wrath *(verified @ CP 2,613,293, 3★)*
+
+| Skill | Lv | Effect (3★) | **5★ Awaken unlock** |
+|-------|-----|-------------|----------------------|
+| **Frostlord's Throne** | 10/10 | **204.4% ATK** single target | **+270% bonus Physical DMG** |
+| **Frostbite Touch** | 10/10 | **+35% DEF** to **all allies** (1 turn) | **+5% DEF** (2 turns at 4★) |
+| **Eternal Frostlands** | 10/10 | **−18%** all damage taken | **−3%** more (~**−33%** total) |
+
+**Role:** Forest tank-buffer — DEF buffs whole team at 3★; pairs with Dragonic for Forest PvP.
+
 ---
 
 ## Files in This Folder

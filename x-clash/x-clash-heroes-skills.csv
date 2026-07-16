@@ -19,11 +19,10 @@ Monica,Skill 1,TBD,Active,PvP: bypasses tanks to hit backline; WB: multi-target 
 Monica,Skill 2,TBD,Active,Shadow/assassin damage skill,ATK,10,★,In-game,Yes
 Monica,Skill 3,TBD,Passive,Backline targeting enhancement,Penetration,20,★★,Guide,Yes
 Monica,Ultimate,TBD,Ultimate,High burst backline nuke,ATK,30,★★★,In-game,Yes
-Sophia,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
-Sophia,Skill 1,TBD,Active,Highest single-target skill damage in game,ATK / Skill DMG,1,—,Van DeVaughn guide,Yes
-Sophia,Skill 2,TBD,Active,Ripple/water damage skill,ATK,10,★,In-game,Yes
-Sophia,Skill 3,TBD,Passive,Skill damage scaling passive,Skill DMG,20,★★,Guide,Yes
-Sophia,Ultimate,TBD,Ultimate,Massive single-target burst,ATK,30,★★★,In-game,Yes
+Sophia,Skill 1,Dragonhunt,Active (Magic),"Magic DMG: 170% ATK (Lv5) single enemy. 5★ unlock: +270% bonus Magic DMG.",ATK / Skill DMG,5,★★ (5★ = +270% DMG),User screenshot CP 2212015 @2★,No
+Sophia,Skill 2,Dragon's Waltz,Active (Magic),"Magic DMG: 156.2% ATK (Lv5) back-row priority; 10% Stun 1 turn. 2★→2 targets; 4★→3 targets; 5★: +120% bonus Magic DMG.",ATK / Control,5,★★ (5★ = +120% DMG),User screenshot @2★,No
+Sophia,Skill 3,Moonlit Ripples,Passive,"+20.5% ATK during battle (Lv5). Each star +4%. 5★: ~36.5%+ total ATK.",ATK,5,★★ (5★ = +4% ATK),User screenshot @2★,No
+Sophia,Skill 4,TBD,Active/Pasive,Locked at 2★ — unlock on ascend,ATK,—,Ascend required,User screenshot,Yes
 Fenixia,Basic Attack,TBD,Basic,Standard attack,ATK / CRIT,1,—,In-game,Yes
 Fenixia,Skill 1,TBD,Active,Crit-based burst damage; core World Boss skill,ATK / CRIT / CRIT DMG,1,—,Guide,Yes
 Fenixia,Skill 2,TBD,Active,Fire/plume AoE damage,ATK / CRIT,10,★,In-game,Yes

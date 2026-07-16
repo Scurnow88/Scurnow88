@@ -367,7 +367,10 @@ Monica + Sera + Yord + Dragonic + Rexar
 | Mirana | ✅ Complete (3 skills) | User screenshots @ 3★ |
 | Sophia | ✅ Complete (3 skills) | User screenshots @ 2★ |
 | Rexar | ✅ Complete (3 skills) | User screenshots @ 3★ |
-| *Remaining 21 heroes* | ⏳ Pending | Send skill screenshots |
+| Fenixia | ✅ Complete (3 skills) | User screenshots @ 5★ |
+| Yord | ✅ Complete (3 skills) | User screenshots @ 5★ |
+| Crystal | ✅ Complete (3 skills) | User screenshots @ 5★ |
+| *Remaining 18 heroes* | ⏳ Pending | Send skill screenshots |
 
 ---
 

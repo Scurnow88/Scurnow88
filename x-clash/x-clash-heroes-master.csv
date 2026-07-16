@@ -5,7 +5,7 @@ Belial,Cursed Soul of the Dark Tome,S+,Nightfall,DPS,Execute,Back,Lowest-HP exec
 Crystal,Soul Ferrier,S+,Forest,Support,DPS (WB),Back,Buffs back-row Forest monster DMG + execute nuke Shadowy Soul,F2P/Epic,5,World Boss / PvE,—,—,Sera / Verna / Yord,Soul Protection = core Forest backline buff
 Daphne,Rose's Watch,S+,Nightfall,DPS,—,Back,Best Nightfall DPS; hard counter to Human teams,Spender,3,PvP / Arena,Human,Forest,Monica / Sophia,Also called Rose's Wrath in some sources
 Dragonic,Dragonborn,S+,Forest,Tank,Burst DPS,Front,F2P starter tank; absorbs damage for backline,F2P,4,PvP / Campaign,—,—,Andrew / Rexar,First altar summon; pair with Andrew late
-Fenixia,Fiery Plume,S+,Human,DPS,—,Back,World Boss queen; crit-dependent burst damage,F2P (Lucky Spin),5,World Boss / PvE,Nightfall,Human counters,Yord / Crystal,Damage falls as enemies die in PvP
+Fenixia,Fiery Plume,S+,Human,DPS,—,Back,481% single + 254% AoE magic; Flame Overload stacks with Human allies,F2P (Lucky Spin),5,World Boss / PvE,Nightfall,Human counters,Yord / Crystal / Sophia,42%+ CRIT at 5★ via Fireborn
 Kataras,Demon Masked Asura,S+,God/Nightfall,DPS,—,Back,High burst demon warrior; premium damage,Spender,10,PvP,—,—,Belial / Mirana,Verify faction in-game
 Mirana,Spectral Rakkhasa,S+,Nightfall,DPS,—,Back,AoE physical DPS; Resentful Chorus hits all enemies,Spender,10,PvP / PvE,Human,Forest,Belial / Daphne,Soul Drain +35% Physical DMG at 5★
 Monica,Shadowhunt,S+,Forest,DPS,Assassin,Back,Bypasses tanks; hits backline; best Forest DPS when maxed,Spender,2,PvP / World Boss,Human,Human tanks,Sera / Yord / Rexar,Outshines Sera when fully invested
@@ -14,7 +14,7 @@ Sera,Bow of Tomorrow,S+,Forest,DPS,—,Back,Best F2P early DPS; massive multi-hi
 Sophia,Spirit of Ripples,S+,Human,DPS,Control,Back,Magic DPS; back-row targeting + Stun; Dragon's Waltz hits 3 at 4★,Spender,2,PvP / World Boss,Nightfall,Forest,Monica / Fenixia,@2★ in screenshots — high spender priority
 Sparta,God Slayer,S+,Nightfall,Tank,DPS,Front,Taunt + damage reduction tank; −33% DMG at 5★,Spender,6,PvP (technical),Human,—,Daphne,Scatter the Weak taunts up to 4 at 4★; skip World Boss
 Valkyr,Valiant Warrior,S+,God,Tank,Buffer,Front,Front-row protection + Human magic reduction; Judgment 2 turns at 5★,Spender,3,PvP / Rally,—,—,Andrew / Sophia,Battle Mark protects front row; pairs with Human comps
-Yord,Traveler of the Forest Sea,S+,Forest,Support,Buffer,Back,Best general buffer in game; mandatory for World Boss,F2P/Spender,1,ALL MODES (especially World Boss),—,—,Sera / Fenixia / Monica,Fits every team; non-negotiable investment
+Yord,Traveler of the Forest Sea,S+,Forest,Support,Buffer,Back,Travel Invitation buffs ATK+CRIT; Lingering Echo protects top DPS,F2P/Spender,1,ALL MODES (especially World Boss),—,—,Sera / Fenixia / Monica,4★ Travel Invitation = 2 turn duration
 Aaron,Howling Wolf King,S,Beastkins,DPS,—,Back,Wolf-themed burst DPS,A/B tier filler,12,PvE / Filler,—,—,—,Lower investment priority
 Ali,Electric Boxer,S,Human,DPS,—,Front,Electric melee DPS,F2P/Epic,11,PvE / Arena,Forest,—,—,Solid epic; invest one of Chakiss/Edric instead per guides
 Chakiss,Dragon Warrior,S,Human,DPS,Tank (PvE),Front,Row AoE + monster damage reduction; PvE filler,F2P/Epic,9,PvE / Monsters,Forest,—,Andrew,Invest one of Chakiss or Edric—not both early

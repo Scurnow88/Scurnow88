@@ -44,11 +44,10 @@ Crystal,Skill 1,TBD,Active,Buffs Forest backline allies (% scales with stars),AT
 Crystal,Skill 2,TBD,Active,Support/heal or buff skill,ATK,10,★,In-game,Yes
 Crystal,Skill 3,TBD,Passive,Backline buff passive,Buff,20,★★,Guide,Yes
 Crystal,Ultimate,TBD,Ultimate,Team Forest support ultimate,Buff,30,★★★,In-game,Yes
-Verna,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
-Verna,Skill 1,TBD,Active,Increases damage World Boss takes (unique boss debuff),Debuff,1,—,Van DeVaughn guide,Yes — critical for WB teams
-Verna,Skill 2,TBD,Active,Starlit support skill,ATK,10,★,In-game,Yes
-Verna,Skill 3,TBD,Passive,Boss damage amplification passive,Debuff,20,★★,Guide,Yes
-Verna,Ultimate,TBD,Ultimate,Boss debuff ultimate,Debuff,30,★★★,In-game,Yes
+Verna,Skill 1,Whispers of the Stars,Active (CS),"Physical DMG: 683% ATK (Lv21→696%) to random enemy. If target is monster: +12% all damage taken for 2 turns. 5★: +150% bonus Physical DMG.",ATK / Debuff,21,★★★★★ (+20/45/70/100/150%),User screenshot CP 2328133,No
+Verna,Skill 2,Astral Guardian,Passive,"+17.45% DMG to monsters (Lv23→17.6%). Team +53.45% Food/Iron/Gold after defeating monsters. Each star: +2% monster DMG +5% resources.",ATK / Resource,23,★★★★★ (+2% DMG +5% resources per star),User screenshot,No
+Verna,Skill 3,Dance of the Stars,Active,"Physical DMG: 331.2% ATK (Lv24→337%) to 2 random enemies. 5★: +150% bonus Physical DMG.",ATK,24,★★★★★ (+20/45/70/100/150%),User screenshot,No
+Verna,Skill 4,TBD,Active/Pasive,Level 1 — not yet invested,ATK,1,—,User screenshot,Yes
 Sparta,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
 Sparta,Skill 1,TBD,Active,Nightfall warrior damage (decent DMG),ATK,1,—,Official FB preview,Yes
 Sparta,Skill 2,TBD,Active,Mechanic-heavy tank/DPS skill,ATK / HP,10,★,Guide,Yes
@@ -64,11 +63,10 @@ Rexar,Skill 1,TBD,Active,Winter/ice burst damage,ATK,1,—,Guide — Forest PvP 
 Rexar,Skill 2,TBD,Active,Synergy skill with Dragonic,ATK,10,★,Guide,Yes
 Rexar,Skill 3,TBD,Passive,Forest faction bonus passive,ATK,20,★★,In-game,Yes
 Rexar,Ultimate,TBD,Ultimate,Forest PvP burst ultimate,ATK,30,★★★,In-game,Yes
-Alvarez,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
-Alvarez,Skill 1,TBD,Active,Shadow/exile burst damage,ATK / Penetration,1,—,In-game,Yes
-Alvarez,Skill 2,TBD,Active,Exile shadow skill,ATK,10,★,In-game,Yes
-Alvarez,Skill 3,TBD,Passive,Shadow passive,ATK,20,★★,In-game,Yes
-Alvarez,Ultimate,TBD,Ultimate,High burst ultimate,ATK,30,★★★,In-game,Yes
+Alvarez,Skill 1,Revolving Blades,Active,"Physical DMG: 346.6% ATK (Lv13→354.3%) single enemy. 5★ unlock: +270% bonus Physical DMG.",ATK / Penetration,13,★★★★ (5★ = +270% DMG),User screenshot CP 2565568,No
+Alvarez,Skill 2,Terror Blade,Active (CS),"10 hits × 43% ATK (Lv12→44.2%) random enemies; reduces DEF 5% (max 25%) for 2 turns. 5★: +120% DMG + attacks scale to 20 hits at 4★.",ATK / Debuff,12,★★★★ (5★ = +120% DMG),User screenshot,No
+Alvarez,Skill 3,Identify Weakness,Passive,"Increases Physical DMG dealt by 23.6% (Lv13→23.8%). Each star +3%. 5★ unlock: +3% more (~38%+ total).",ATK / Penetration,13,★★★★ (5★ = +3% phys DMG),User screenshot,No
+Alvarez,Skill 4,TBD,Active/Pasive,Level 1 — not yet invested,ATK,1,—,User screenshot,Yes
 Belial,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
 Belial,Skill 1,TBD,Active,Cursed soul damage,ATK,1,—,In-game,Yes
 Belial,Skill 2,TBD,Active,Dark curse debuff,ATK / Debuff,10,★,In-game,Yes
@@ -84,11 +82,10 @@ Mirana,Skill 1,TBD,Active,Spectral rakkhasa damage,ATK,1,—,In-game,Yes
 Mirana,Skill 2,TBD,Active,Spectral support/damage,ATK,10,★,In-game,Yes
 Mirana,Skill 3,TBD,Passive,Spectral passive,ATK,20,★★,In-game,Yes
 Mirana,Ultimate,TBD,Ultimate,Rakkhasa ultimate,ATK,30,★★★,In-game,Yes
-Chakiss,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
-Chakiss,Skill 1,TBD,Active,Dragon warrior damage,ATK,1,—,In-game,Yes
-Chakiss,Skill 2,TBD,Active,Warrior skill,ATK,10,★,In-game,Yes
-Chakiss,Skill 3,TBD,Passive,Dragon passive,ATK,20,★★,In-game,Yes
-Chakiss,Ultimate,TBD,Ultimate,Dragon burst,ATK,30,★★★,In-game,Yes
+Chakiss,Skill 1,Valiant Charge,Active,"Physical DMG: 297% ATK (Lv17→303%) single enemy. 5★: +150% bonus Physical DMG.",ATK,17,★★★★★ (+20/45/70/100/150%),User screenshot CP 2407331,No
+Chakiss,Skill 2,Valiant Counterattack,Active,"Physical DMG: 249.4% ATK (Lv14→256.5%) to all enemies in a row; reduces ATK 6% for 1 turn. 5★: +150% bonus Physical DMG.",ATK / Debuff,14,★★★★★ (+20/45/70/100/150%),User screenshot,No
+Chakiss,Skill 3,Shield Shock,Passive,"Reduces monster damage taken by 32.2% (Lv14→32.5%). Each star +4% monster DMG reduction.",HP / DMG Immune,14,★★★★★ (+4% per star),User screenshot,No
+Chakiss,Skill 4,TBD,Active/Pasive,Level 1 — not yet invested,ATK,1,—,User screenshot,Yes
 Edric,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
 Edric,Skill 1,TBD,Active,Spore warrior damage,ATK,1,—,In-game,Yes
 Edric,Skill 2,TBD,Active,Spore skill,ATK,10,★,In-game,Yes

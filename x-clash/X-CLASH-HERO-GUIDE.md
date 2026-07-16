@@ -221,10 +221,35 @@ Monica + Sera + Yord + Dragonic + Rexar
 
 **Faction fit for your roster:** 3 Forest (Sera, Dragonic, Verna) + 2 Human (Andrew + your other Human) = **+10% HP/ATK/DEF** team bonus, plus Human **counters Forest** enemies (−20% damage taken).
 
-### Verna — Starlit Princess
-| Skill | Effect |
-|-------|--------|
-| Core | Skill that **increases damage the World Boss takes** |
+### Verna — Starlit Princess *(verified @ CP 2,328,133)*
+
+| Skill | Lv | Effect | 5★ bonus pattern |
+|-------|-----|--------|------------------|
+| **Whispers of the Stars** | 21/30 | **683% ATK** to random enemy; vs monsters **+12% damage taken** (2 turns) | +20/45/70/100/**150%** bonus DMG |
+| **Astral Guardian** | 23/30 | **+17.45% DMG to monsters**; team **+53.45%** Food/Iron/Gold after kills | +2% monster DMG +5% resources per star |
+| **Dance of the Stars** | 24/30 | **331.2% ATK** to **2 random** enemies | +20/45/70/100/**150%** bonus DMG |
+
+**Role:** World Boss / PvE specialist — monster damage amp + boss vulnerability debuff + resource farming.
+
+### Alvarez — Shadow of Exile *(verified @ CP 2,565,568, 4★)*
+
+| Skill | Lv | Effect (4★) | **5★ Awaken unlock** |
+|-------|-----|-------------|----------------------|
+| **Revolving Blades** | 13/20 | **346.6% ATK** single target | **+270% bonus Physical DMG** |
+| **Terror Blade** | 12/20 | **10 hits × 43% ATK** random; **−5% DEF** (max 25%) 2 turns | **+120% bonus DMG** (hits scale to 20 at 4★) |
+| **Identify Weakness** | 13/20 | **+23.6% Physical DMG** dealt | **+3% more** (~38%+ total) |
+
+**Role:** Physical DPS / DEF-shred — multi-hit random attacks + self damage buff.
+
+### Chakiss — Dragon Warrior *(verified @ CP 2,407,331)*
+
+| Skill | Lv | Effect | 5★ bonus pattern |
+|-------|-----|--------|------------------|
+| **Valiant Charge** | 17/30 | **297% ATK** single target | +20/45/70/100/**150%** bonus DMG |
+| **Valiant Counterattack** | 14/30 | **249.4% ATK** row AoE; **−6% enemy ATK** 1 turn | +20/45/70/100/**150%** bonus DMG |
+| **Shield Shock** | 14/30 | **−32.2% monster damage** taken | +4% monster reduction per star |
+
+**Role:** PvE / monster tank-DPS — strong vs monsters, row AoE + ATK debuff.
 
 ---
 
@@ -245,7 +270,17 @@ Monica + Sera + Yord + Dragonic + Rexar
 
 ---
 
-## What to Send Next (so we can complete skill numbers)
+## Verified Hero Data Progress
+
+| Hero | Status | Source |
+|------|--------|--------|
+| Andrew | ✅ Complete (3 skills) | User screenshots |
+| Verna | ✅ Complete (3 skills) | User screenshots |
+| Alvarez | ✅ Complete (3 skills) | User screenshots |
+| Chakiss | ✅ Complete (3 skills) | User screenshots |
+| *Remaining 27 heroes* | ⏳ Pending | Send skill screenshots |
+
+---
 
 When you share screenshots, include for each hero you own:
 1. Hero name + level + star rating

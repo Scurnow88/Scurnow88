@@ -208,6 +208,19 @@ Monica + Sera + Yord + Dragonic + Rexar
 |-------|--------|
 | Core | **Buffs Forest backline** (% scales with star level) |
 
+### Andrew — Knight of Death *(verified from your screenshots @ Lv140)*
+
+| Skill | Lv | Current Effect (4★) | **5★ Awaken Unlock** |
+|-------|-----|----------------------|----------------------|
+| **Ultimate Duel** | 15/20 | **361.2% ATK** Physical DMG to **single enemy** | **+270% bonus Physical DMG** |
+| **Despair's Backlash** | 13/20 | **78% ATK** Physical DMG to **all enemies** + reduce enemy Magic DMG dealt by **12.45%** | **+120% bonus Physical DMG** (AoE) |
+| **Ode to Darkness** | 13/20 | Passive: reduce **Magic DMG taken by 29.2%** (+4% per star unlocked) | **+4% Magic DMG reduction** (~33%+ total) |
+| Skill 4 | 1 | Not yet invested | Check in-game |
+
+**What 5★ means for Andrew:** You unlock three big combat spikes at once — **+270%** on his single-target nuke, **+120%** on his AoE anti-magic debuff, and another **+4%** magic damage reduction. He becomes a true **anti-magic tank** that also hurts back.
+
+**Faction fit for your roster:** 3 Forest (Sera, Dragonic, Verna) + 2 Human (Andrew + your other Human) = **+10% HP/ATK/DEF** team bonus, plus Human **counters Forest** enemies (−20% damage taken).
+
 ### Verna — Starlit Princess
 | Skill | Effect |
 |-------|--------|

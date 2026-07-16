@@ -34,11 +34,11 @@ Daphne,Skill 1,TBD,Active,Best Nightfall DPS skill; strong vs Human,ATK,1,—,Gu
 Daphne,Skill 2,TBD,Active,Rose/nightfall damage,ATK,10,★,In-game,Yes
 Daphne,Skill 3,TBD,Passive,Anti-Human faction bonus,ATK,20,★★,Guide,Yes
 Daphne,Ultimate,TBD,Ultimate,Nightfall burst; weak vs Forest teams,Ultimate DMG,30,★★★,Guide,Yes
-Andrew,Basic Attack,TBD,Basic,Standard attack,HP / ATK,1,—,In-game,Yes
-Andrew,Skill 1,TBD,Active,Debuff skill; anti-magic capabilities,HP / Debuff,1,—,Guide,Yes
-Andrew,Skill 2,TBD,Active,Tank mitigation / counter Forest,HP / DMG Immune,10,★,Guide,Yes
-Andrew,Skill 3,TBD,Passive,Anti-magic passive,DMG Immune,20,★★,Guide,Yes
-Andrew,Ultimate,TBD,Ultimate,Frontline protection ultimate,HP,30,★★★,In-game,Yes
+Andrew,Basic Attack,TBD,Basic,Standard spear attack,ATK,1,—,In-game,Yes
+Andrew,Skill 1,Ultimate Duel,Active,"Single-target Physical DMG: 361.2% ATK (Lv15; scales to 368.9% next). 5★ unlock: +270% bonus Physical DMG on this skill.",ATK / Penetration,15,★★★★ (5★ = +270% DMG),User screenshot Lv140,No
+Andrew,Skill 2,Despair's Backlash,Active (AoE),"Physical DMG to ALL enemies: 78% ATK (Lv13). Reduces enemy Magic DMG dealt by 12.45%. 5★ unlock: +120% bonus Physical DMG.",ATK / Debuff,13,★★★★ (5★ = +120% AoE DMG),User screenshot Lv140,No
+Andrew,Skill 3,Ode to Darkness,Passive,"Reduces Magic DMG taken by 29.2% (Lv13). Each star adds +4% Magic DMG reduction. 5★ unlock: +4% more (≈33%+ total magic reduction).",HP / DMG Immune,13,★★★★ (5★ = +4% magic reduction),User screenshot Lv140,No
+Andrew,Skill 4,TBD,Active/Pasive,Level 1 — not yet invested; check in-game for name/effect,HP,1,—,User screenshot,Yes
 Crystal,Basic Attack,TBD,Basic,Standard attack,ATK,1,—,In-game,Yes
 Crystal,Skill 1,TBD,Active,Buffs Forest backline allies (% scales with stars),ATK / Buff,1,—,Van DeVaughn guide,Yes — note % at 1★/4★/max
 Crystal,Skill 2,TBD,Active,Support/heal or buff skill,ATK,10,★,In-game,Yes

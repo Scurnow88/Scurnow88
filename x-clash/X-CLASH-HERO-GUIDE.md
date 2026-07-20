@@ -69,7 +69,7 @@ Pick heroes that **counter the enemy faction** when building arena and rally tea
 |------|-----------|---------|------|-----------------|
 | **Harold** | Tekken Chief | Human | DPS (Physical) | **156% Ruthless Fist** + **143%** 2-target ✅ *(3 skills)* |
 | **Moga** | Garlic Samurai | Forest | DPS (Physical) | **236% Log Toss** + **160%** 2-target Log Power ✅ |
-| **Romano** | Holy Inquisitor | Nightfall | DPS (Physical) | **158% Cleanse Heresy** + **145%** 2-target ✅ *(3 skills)* |
+| **Romano** | Holy Inquisitor | Nightfall | DPS (Physical) | **158% Cleanse Heresy** + **145% Piercing Fists (CS)** ✅ *(3 skills; innate name pending)* |
 | **Torun** | Berserk Axe | Forest | DPS (Physical) | **156% Berserk Axe** + **150%** 2-target ✅ *(3 skills)* |
 
 ---
@@ -379,8 +379,8 @@ Monica + Sera + Yord + Dragonic + Rexar
 
 | Status | Count | Heroes |
 |--------|-------|--------|
-| ✅ **Complete** | **31/31** | All heroes verified — Edric dmg skill added; Romano, Harold, Torun confirmed 3-skill kits |
-| ⏳ **Partial** | **0/31** | — |
+| ✅ **Complete** | **30/31** | All heroes verified — Edric dmg skill added; Harold & Torun confirmed 3-skill kits |
+| ⏳ **Partial** | **1/31** | Romano innate skill name (HP/ATK/DEF +5% confirmed from roster icon) |
 
 **Source:** [Google Drive folder](https://drive.google.com/drive/folders/1c-1VQk8gCxEjVDPTN7oQ44K3dMGGatlO) — 120 screenshots + Xyland s39 PDF.
 

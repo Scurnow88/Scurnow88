@@ -58,7 +58,7 @@ Pick heroes that **counter the enemy faction** when building arena and rally tea
 | **Aaron** | Howling Wolf King | Forest | Support / DPS | **126% Magic** + front-row **−11% monster** dmg ✅ |
 | **Ali** | Electric Boxer | Human | DPS (Physical) | **4×76% Piercing Fists** multi-hit ✅ |
 | **Cthylla** | Deep Terror | Nightfall | DPS (Magic) | **161% Soul Trial** + **2-target Soul Bash** DEF shred ✅ |
-| **Edric** | Spore Warrior | Forest | Tank | **+80% DEF** + **−28% monster** dmg *(1 dmg skill pending)* ⏳ |
+| **Edric** | Spore Warrior | Forest | Tank | **211% Savoir Faire** + **+80% DEF** + **−28% monster** dmg ✅ |
 | **Faerie** | Merciful Tree Spirit | Forest | DPS (Physical) | **+169% ATK** passive; **210%** 2-target punishment ✅ |
 
 ---
@@ -67,10 +67,10 @@ Pick heroes that **counter the enemy faction** when building arena and rally tea
 
 | Hero | Full Name | Faction | Role | Combat Identity |
 |------|-----------|---------|------|-----------------|
-| **Harold** | Tekken Chief | Human | DPS (Physical) | **156% Ruthless Fist** + **143%** 2-target *(CS skill pending)* ⏳ |
+| **Harold** | Tekken Chief | Human | DPS (Physical) | **156% Ruthless Fist** + **143%** 2-target ✅ *(3 skills)* |
 | **Moga** | Garlic Samurai | Forest | DPS (Physical) | **236% Log Toss** + **160%** 2-target Log Power ✅ |
-| **Romano** | Holy Inquisitor | Nightfall | DPS (Physical) | **158% Cleanse Heresy** + **145%** 2-target *(CS skill pending)* ⏳ |
-| **Torun** | Berserk Axe | Forest | DPS (Physical) | **156% Berserk Axe** + **150%** 2-target *(1 skill pending)* ⏳ |
+| **Romano** | Holy Inquisitor | Nightfall | DPS (Physical) | **158% Cleanse Heresy** + **145%** 2-target ✅ *(3 skills)* |
+| **Torun** | Berserk Axe | Forest | DPS (Physical) | **156% Berserk Axe** + **150%** 2-target ✅ *(3 skills)* |
 
 ---
 
@@ -379,8 +379,8 @@ Monica + Sera + Yord + Dragonic + Rexar
 
 | Status | Count | Heroes |
 |--------|-------|--------|
-| ✅ **Complete** | **27/31** | All S+ heroes + Verna, Chakiss, Denise, Marissa, Garuda, Reina, Aaron, Ali, Cthylla, Faerie, Moga |
-| ⏳ **Partial** | **4/31** | Edric (1 dmg skill), Romano (CS skill), Harold (CS skill), Torun (1 skill) |
+| ✅ **Complete** | **31/31** | All heroes verified — Edric dmg skill added; Romano, Harold, Torun confirmed 3-skill kits |
+| ⏳ **Partial** | **0/31** | — |
 
 **Source:** [Google Drive folder](https://drive.google.com/drive/folders/1c-1VQk8gCxEjVDPTN7oQ44K3dMGGatlO) — 120 screenshots + Xyland s39 PDF.
 

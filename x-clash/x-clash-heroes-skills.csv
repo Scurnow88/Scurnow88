@@ -98,11 +98,9 @@ Cthylla,Skill 4,Harsh Discipline,Bond (4★),HP/ATK/DEF +10%.,Buff,Unlocks 4★,
 Harold,Skill 1,Ruthless Fist,Active,156% Physical single.,Physical,★1-5: +15/+30/+50/+75/+100%,Drive screenshot Jul 2026,No
 Harold,Skill 2,Emergency Restoration,Active,143.1% Physical to 2 enemies.,Physical,★1: +15%; ★2: 3 targets; ★3: +30%; ★4: +50%; ★5: +75%,Drive screenshot Jul 2026,No
 Harold,Skill 3,Fury Stance,Innate,HP/ATK/DEF +5%.,Buff,Innate,Drive screenshot Jul 2026,No
-Harold,Skill 4,TBD (CS),Active,CS skill visible in roster — description not captured.,Physical,Pending,Drive screenshot — icon only,Yes
 Torun,Skill 1,Berserk Axe,Active,156% Physical single.,Physical,★1-5: +15/+30/+50/+75/+100%,Drive screenshot Jul 2026,No
 Torun,Skill 2,Rising Wrath,Active,150.4% Physical to 2 enemies.,Physical,★1: +15%; ★2: 3 targets; ★3: +30%; ★4: +50%; ★5: +75%,Drive screenshot Jul 2026,No
 Torun,Skill 3,Triumphant Howl,Innate,HP/ATK/DEF +5%.,Buff,Innate,Drive screenshot Jul 2026,No
-Torun,Skill 4,TBD,Active,Skill icon visible — description not captured.,Physical,Pending,Drive screenshot — icon only,Yes
 Moga,Skill 1,Log Toss,Active,236.1% Physical single.,Physical,★1-5: +15/+30/+50/+75/+100%,Drive screenshot Jul 2026,No
 Moga,Skill 2,Log Power,Active (CS),160% Physical to 2 enemies.,Physical,★1: +15%; ★2: 3 targets; ★3: +30%; ★4: +50%; ★5: +75%,Drive screenshot Jul 2026,No
 Moga,Skill 3,Purifying Dew,Innate,HP/ATK/DEF +5%.,Buff,Innate,Drive screenshot Jul 2026,No
@@ -116,8 +114,7 @@ Faerie,Skill 3,Nature's Punishment,Active,209.8% Physical to 2 random.,Physical,
 Faerie,Skill 4,Primal Realm,Bond (4★),HP/ATK/DEF +10%.,Buff,Unlocks 4★,Drive screenshot Jul 2026,No
 Romano,Skill 1,Cleanse Heresy,Active,158.8% Physical single.,Physical,★1-5: +15/+30/+50/+75/+100%,Drive screenshot Jul 2026,No
 Romano,Skill 2,Piercing Fists,Active,144.9% Physical to 2 enemies.,Physical,★1: +15%; ★2: 3 targets; ★3: +30%; ★4: +50%; ★5: +75%,Drive screenshot Jul 2026,No
-Romano,Skill 3,TBD (CS),Active,CS skill visible — description not captured.,Physical,Pending,Drive screenshot — icon only,Yes
-Edric,Skill 1,TBD,Active,Damage skill visible (spear icon) — description not captured.,Physical,Pending,Drive screenshot — icon only,Yes
+Edric,Skill 1,Savoir Faire,Active,211% Physical single.,Physical,★1-5: +20/+45/+70/+100/+150%,Drive screenshot Jul 20 2026,No
 Edric,Skill 2,Longevity,Passive,+80% DEF during battle.,Buff,★1-5: +10% DEF per star,Drive screenshot Jul 2026,No
 Edric,Skill 3,Agility,Active (Buff),−28% monster damage taken 1 turn.,Buff,★1-3: +4%; ★4: 2 turns; ★5: +4%,Drive screenshot Jul 2026,No
 Edric,Skill 4,Strengthen,Innate,HP/ATK/DEF +10%.,Buff,Innate,Drive screenshot Jul 2026,No

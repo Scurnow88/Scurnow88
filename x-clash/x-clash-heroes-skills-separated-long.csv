@@ -1,0 +1,639 @@
+Hero,Official Title,Tier,Faction,Role,Skill Slot Label,Skill Description
+Harold,Tekken Chief,A,Human,DPS,Skill 1 (Basic Attack),"Ruthless Fist — Deals 156% Physical DMG to a single enemy.
+  ★1: +15% physical DMG
+  ★2: +30% physical DMG
+  ★3: +50% physical DMG
+  ★4: +75% physical DMG
+  ★5: +100% physical DMG
+  (★5 adds up to +100% bonus physical DMG on top of base skill scaling)"
+Harold,Tekken Chief,A,Human,DPS,Skill 2 (Active Skill),"Emergency Restoration — 143.1% Physical to 2 enemies.
+  ★1: +15%
+  ★2: 3 targets
+  ★3: +30%
+  ★4: +50%
+  ★5: +75%"
+Harold,Tekken Chief,A,Human,DPS,Skill 3 (Innate Passive),"Fury Stance — HP/ATK/DEF +5%.
+  Innate — max level 1/1, no star scaling."
+Moga,Garlic Samurai,A,Forest,DPS,Skill 1 (Basic Attack),"Log Toss — Deals 236.1% Physical DMG to a single enemy.
+  ★1: +15% physical DMG
+  ★2: +30% physical DMG
+  ★3: +50% physical DMG
+  ★4: +75% physical DMG
+  ★5: +100% physical DMG
+  (★5 adds up to +100% bonus physical DMG on top of base skill scaling)"
+Moga,Garlic Samurai,A,Forest,DPS,Skill 2 (Combat Skill / CS),"Log Power — 160% Physical to 2 enemies.
+  ★1: +15%
+  ★2: 3 targets
+  ★3: +30%
+  ★4: +50%
+  ★5: +75%"
+Moga,Garlic Samurai,A,Forest,DPS,Skill 3 (Innate Passive),"Purifying Dew — HP/ATK/DEF +5%.
+  Innate — max level 1/1, no star scaling."
+Romano,Holy Inquisitor,A,Nightfall,DPS,Skill 1 (Basic Attack),"Cleanse Heresy — Deals 158.8% Physical DMG to a single enemy.
+  ★1: +15% physical DMG
+  ★2: +30% physical DMG
+  ★3: +50% physical DMG
+  ★4: +75% physical DMG
+  ★5: +100% physical DMG
+  (★5 adds up to +100% bonus physical DMG on top of base skill scaling)"
+Romano,Holy Inquisitor,A,Nightfall,DPS,Skill 2 (Combat Skill / CS),"Piercing Fists — 144.9% Physical to 2 enemies.
+  ★1: +15%
+  ★2: 3 targets
+  ★3: +30%
+  ★4: +50%
+  ★5: +75%"
+Romano,Holy Inquisitor,A,Nightfall,DPS,Skill 3 (Innate Passive),"Unyielding Fortitude — HP/ATK/DEF +5%.
+  Innate — max level 1/1, no star scaling."
+Torun,Berserk Axe,A,Forest,DPS,Skill 1 (Basic Attack),"Berserk Axe — Deals 156% Physical DMG to a single enemy.
+  ★1: +15% physical DMG
+  ★2: +30% physical DMG
+  ★3: +50% physical DMG
+  ★4: +75% physical DMG
+  ★5: +100% physical DMG
+  (★5 adds up to +100% bonus physical DMG on top of base skill scaling)"
+Torun,Berserk Axe,A,Forest,DPS,Skill 2 (Active Skill),"Rising Wrath — 150.4% Physical to 2 enemies.
+  ★1: +15%
+  ★2: 3 targets
+  ★3: +30%
+  ★4: +50%
+  ★5: +75%"
+Torun,Berserk Axe,A,Forest,DPS,Skill 3 (Innate Passive),"Triumphant Howl — HP/ATK/DEF +5%.
+  Innate — max level 1/1, no star scaling."
+Aaron,Howling Wolf King,S,Forest,Support,Skill 1 (Basic Attack),"Mesmer Talon — Deals 126.7% Magic DMG to a single enemy.
+  ★1: +20% magic DMG
+  ★2: +45% magic DMG
+  ★3: +70% magic DMG
+  ★4: +100% magic DMG
+  ★5: +150% magic DMG
+  (★5 adds up to +150% bonus magic DMG on top of base skill scaling)"
+Aaron,Howling Wolf King,S,Forest,Support,Skill 2 (Passive/Battle Skill),"Lupine Nature — −21.5% monster damage taken.
+  ★1: +4% additional
+  ★2: +4% additional
+  ★3: +4% additional
+  ★4: +4% additional
+  ★5: (see in-game — often requires 5★ awaken)"
+Aaron,Howling Wolf King,S,Forest,Support,Skill 3 (Active Skill),"Scar of Misfortune — Front-row −11% monster damage 1 turn.
+  ★1-3: +2%
+  ★4: 2 turns
+  ★5: +2%"
+Aaron,Howling Wolf King,S,Forest,Support,Skill 4 (Bond / Awaken Passive),"Ravenous Pack — HP/ATK/DEF +10%.
+  Unlocks 4★ — bond passive unlock."
+Ali,Electric Boxer,S,Human,DPS,Skill 1 (Basic Attack),"Electric Punch — Deals 151.1% Physical DMG to a single enemy.
+  ★1: +20% physical DMG
+  ★2: +45% physical DMG
+  ★3: +70% physical DMG
+  ★4: +100% physical DMG
+  ★5: +150% physical DMG
+  (★5 adds up to +150% bonus physical DMG on top of base skill scaling)"
+Ali,Electric Boxer,S,Human,DPS,Skill 2 (Combat Skill / CS),"Piercing Fists — 4×76.7% Physical random.
+  ★1: +20%
+  ★2: 6 hits
+  ★3: +45%
+  ★4: 8 hits
+  ★5: +70%"
+Ali,Electric Boxer,S,Human,DPS,Skill 3 (Passive/Battle Skill),"Unstoppable War Drive — +19% ATK.
+  ★1: +3% additional
+  ★2: +3% additional
+  ★3: +3% additional
+  ★4: +3% additional
+  ★5: +3% additional
+  (★5: +15% total from stars on top of base effect)"
+Ali,Electric Boxer,S,Human,DPS,Skill 4 (Bond / Awaken Passive),"Unending Trials — HP/ATK/DEF +10%.
+  Unlocks 4★ — bond passive unlock."
+Chakiss,Dragon Warrior(ess),S,Nightfall,Tank,Skill 1 (Basic Attack),"Valiant Charge — Deals 297% Physical DMG to a single enemy.
+  ★1: +20% physical DMG
+  ★2: +45% physical DMG
+  ★3: +70% physical DMG
+  ★4: +100% physical DMG
+  ★5: +150% physical DMG
+  (★5 adds up to +150% bonus physical DMG on top of base skill scaling)"
+Chakiss,Dragon Warrior(ess),S,Nightfall,Tank,Skill 2 (Active Skill),"Valiant Counterattack — Deals 249.4% Physical row; −6% enemy ATK.
+  ★1: +20% physical DMG
+  ★2: +45% physical DMG
+  ★3: +70% physical DMG
+  ★4: +100% physical DMG
+  ★5: +150% physical DMG
+  (★5 adds up to +150% bonus physical DMG on top of base skill scaling)"
+Chakiss,Dragon Warrior(ess),S,Nightfall,Tank,Skill 3 (Passive/Battle Skill),"Shield Shock — −32.2% monster damage taken.
+  ★1: +4% DMG reduction
+  ★2: +4% DMG reduction
+  ★3: +4% DMG reduction
+  ★4: +4% DMG reduction
+  ★5: +4% DMG reduction
+  (★5: +20% total from stars on top of base effect)"
+Chakiss,Dragon Warrior(ess),S,Nightfall,Tank,Skill 4 (Innate Passive),"Draconic Bloodline — HP/ATK/DEF +10%.
+  Innate — max level 1/1, no star scaling."
+Cthylla,Deep Terror,S,Nightfall,DPS,Skill 1 (Basic Attack),"Soul Trial — Deals 161.3% Magic DMG to a single enemy.
+  ★1: +20% magic DMG
+  ★2: +45% magic DMG
+  ★3: +70% magic DMG
+  ★4: +100% magic DMG
+  ★5: +150% magic DMG
+  (★5 adds up to +150% bonus magic DMG on top of base skill scaling)"
+Cthylla,Deep Terror,S,Nightfall,DPS,Skill 2 (Passive/Battle Skill),"Tentacle Strike — +19% ATK.
+  ★1: +3% additional
+  ★2: +3% additional
+  ★3: +3% additional
+  ★4: +3% additional
+  ★5: +3% additional
+  (★5: +15% total from stars on top of base effect)"
+Cthylla,Deep Terror,S,Nightfall,DPS,Skill 3 (Combat Skill / CS),"Soul Bash — 113.3% Magic to 2 enemies; DEF debuff.
+  ★1: +20%
+  ★2: −10% DEF
+  ★3: +45%
+  ★4: −15% DEF
+  ★5: +70%"
+Cthylla,Deep Terror,S,Nightfall,DPS,Skill 4 (Bond / Awaken Passive),"Harsh Discipline — HP/ATK/DEF +10%.
+  Unlocks 4★ — bond passive unlock."
+Denise,Bard,S,Human,Support,Skill 1 (Basic Attack),"Mirror Play — Deals 143.2% Physical DMG to a single enemy.
+  ★1: +20% physical DMG
+  ★2: +45% physical DMG
+  ★3: +70% physical DMG
+  ★4: +100% physical DMG
+  ★5: +150% physical DMG
+  (★5 adds up to +150% bonus physical DMG on top of base skill scaling)"
+Denise,Bard,S,Human,Support,Skill 2 (Passive/Battle Skill),"Inspire — −21.8% monster damage taken.
+  ★1: +4% additional
+  ★2: +4% additional
+  ★3: +4% additional
+  ★4: +4% additional
+  ★5: (see in-game — often requires 5★ awaken)"
+Denise,Bard,S,Human,Support,Skill 3 (Active Skill),"Charming Song — Back-row +12% monster damage 1 turn.
+  ★1-3: +1%
+  ★4: 2 turns
+  ★5: +1%"
+Denise,Bard,S,Human,Support,Skill 4 (Bond / Awaken Passive),"One Last Song — HP/ATK/DEF +10%.
+  Unlocks 4★ — bond passive unlock."
+Edric,Spore Warrior,S,Forest,Tank,Skill 1 (Basic Attack),"Savoir Faire — Deals 211% Physical DMG to a single enemy.
+  ★1: +20% physical DMG
+  ★2: +45% physical DMG
+  ★3: +70% physical DMG
+  ★4: +100% physical DMG
+  ★5: +150% physical DMG
+  (★5 adds up to +150% bonus physical DMG on top of base skill scaling)"
+Edric,Spore Warrior,S,Forest,Tank,Skill 2 (Passive/Battle Skill),"Longevity — +80% DEF during battle.
+  ★1-5: +10% DEF per star"
+Edric,Spore Warrior,S,Forest,Tank,Skill 3 (Active Skill),"Agility — −28% monster damage taken 1 turn.
+  ★1-3: +4%
+  ★4: 2 turns
+  ★5: +4%"
+Edric,Spore Warrior,S,Forest,Tank,Skill 4 (Innate Passive),"Strengthen — HP/ATK/DEF +10%.
+  Innate — max level 1/1, no star scaling."
+Faerie,Merciful Tree Spirit,S,Forest,DPS,Skill 1 (Combat Skill / CS),"Nature's Awakening — Deals 173.6% Physical DMG to a single enemy.
+  ★1: +20% physical DMG
+  ★2: +45% physical DMG
+  ★3: +70% physical DMG
+  ★4: +100% physical DMG
+  ★5: +150% physical DMG
+  (★5 adds up to +150% bonus physical DMG on top of base skill scaling)"
+Faerie,Merciful Tree Spirit,S,Forest,DPS,Skill 2 (Passive/Battle Skill),"Unending Life — +169.6% ATK.
+  ★1: +3% additional
+  ★2: +3% additional
+  ★3: +3% additional
+  ★4: +3% additional
+  ★5: +3% additional
+  (★5: +15% total from stars on top of base effect)"
+Faerie,Merciful Tree Spirit,S,Forest,DPS,Skill 3 (Active Skill),"Nature's Punishment — 209.8% Physical to 2 random.
+  ★1: +20% physical DMG
+  ★2: +45% physical DMG
+  ★3: +70% physical DMG
+  ★4: +100% physical DMG
+  ★5: +150% physical DMG
+  (★5 adds up to +150% bonus physical DMG on top of base skill scaling)"
+Faerie,Merciful Tree Spirit,S,Forest,DPS,Skill 4 (Bond / Awaken Passive),"Primal Realm — HP/ATK/DEF +10%.
+  Unlocks 4★ — bond passive unlock."
+Garuda,Dragonslayer,S,Human,Tank,Skill 1 (Basic Attack),"Spear Rain — Deals 175.2% Magic DMG to a single enemy.
+  ★1: +20% magic DMG
+  ★2: +45% magic DMG
+  ★3: +70% magic DMG
+  ★4: +100% magic DMG
+  ★5: +150% magic DMG
+  (★5 adds up to +150% bonus magic DMG on top of base skill scaling)"
+Garuda,Dragonslayer,S,Human,Tank,Skill 2 (Passive/Battle Skill),"Energizing Lance — −27% monster damage taken.
+  ★1: +4% additional
+  ★2: +4% additional
+  ★3: +4% additional
+  ★4: +4% additional
+  ★5: (see in-game — often requires 5★ awaken)"
+Garuda,Dragonslayer,S,Human,Tank,Skill 3 (Active Skill),"War Instinct — +26% DEF front row 1 turn.
+  ★1-3: +4%
+  ★4: 2 turns
+  ★5: +4%"
+Garuda,Dragonslayer,S,Human,Tank,Skill 4 (Innate Passive),"Fervent Battle Soul — HP/ATK/DEF +10%.
+  Innate — max level 1/1, no star scaling."
+Marissa,Spear of Revenge,S,Nightfall,DPS,Skill 1 (Basic Attack),"Charge — Deals 425.3% Physical single; Stun chance.
+  ★1: +20%
+  ★2: 10% Stun
+  ★3: +45%
+  ★4: 20% Stun
+  ★5: +70%"
+Marissa,Spear of Revenge,S,Nightfall,DPS,Skill 2 (Passive/Battle Skill),"Triumphal Emblem — +27% monster damage dealt.
+  ★1: +4% additional
+  ★2: +4% additional
+  ★3: +4% additional
+  ★4: +4% additional
+  ★5: (see in-game — often requires 5★ awaken)"
+Marissa,Spear of Revenge,S,Nightfall,DPS,Skill 3 (Active Skill),"Absolute Precision — Deals 336% Physical DMG to a single enemy.
+  ★1: +20% physical DMG
+  ★2: +45% physical DMG
+  ★3: +70% physical DMG
+  ★4: +100% physical DMG
+  ★5: +150% physical DMG
+  (★5 adds up to +150% bonus physical DMG on top of base skill scaling)"
+Marissa,Spear of Revenge,S,Nightfall,DPS,Skill 4 (Innate Passive),"Ranged Deterrence — HP/ATK/DEF +10%.
+  Innate — max level 1/1, no star scaling."
+Reina,Enchanting Witch,S,Nightfall,DPS,Skill 1 (Basic Attack),"Explosive Demon — Deals 172.6% Physical DMG to a single enemy.
+  ★1: +20% physical DMG
+  ★2: +45% physical DMG
+  ★3: +70% physical DMG
+  ★4: +100% physical DMG
+  ★5: +150% physical DMG
+  (★5 adds up to +150% bonus physical DMG on top of base skill scaling)"
+Reina,Enchanting Witch,S,Nightfall,DPS,Skill 2 (Passive/Battle Skill),"Devil's Embrace — +23% monster damage dealt.
+  ★1: +4% additional
+  ★2: +4% additional
+  ★3: +4% additional
+  ★4: +4% additional
+  ★5: +4% additional
+  (★5: +20% total from stars on top of base effect)"
+Reina,Enchanting Witch,S,Nightfall,DPS,Skill 3 (Combat Skill / CS),"Demonic Sacrifice — 5×75.3% Physical random.
+  ★1: +20%
+  ★2: 7 hits
+  ★3: +45%
+  ★4: 9 hits
+  ★5: +70%"
+Reina,Enchanting Witch,S,Nightfall,DPS,Skill 4 (Bond / Awaken Passive),"Ward Evil — HP/ATK/DEF +10%.
+  Unlocks 4★ — bond passive unlock."
+Verna,Starlit Princess,S,Forest,DPS,Skill 1 (Combat Skill / CS),"Whispers of the Stars — Deals 683% Physical random; +12% dmg taken vs monsters.
+  ★1: +20% physical DMG
+  ★2: +45% physical DMG
+  ★3: +70% physical DMG
+  ★4: +100% physical DMG
+  ★5: +150% physical DMG
+  (★5 adds up to +150% bonus physical DMG on top of base skill scaling)"
+Verna,Starlit Princess,S,Forest,DPS,Skill 2 (Passive/Battle Skill),"Astral Guardian — +17.45% monster DMG; +53.45% resources after kills.
+  ★1: +2% DMG / +5% resources per star
+  ★2: +2% DMG / +5% resources per star
+  ★3: +2% DMG / +5% resources per star
+  ★4: +2% DMG / +5% resources per star
+  ★5: +2% DMG / +5% resources per star"
+Verna,Starlit Princess,S,Forest,DPS,Skill 3 (Active Skill),"Dance of the Stars — 331.2% Physical to 2 random.
+  ★1: +20% physical DMG
+  ★2: +45% physical DMG
+  ★3: +70% physical DMG
+  ★4: +100% physical DMG
+  ★5: +150% physical DMG
+  (★5 adds up to +150% bonus physical DMG on top of base skill scaling)"
+Verna,Starlit Princess,S,Forest,DPS,Skill 4 (Innate Passive),"Star Sigil Protection — HP/ATK/DEF +10%.
+  Innate — max level 1/1, no star scaling."
+Alvarez,Shadow of Exile,S+,Human,DPS,Skill 1 (Basic Attack),"Revolving Blades — Deals 620% Physical single (346.6% @ Lv13).
+  ★1: +30% physical DMG
+  ★2: +70% physical DMG
+  ★3: +120% physical DMG
+  ★4: +185% physical DMG
+  ★5: +270% physical DMG
+  (★5 adds up to +270% bonus physical DMG on top of base skill scaling)"
+Alvarez,Shadow of Exile,S+,Human,DPS,Skill 2 (Passive/Battle Skill),"Identify Weakness — +23.6% Physical DMG dealt.
+  ★1: +3% additional
+  ★2: +3% additional
+  ★3: +3% additional
+  ★4: +3% additional
+  ★5: +3% additional
+  (★5: +15% total from stars on top of base effect)"
+Alvarez,Shadow of Exile,S+,Human,DPS,Skill 3 (Combat Skill / CS),"Terror Blade — 10×43% Physical random; −5% DEF stack.
+  ★1: +30%
+  ★2: 15 hits
+  ★3: +70%
+  ★4: 20 hits
+  ★5: +120%"
+Alvarez,Shadow of Exile,S+,Human,DPS,Skill 4 (Bond / Awaken Passive),"Azure Dagger — HP/ATK/DEF +20%, Speed +40.
+  Passive, always active when unlocked — fixed bonus, no star scaling."
+Andrew,Knight of Death,S+,Human,Tank,Skill 1 (Basic Attack),"Ultimate Duel — Deals 619% Physical DMG to a single enemy.
+  ★1: +30% physical DMG
+  ★2: +70% physical DMG
+  ★3: +120% physical DMG
+  ★4: +185% physical DMG
+  ★5: +270% physical DMG
+  (★5 adds up to +270% bonus physical DMG on top of base skill scaling)"
+Andrew,Knight of Death,S+,Human,Tank,Skill 2 (Passive/Battle Skill),"Ode to Darkness — −40% Magic DMG taken.
+  ★1: +4% DMG reduction
+  ★2: +4% DMG reduction
+  ★3: +4% DMG reduction
+  ★4: +4% DMG reduction
+  ★5: +4% DMG reduction
+  (★5: +20% total from stars on top of base effect)"
+Andrew,Knight of Death,S+,Human,Tank,Skill 3 (Active Skill),"Despair's Backlash — Deals 144% Physical all enemies; −15% enemy Magic DMG dealt.
+  ★1: +30%
+  ★2: −3% debuff
+  ★3: +70%
+  ★4: −3%
+  ★5: +120%"
+Andrew,Knight of Death,S+,Human,Tank,Skill 4 (Bond / Awaken Passive),"Avenging Warsong — HP/ATK/DEF +20%, Speed +40.
+  Passive, always active when unlocked — fixed bonus, no star scaling."
+Belial,Cursed Soul of the Dark,S+,Nightfall,DPS,Skill 1 (Basic Attack),"Malice Curse — Deals 605% Physical lowest-HP.
+  ★1: +30% physical DMG
+  ★2: +70% physical DMG
+  ★3: +120% physical DMG
+  ★4: +185% physical DMG
+  ★5: +270% physical DMG
+  (★5 adds up to +270% bonus physical DMG on top of base skill scaling)"
+Belial,Cursed Soul of the Dark,S+,Nightfall,DPS,Skill 2 (Passive/Battle Skill),"Endless Trepidation — +30% CRIT.
+  ★1: +3% additional
+  ★2: +3% additional
+  ★3: +3% additional
+  ★4: +3% additional
+  ★5: +3% additional
+  (★5: +15% total from stars on top of base effect)"
+Belial,Cursed Soul of the Dark,S+,Nightfall,DPS,Skill 3 (Active Skill),"Otherworld Distortion — 399% Physical to 3 random.
+  ★1: +30%
+  ★2: +3% ATK
+  ★3: +70%
+  ★4: +6% ATK
+  ★5: +120%"
+Belial,Cursed Soul of the Dark,S+,Nightfall,DPS,Skill 4 (Bond / Awaken Passive),"Offering Grimoire — HP/ATK/DEF +20%, Speed +40.
+  Passive, always active when unlocked — fixed bonus, no star scaling."
+Crystal,Soul Ferrier,S+,Nightfall,DPS,Skill 1 (Basic Attack),"Ferry Soul — Deals 522.8% Physical DMG to a single enemy.
+  ★1: +30% physical DMG
+  ★2: +70% physical DMG
+  ★3: +120% physical DMG
+  ★4: +185% physical DMG
+  ★5: +270% physical DMG
+  (★5 adds up to +270% bonus physical DMG on top of base skill scaling)"
+Crystal,Soul Ferrier,S+,Nightfall,DPS,Skill 2 (Active Skill),"Shadowy Soul — Deals 1372.7% Physical; recast 50% on kill.
+  ★1: +30% physical DMG
+  ★2: +70% physical DMG
+  ★3: +120% physical DMG
+  ★4: +185% physical DMG
+  ★5: +270% physical DMG
+  (★5 adds up to +270% bonus physical DMG on top of base skill scaling)"
+Crystal,Soul Ferrier,S+,Nightfall,DPS,Skill 3 (Passive/Battle Skill),"Soul Protection — Back-row Forest +24.75% monster DMG.
+  ★1: +3% additional
+  ★2: +3% additional
+  ★3: +3% additional
+  ★4: +3% additional
+  ★5: +3% additional
+  (★5: +15% total from stars on top of base effect)"
+Crystal,Soul Ferrier,S+,Nightfall,DPS,Skill 4 (Bond / Awaken Passive),"Guiding Lamp — HP/ATK/DEF +20%, Speed +40.
+  Passive, always active when unlocked — fixed bonus, no star scaling."
+Daphne,Rose's Watch,S+,Nightfall,DPS,Skill 1 (Basic Attack),"Tragic Finale — Deals 605% Magic random.
+  ★1: +30% magic DMG
+  ★2: +70% magic DMG
+  ★3: +120% magic DMG
+  ★4: +185% magic DMG
+  ★5: +270% magic DMG
+  (★5 adds up to +270% bonus magic DMG on top of base skill scaling)"
+Daphne,Rose's Watch,S+,Nightfall,DPS,Skill 2 (Passive/Battle Skill),"Sweet Blade — +30% Magic DMG dealt.
+  ★1: +3% additional
+  ★2: +3% additional
+  ★3: +3% additional
+  ★4: +3% additional
+  ★5: +3% additional
+  (★5: +15% total from stars on top of base effect)"
+Daphne,Rose's Watch,S+,Nightfall,DPS,Skill 3 (Active Skill),"First Bloom — Deals 510% Magic back-row priority.
+  ★1: +30% magic DMG
+  ★2: +70% magic DMG
+  ★3: +120% magic DMG
+  ★4: +185% magic DMG
+  ★5: +270% magic DMG
+  (★5 adds up to +270% bonus magic DMG on top of base skill scaling)"
+Daphne,Rose's Watch,S+,Nightfall,DPS,Skill 4 (Bond / Awaken Passive),"Love Exchange — HP/ATK/DEF +20%, Speed +40.
+  Passive, always active when unlocked — fixed bonus, no star scaling."
+Dragonic,Dragonborn,S+,Forest,Tank,Skill 1 (Basic Attack),"Thunder Breath — Deals 511% ATK Physical DMG to a single enemy.
+  ★1: +30% physical DMG
+  ★2: +70% physical DMG
+  ★3: +120% physical DMG
+  ★4: +185% physical DMG
+  ★5: +270% physical DMG
+  (★5 adds up to +270% bonus physical DMG on top of base skill scaling)"
+Dragonic,Dragonborn,S+,Forest,Tank,Skill 2 (Passive/Battle Skill),"Thunderous Wrath — Front-row −17% all damage taken during battle.
+  ★1: −2% DMG reduction
+  ★2: −2% DMG reduction
+  ★3: −2% DMG reduction
+  ★4: −2% DMG reduction
+  ★5: −2% DMG reduction
+  (★5: −10% total from stars on top of base effect)"
+Dragonic,Dragonborn,S+,Forest,Tank,Skill 3 (Active Skill),"Overload — −29% physical DMG to front-row allies 1 turn.
+  ★1: −2%
+  ★2: 2 turns
+  ★3: −2%
+  ★4: all allies
+  ★5: −2%"
+Dragonic,Dragonborn,S+,Forest,Tank,Skill 4 (Bond / Awaken Passive),"Thunder Mark — HP/ATK/DEF +20%, Speed +40.
+  Passive, always active when unlocked — fixed bonus, no star scaling."
+Fenixia,Fiery Plume,S+,Human,DPS,Skill 1 (Basic Attack),"Incinerate — Deals 605% Magic single; Flame Overload per Human ally.
+  ★1: +30% magic DMG
+  ★2: +70% magic DMG
+  ★3: +120% magic DMG
+  ★4: +185% magic DMG
+  ★5: +270% magic DMG
+  (★5 adds up to +270% bonus magic DMG on top of base skill scaling)"
+Fenixia,Fiery Plume,S+,Human,DPS,Skill 2 (Passive/Battle Skill),"Fireborn — +30% CRIT.
+  ★1: +3% additional
+  ★2: +3% additional
+  ★3: +3% additional
+  ★4: +3% additional
+  ★5: +3% additional
+  (★5: +15% total from stars on top of base effect)"
+Fenixia,Fiery Plume,S+,Human,DPS,Skill 3 (Active Skill),"Flame Spiral — Deals 320% Magic all enemies.
+  ★1: +30% magic DMG
+  ★2: +70% magic DMG
+  ★3: +120% magic DMG
+  ★4: +185% magic DMG
+  ★5: +270% magic DMG
+  (★5 adds up to +270% bonus magic DMG on top of base skill scaling)"
+Fenixia,Fiery Plume,S+,Human,DPS,Skill 4 (Bond / Awaken Passive),"Phoenix Wing — HP/ATK/DEF +20%, Speed +40.
+  Passive, always active when unlocked — fixed bonus, no star scaling."
+Kataras,Demon Masked Asura,S+,Nightfall,Tank,Skill 1 (Basic Attack),"Frenzied Hellfire — Deals 516% Physical random.
+  ★1: +30% physical DMG
+  ★2: +70% physical DMG
+  ★3: +120% physical DMG
+  ★4: +185% physical DMG
+  ★5: +270% physical DMG
+  (★5 adds up to +270% bonus physical DMG on top of base skill scaling)"
+Kataras,Demon Masked Asura,S+,Nightfall,Tank,Skill 2 (Passive/Battle Skill),"Soul's End — Front-row −13% dmg; double in Counterattack Mode.
+  ★1: +1.5% DMG reduction
+  ★2: +1.5% DMG reduction
+  ★3: +1.5% DMG reduction
+  ★4: +1.5% DMG reduction
+  ★5: +1.5% DMG reduction
+  (★5: +7.5% total from stars on top of base effect)"
+Kataras,Demon Masked Asura,S+,Nightfall,Tank,Skill 3 (Active Skill),"Asura's Blade — Counterattack Mode: retaliate 130% basic-attack DMG.
+  ★1: +10% counter
+  ★2: 2 turns
+  ★3: +10%
+  ★4: front row mode
+  ★5: +10%"
+Kataras,Demon Masked Asura,S+,Nightfall,Tank,Skill 4 (Bond / Awaken Passive),"King's Advance — HP/ATK/DEF +20%, Speed +40.
+  Passive, always active when unlocked — fixed bonus, no star scaling."
+Mirana,Spectral Rakkhasa,S+,Nightfall,DPS,Skill 1 (Basic Attack),"Ceremony — Deals 605% Physical DMG to a single enemy.
+  ★1: +30% physical DMG
+  ★2: +70% physical DMG
+  ★3: +120% physical DMG
+  ★4: +185% physical DMG
+  ★5: +270% physical DMG
+  (★5 adds up to +270% bonus physical DMG on top of base skill scaling)"
+Mirana,Spectral Rakkhasa,S+,Nightfall,DPS,Skill 2 (Passive/Battle Skill),"Soul Drain — +30% Physical DMG dealt.
+  ★1: +3% additional
+  ★2: +3% additional
+  ★3: +3% additional
+  ★4: +3% additional
+  ★5: +3% additional
+  (★5: +15% total from stars on top of base effect)"
+Mirana,Spectral Rakkhasa,S+,Nightfall,DPS,Skill 3 (Active Skill),"Resentful Chorus — Deals 320% Physical all enemies.
+  ★1: +30% physical DMG
+  ★2: +70% physical DMG
+  ★3: +120% physical DMG
+  ★4: +185% physical DMG
+  ★5: +270% physical DMG
+  (★5 adds up to +270% bonus physical DMG on top of base skill scaling)"
+Mirana,Spectral Rakkhasa,S+,Nightfall,DPS,Skill 4 (Bond / Awaken Passive),"Despair — HP/ATK/DEF +20%, Speed +40.
+  Unlocks 4★ — bond passive unlock."
+Monica,Shadowhunt,S+,Forest,DPS,Skill 1 (Basic Attack),"Desert Ember — Deals 614% Magic single; splashes back-row if front target.
+  ★1: +30% magic DMG
+  ★2: +70% magic DMG
+  ★3: +120% magic DMG
+  ★4: +185% magic DMG
+  ★5: +270% magic DMG
+  (★5 adds up to +270% bonus magic DMG on top of base skill scaling)"
+Monica,Shadowhunt,S+,Forest,DPS,Skill 2 (Passive/Battle Skill),"Feline Fury — +30% CRIT.
+  ★1: +3% additional
+  ★2: +3% additional
+  ★3: +3% additional
+  ★4: +3% additional
+  ★5: +3% additional
+  (★5: +15% total from stars on top of base effect)"
+Monica,Shadowhunt,S+,Forest,DPS,Skill 3 (Active Skill),"Savage Swoop — 3×396% Magic random.
+  ★1: +30%
+  ★2: 4 hits
+  ★3: +70%
+  ★4: 5 hits
+  ★5: +120%"
+Monica,Shadowhunt,S+,Forest,DPS,Skill 4 (Bond / Awaken Passive),"Bestial Blessing — HP/ATK/DEF +20%, Speed +40.
+  Passive, always active when unlocked — fixed bonus, no star scaling."
+Rexar,Winter's Wrath,S+,Forest,Tank,Skill 1 (Basic Attack),"Frostlord's Throne — 503% ATK Physical DMG to a single enemy.
+  ★1: +30% physical DMG
+  ★2: +70% physical DMG
+  ★3: +120% physical DMG
+  ★4: +185% physical DMG
+  ★5: +270% physical DMG
+  (★5 adds up to +270% bonus physical DMG on top of base skill scaling)"
+Rexar,Winter's Wrath,S+,Forest,Tank,Skill 2 (Passive/Battle Skill),"Eternal Frostlands — −30% all damage taken.
+  ★1: −3% DMG reduction
+  ★2: −3% DMG reduction
+  ★3: −3% DMG reduction
+  ★4: −3% DMG reduction
+  ★5: −3% DMG reduction
+  (★5: −15% total from stars on top of base effect)"
+Rexar,Winter's Wrath,S+,Forest,Tank,Skill 3 (Active Skill),"Frostbite Touch — +50% DEF front row 1 turn.
+  ★1-2: +5% DEF
+  ★3: all allies
+  ★4: 2 turns
+  ★5: +5%"
+Rexar,Winter's Wrath,S+,Forest,Tank,Skill 4 (Bond / Awaken Passive),"Chilling Surge — HP/ATK/DEF +20%, Speed +40.
+  Unlocks 4★ — bond passive unlock."
+Sera,Bow of Tomorrow,S+,Forest,DPS,Skill 1 (Basic Attack),"Arrow of the Butterfly — Deals 609% Magic single; crit → Amplification stacks.
+  ★1: +30% magic DMG
+  ★2: +70% magic DMG
+  ★3: +120% magic DMG
+  ★4: +185% magic DMG
+  ★5: +270% magic DMG
+  (★5 adds up to +270% bonus magic DMG on top of base skill scaling)"
+Sera,Bow of Tomorrow,S+,Forest,DPS,Skill 2 (Passive/Battle Skill),"Shadow Sprite — +30% Magic DMG dealt.
+  ★1: +3% additional
+  ★2: +3% additional
+  ★3: +3% additional
+  ★4: +3% additional
+  ★5: +3% additional
+  (★5: +15% total from stars on top of base effect)"
+Sera,Bow of Tomorrow,S+,Forest,DPS,Skill 3 (Combat Skill / CS),"Arrow of Destiny — 8 hits×121% Magic random (+16 @4★); +1 hit per Amplification.
+  ★1: +30%
+  ★2: 12 hits
+  ★3: +70%
+  ★4: 16 hits
+  ★5: +120%"
+Sera,Bow of Tomorrow,S+,Forest,DPS,Skill 4 (Bond / Awaken Passive),"Darkness Vanquisher — HP/ATK/DEF +20%, Speed +40.
+  Passive, always active when unlocked — fixed bonus, no star scaling."
+Sophia,Spirit of Ripples,S+,Human,DPS,Skill 1 (Basic Attack),"Dragonhunt — Deals 620% Magic DMG to a single enemy.
+  ★1: +30% magic DMG
+  ★2: +70% magic DMG
+  ★3: +120% magic DMG
+  ★4: +185% magic DMG
+  ★5: +270% magic DMG
+  (★5 adds up to +270% bonus magic DMG on top of base skill scaling)"
+Sophia,Spirit of Ripples,S+,Human,DPS,Skill 2 (Passive/Battle Skill),"Moonlit Ripples — +40% ATK.
+  ★1: +4% additional
+  ★2: +4% additional
+  ★3: +4% additional
+  ★4: +4% additional
+  ★5: +4% additional
+  (★5: +20% total from stars on top of base effect)"
+Sophia,Spirit of Ripples,S+,Human,DPS,Skill 3 (Active Skill),"Dragon's Waltz — Deals 447% Magic back-row; 10% Stun.
+  ★1: +30%
+  ★2: 2 targets
+  ★3: +70%
+  ★4: 3 targets
+  ★5: +120%"
+Sophia,Spirit of Ripples,S+,Human,DPS,Skill 4 (Bond / Awaken Passive),"Nocturnal Brilliance — HP/ATK/DEF +20%, Speed +40.
+  Passive, always active when unlocked — fixed bonus, no star scaling."
+Sparta,God Slayer,S+,Nightfall,Tank,Skill 1 (Basic Attack),"Demonic Sacrifice — Deals 504% Physical DMG to a single enemy.
+  ★1: +30% physical DMG
+  ★2: +70% physical DMG
+  ★3: +120% physical DMG
+  ★4: +185% physical DMG
+  ★5: +270% physical DMG
+  (★5 adds up to +270% bonus physical DMG on top of base skill scaling)"
+Sparta,God Slayer,S+,Nightfall,Tank,Skill 2 (Passive/Battle Skill),"Devil's Rage — −30% all damage taken.
+  ★1: −3% DMG reduction
+  ★2: −3% DMG reduction
+  ★3: −3% DMG reduction
+  ★4: −3% DMG reduction
+  ★5: −3% DMG reduction
+  (★5: −15% total from stars on top of base effect)"
+Sparta,God Slayer,S+,Nightfall,Tank,Skill 3 (Active Skill),"Scatter the Weak — Taunt 2; −16.5% ATK 2 turns.
+  ★1: −2%
+  ★2: 3 targets
+  ★3: −2%
+  ★4: 4 targets
+  ★5: −2%"
+Sparta,God Slayer,S+,Nightfall,Tank,Skill 4 (Bond / Awaken Passive),"Demonic Edge — HP/ATK/DEF +20%, Speed +40.
+  Passive, always active when unlocked — fixed bonus, no star scaling."
+Valkyr,Valiant Warrior,S+,Human,Tank,Skill 1 (Basic Attack),"Battle Realm — Deals 516% Physical DMG to a single enemy.
+  ★1: +30% physical DMG
+  ★2: +70% physical DMG
+  ★3: +120% physical DMG
+  ★4: +185% physical DMG
+  ★5: +270% physical DMG
+  (★5 adds up to +270% bonus physical DMG on top of base skill scaling)"
+Valkyr,Valiant Warrior,S+,Human,Tank,Skill 2 (Passive/Battle Skill),"Battle Mark — Front-row −13% all dmg and −13% magic dmg.
+  ★1: +1.5% DMG reduction
+  ★2: +1.5% DMG reduction
+  ★3: +1.5% DMG reduction
+  ★4: +1.5% DMG reduction
+  ★5: +1.5% DMG reduction
+  (★5: +7.5% total from stars on top of base effect)"
+Valkyr,Valiant Warrior,S+,Human,Tank,Skill 3 (Active Skill),"Judgment — −19.9% Magic DMG all allies 1 turn; Human bonus.
+  ★1-4: Human +4/8/12/16%
+  ★5: 2 turns"
+Valkyr,Valiant Warrior,S+,Human,Tank,Skill 4 (Bond / Awaken Passive),"Bloodthirst — HP/ATK/DEF +20%, Speed +40.
+  Passive, always active when unlocked — fixed bonus, no star scaling."
+Yord,Traveler of the Forest Sea,S+,Forest,Support,Skill 1 (Basic Attack),"Universal Chord — Deals 508% Magic DMG to a single enemy.
+  ★1: +30% magic DMG
+  ★2: +70% magic DMG
+  ★3: +120% magic DMG
+  ★4: +185% magic DMG
+  ★5: +270% magic DMG
+  (★5 adds up to +270% bonus magic DMG on top of base skill scaling)"
+Yord,Traveler of the Forest Sea,S+,Forest,Support,Skill 2 (Passive/Battle Skill),"Lingering Echo — +45 Speed; −12% dmg to highest-ATK ally.
+  ★1: +2 Speed / −1% per star
+  ★2: +2 Speed / −1% per star
+  ★3: +2 Speed / −1% per star
+  ★4: +2 Speed / −1% per star
+  ★5: +2 Speed / −1% per star"
+Yord,Traveler of the Forest Sea,S+,Forest,Support,Skill 3 (Active Skill),"Travel Invitation — +16.5% ATK all allies 1 turn.
+  ★1: +2% ATK
+  ★2: +10% CRIT
+  ★3: +2%
+  ★4: 2 turns
+  ★5: +2%"
+Yord,Traveler of the Forest Sea,S+,Forest,Support,Skill 4 (Bond / Awaken Passive),"Safe Prelude — HP/ATK/DEF +20%, Speed +40.
+  Passive, always active when unlocked — fixed bonus, no star scaling."

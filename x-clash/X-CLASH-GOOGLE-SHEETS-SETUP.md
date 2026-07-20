@@ -16,13 +16,16 @@ Import these CSV files as **separate tabs** in one Google Sheet for a complete h
 | Tab Name | File | What It Contains |
 |----------|------|------------------|
 | **Profiles** | `x-clash-heroes-profiles.csv` | **Main sheet** — Hero, Tier, Faction, Role, Gear, Synergies, Rankings, all skills summary |
-| **Skills** | `x-clash-heroes-skills.csv` | Every skill row with ★1–★5 star gates |
+| **Skills (Separated)** | `x-clash-heroes-skills-separated.csv` | **Your format** — Skill 1–4 labels + full descriptions with ★1–★5 |
+| **Skills (Long)** | `x-clash-heroes-skills-separated-long.csv` | One row per skill (easier filtering) |
+| **Skills (Raw)** | `x-clash-heroes-skills.csv` | Compact skill database with star gates |
 | **Tier List** | `x-clash-heroes-full-tier-list.csv` | Your tier-list format (skill name + description per row) |
 | **Builds** | `x-clash-hero-builds.csv` | Artifacts, runes, substats, talents per hero |
 | **Mode Ratings** | `x-clash-hero-mode-ratings.csv` | PvP / WB / Campaign / Siege ratings per hero |
 | **Teams** | `x-clash-team-compositions.csv` | PvE, PvP, Boss comps + **your Team 1 & Team 2** |
 | **Rankings** | `x-clash-hero-rankings.csv` | Top DPS / Tank / Support ordered lists |
 | **Factions** | `x-clash-faction-reference.csv` | Forest / Human / Nightfall triangle + bonuses |
+| **Destiny Gear** | `x-clash-gear-destiny-set.csv` | Craftable Legendary set — Lv1–40 stats per piece |
 | **Stats** | `x-clash-heroes-stats.csv` | Lv.150 ATK/HP/DEF (S+ from PDF; S/A pending) |
 | **My Roster** | `x-clash-my-roster-template.csv` | **Your** heroes — fill in levels, stars, gear |
 
@@ -88,7 +91,9 @@ Replace `BRANCH` with `cursor/drive-hero-data-update-4d17`:
 
 ```
 https://raw.githubusercontent.com/Scurnow88/Scurnow88/BRANCH/x-clash/x-clash-heroes-profiles.csv
-https://raw.githubusercontent.com/Scurnow88/Scurnow88/BRANCH/x-clash/x-clash-heroes-skills.csv
+https://raw.githubusercontent.com/Scurnow88/Scurnow88/BRANCH/x-clash/x-clash-heroes-skills-separated.csv
+https://raw.githubusercontent.com/Scurnow88/Scurnow88/BRANCH/x-clash/x-clash-heroes-skills-separated-long.csv
+https://raw.githubusercontent.com/Scurnow88/Scurnow88/BRANCH/x-clash/x-clash-gear-destiny-set.csv
 https://raw.githubusercontent.com/Scurnow88/Scurnow88/BRANCH/x-clash/x-clash-heroes-full-tier-list.csv
 https://raw.githubusercontent.com/Scurnow88/Scurnow88/BRANCH/x-clash/x-clash-hero-builds.csv
 https://raw.githubusercontent.com/Scurnow88/Scurnow88/BRANCH/x-clash/x-clash-hero-mode-ratings.csv

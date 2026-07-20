@@ -360,7 +360,9 @@ Monica + Sera + Yord + Dragonic + Rexar
 |------|-----|
 | **`x-clash-heroes-profiles.csv`** | **Master Google Sheet** — gear, synergies, rankings, skills summary per hero |
 | **`X-CLASH-GOOGLE-SHEETS-SETUP.md`** | **Import guide** — tab layout + your Team 1/2 + download links |
-| **`x-clash-heroes-full-tier-list.csv`** | **Full 31-hero tier list** with all skills + ★1–★5 effects |
+| **`x-clash-heroes-skills-separated.csv`** | **Separated skills** — Skill 1–4 labels + ★1–★5 formatted descriptions |
+| **`x-clash-gear-destiny-set.csv`** | **Craftable Destiny gear** — Sword/Armour/Helmet/Greaves Lv1–40 |
+| **`X-CLASH-GEAR-GUIDE.md`** | Destiny gear vs Hero Clash artifacts explained |
 | `x-clash-heroes-skills.csv` | Every skill row with star gates (Skills tab) |
 | `x-clash-hero-builds.csv` | Artifacts, runes, substats, talents per hero |
 | `x-clash-hero-mode-ratings.csv` | PvP / WB / Campaign / Siege mode ratings |

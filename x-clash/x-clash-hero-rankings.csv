@@ -1,0 +1,40 @@
+Category,Rank,Hero,Reason
+Top DPS,1,Monica,614% single + back-row splash; 396%×5 multi-hit; +30% CRIT
+Top DPS,2,Sera,16-hit magic burst; Amplification scales with Forest allies; core F2P DPS
+Top DPS,3,Sophia,620% single + 447% back-row Stun; scales to 3 targets
+Top DPS,4,Fenixia,605% single + 320% AoE magic; Flame Overload per Human ally; +30% CRIT
+Top DPS,5,Daphne,605% random + 510% back-row priority; +30% magic dealt
+Top DPS,6,Crystal,1372% execute + Forest backline +24.75% monster DMG; WB enabler
+Top DPS,7,Alvarez,620% single + 20×85% Terror Blade DEF shred; +23.6% physical dealt
+Top DPS,8,Belial,605% lowest-HP execute; 399%×3 random; +30% CRIT
+Top DPS,9,Mirana,605% single + 320% AoE physical; +30% physical dealt
+Top DPS,10,Verna,683% hit + monster vuln debuff; +17% monster DMG; resource farming
+Top DPS,11,Faerie,+169% ATK passive; 210% 2-target punishment; Forest physical DPS
+Top DPS,12,Marissa,425% Charge + Stun; 336% Precision; +27% monster dmg
+Top DPS,13,Reina,5×75% multi-hit + +23% monster dmg dealt
+Top DPS,14,Aaron,126% magic + front-row −11% monster dmg
+Top DPS,15,Ali,4×76% Piercing Fists multi-hit; +19% ATK passive
+Top DPS,16,Cthylla,161% magic + Soul Bash DEF shred on 2 targets
+Top DPS,17,Harold,156% single + 143% 2-target; 3-skill budget DPS
+Top DPS,18,Moga,236% Log Toss + 160% 2-target; best A-tier Forest DPS
+Top DPS,19,Romano,158% Cleanse Heresy + 145% Piercing Fists (CS); +5% innate
+Top DPS,20,Torun,156% Berserk Axe + 150% 2-target; 3-skill budget DPS
+Top Support,1,Yord,Team ATK buff + protects highest-ATK ally; +Speed; fits every comp
+Top Support,3,Valkyr,Front-row −13% all + magic dmg; Judgment magic reduction for Humans
+Top Support,4,Crystal,1372% execute + Forest backline +24.75% monster DMG; WB enabler
+Top Support,5,Verna,683% hit + monster vuln debuff; +17% monster DMG; resource farming
+Top Support,6,Dragonic,511% burst + front-row damage reduction + physical Overload buff
+Top Support,7,Denise,Mirror Play + −21.8% monster dmg + back-row +12% monster buff
+Top Support,8,Faerie,+169% ATK passive; 210% 2-target punishment; Forest physical DPS
+Top Support,9,Garuda,175% magic + −27% monster dmg + +26% DEF front row
+Top Support,10,Reina,5×75% multi-hit + +23% monster dmg dealt
+Top Support,11,Aaron,126% magic + front-row −11% monster dmg
+Top Tank,2,Andrew,619% duel; −40% magic taken; 144% AoE anti-magic debuff
+Top Tank,3,Valkyr,Front-row −13% all + magic dmg; Judgment magic reduction for Humans
+Top Tank,4,Dragonic,511% burst + front-row damage reduction + physical Overload buff
+Top Tank,5,Sparta,Taunt 4 enemies; −30% damage taken; strong PvP control tank
+Top Tank,6,Rexar,−30% dmg taken; +50% DEF team buff; Forest tank-buffer
+Top Tank,7,Kataras,516% random + Counterattack Mode retaliate tank
+Top Tank,8,Chakiss,297% charge + row AoE; −32% monster damage taken
+Top Tank,9,Edric,211% Savoir Faire + +80% DEF + −28% monster dmg; Forest tank filler
+Top Tank,10,Garuda,175% magic + −27% monster dmg + +26% DEF front row

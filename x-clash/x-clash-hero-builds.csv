@@ -1,0 +1,32 @@
+Hero,Role,Primary Artifact,Secondary Artifact,Rune Set,Rune Primary Stat,Gear Priority Substats,Gemstones,Talent Priority (PvE),Talent Priority (PvP),Talent Priority (Boss),Notes
+Alvarez,DPS (Back),Cursed Book,Angelic Headband,Evolution,ATK or CRIT,ATK / CRIT / Skill DMG,Dove / Dragon / Soulgaze,Damage talents,Damage + CRIT,Boss damage,Cursed Book + Angelic Headband
+Andrew,Tank (Front),Eternal Cloak,Spirit Shield,Evolution,Health,HP / DMG Reduction / DEF,Dove / Dragon / Soulgaze,Survival talents,Survival talents,Survival talents,Eternal Cloak + Spirit Shield
+Belial,DPS (Back),Cursed Book,Angelic Headband,Evolution,ATK or CRIT,ATK / CRIT / Skill DMG,Dove / Dragon / Soulgaze,Damage talents,Damage + CRIT,Boss damage,Cursed Book + Angelic Headband
+Crystal,DPS (Back),Cursed Book,Angelic Headband,Evolution,ATK or CRIT,ATK / CRIT / Skill DMG,Dove / Dragon / Soulgaze,Damage talents,Damage + CRIT,Boss damage,Cursed Book or Devil's Heart + Angelic Headband
+Daphne,DPS (Back),Cursed Book,Angelic Headband,Evolution,ATK or CRIT,ATK / CRIT / Skill DMG,Dove / Dragon / Soulgaze,Damage talents,Damage + CRIT,Boss damage,Cursed Book + Angelic Headband
+Dragonic,Tank (Front),Eternal Cloak,Spirit Shield,Evolution,Health,HP / DMG Reduction / DEF,Dove / Dragon / Soulgaze,Survival talents,Survival talents,Survival talents,Eternal Cloak + Spirit Shield
+Fenixia,DPS (Back),Cursed Book,Angelic Headband,Evolution,ATK or CRIT,ATK / CRIT / Skill DMG,Dove / Dragon / Soulgaze,Damage talents,Damage + CRIT,Boss damage,Cursed Book + Angelic Headband
+Kataras,Tank (Front),Eternal Cloak,Spirit Shield,Evolution,Health,HP / DMG Reduction / DEF,Dove / Dragon / Soulgaze,Survival talents,Survival talents,Survival talents,Eternal Cloak + Spirit Shield
+Mirana,DPS (Back),Cursed Book,Angelic Headband,Evolution,ATK or CRIT,ATK / CRIT / Skill DMG,Dove / Dragon / Soulgaze,Damage talents,Damage + CRIT,Boss damage,Cursed Book + Angelic Headband
+Monica,DPS (Back),Cursed Book,Angelic Headband,Evolution,ATK or CRIT,ATK / CRIT / Skill DMG,Dove / Dragon / Soulgaze,Damage talents,Damage + CRIT,Boss damage,Angelic Headband + Eternal Cloak
+Rexar,Tank (Front),Eternal Cloak,Spirit Shield,Evolution,Health,HP / DMG Reduction / DEF,Dove / Dragon / Soulgaze,Survival talents,Survival talents,Survival talents,Eternal Cloak + Spirit Shield
+Sera,DPS (Back),Cursed Book,Angelic Headband,Evolution,ATK or CRIT,ATK / CRIT / Skill DMG,Dove / Dragon / Soulgaze,Damage talents,Damage + CRIT,Boss damage,Cursed Book + Angelic Headband
+Sophia,DPS (Back),Cursed Book,Angelic Headband,Evolution,ATK or CRIT,ATK / CRIT / Skill DMG,Dove / Dragon / Soulgaze,Damage talents,Damage + CRIT,Boss damage,Cursed Book + Angelic Headband
+Sparta,Tank (Front),Eternal Cloak,Spirit Shield,Evolution,Health,HP / DMG Reduction / DEF,Dove / Dragon / Soulgaze,Survival talents,Survival talents,Survival talents,Eternal Cloak + Spirit Shield
+Valkyr,Tank (Front),Eternal Cloak,Spirit Shield,Evolution,Health,HP / DMG Reduction / DEF,Dove / Dragon / Soulgaze,Survival talents,Survival talents,Survival talents,Spirit Shield + Devil's Heart
+Yord,Support (Front),Devil's Heart,Spirit Shield / Time Amulet,Evolution,Health,Health / Speed / Buff stats,Dove / Dragon / Soulgaze,Support talents,Support talents,Support talents,Devil's Heart + Spirit Shield
+Aaron,Support (Front),Devil's Heart,Spirit Shield / Time Amulet,Evolution,Health,Health / Speed / Buff stats,Dove / Dragon / Soulgaze,Support talents,Support talents,Support talents,Devil's Heart + Spirit Shield
+Ali,DPS (Front),Cursed Book,Angelic Headband,Evolution,ATK or CRIT,ATK / CRIT / Skill DMG,Dove / Dragon / Soulgaze,Damage talents,Damage + CRIT,Boss damage,Cursed Book + Angelic Headband
+Chakiss,Tank (Front),Eternal Cloak,Spirit Shield,Evolution,Health,HP / DMG Reduction / DEF,Dove / Dragon / Soulgaze,Survival talents,Survival talents,Survival talents,Eternal Cloak + Spirit Shield
+Cthylla,DPS (Back),Cursed Book,Angelic Headband,Evolution,ATK or CRIT,ATK / CRIT / Skill DMG,Dove / Dragon / Soulgaze,Damage talents,Damage + CRIT,Boss damage,Cursed Book + Angelic Headband
+Denise,Support (Front),Devil's Heart,Spirit Shield / Time Amulet,Evolution,Health,Health / Speed / Buff stats,Dove / Dragon / Soulgaze,Support talents,Support talents,Support talents,Devil's Heart + Time Amulet
+Edric,Tank (Front),Eternal Cloak,Spirit Shield,Evolution,Health,HP / DMG Reduction / DEF,Dove / Dragon / Soulgaze,Survival talents,Survival talents,Survival talents,Eternal Cloak + Spirit Shield
+Faerie,DPS (Back),Cursed Book,Angelic Headband,Evolution,ATK or CRIT,ATK / CRIT / Skill DMG,Dove / Dragon / Soulgaze,Damage talents,Damage + CRIT,Boss damage,Devil's Heart + Spirit Shield
+Garuda,Tank (Front),Eternal Cloak,Spirit Shield,Evolution,Health,HP / DMG Reduction / DEF,Dove / Dragon / Soulgaze,Survival talents,Survival talents,Survival talents,Eternal Cloak + Spirit Shield
+Marissa,DPS (Back),Cursed Book,Angelic Headband,Evolution,ATK or CRIT,ATK / CRIT / Skill DMG,Dove / Dragon / Soulgaze,Damage talents,Damage + CRIT,Boss damage,Cursed Book + Angelic Headband
+Reina,DPS (Back),Cursed Book,Angelic Headband,Evolution,ATK or CRIT,ATK / CRIT / Skill DMG,Dove / Dragon / Soulgaze,Damage talents,Damage + CRIT,Boss damage,Cursed Book + Angelic Headband
+Verna,DPS (Back),Cursed Book,Angelic Headband,Evolution,ATK or CRIT,ATK / CRIT / Skill DMG,Dove / Dragon / Soulgaze,Damage talents,Damage + CRIT,Boss damage,Cursed Book + Angelic Headband
+Harold,DPS (Front),Cursed Book,Angelic Headband,Evolution,ATK or CRIT,ATK / CRIT / Skill DMG,Dove / Dragon / Soulgaze,Damage talents,Damage + CRIT,Boss damage,Basic DPS gear if forced
+Moga,DPS (Front),Cursed Book,Angelic Headband,Evolution,ATK or CRIT,ATK / CRIT / Skill DMG,Dove / Dragon / Soulgaze,Damage talents,Damage + CRIT,Boss damage,Cursed Book + Angelic Headband
+Romano,DPS (Front),Cursed Book,Angelic Headband,Evolution,ATK or CRIT,ATK / CRIT / Skill DMG,Dove / Dragon / Soulgaze,Damage talents,Damage + CRIT,Boss damage,Basic DPS gear
+Torun,DPS (Front),Cursed Book,Angelic Headband,Evolution,ATK or CRIT,ATK / CRIT / Skill DMG,Dove / Dragon / Soulgaze,Damage talents,Damage + CRIT,Boss damage,Basic DPS gear

@@ -1,0 +1,89 @@
+X-Clash Heroes — Full Tier List (31 Heroes)
+"Tier = in-game rarity/power tier. Faction/Role from Xyland s39 raw stats doc, faction filter screenshots, and in-game skill screenshots."
+
+Hero,Official Title,Tier,Faction,Role,Dmg Type,Skill Name (max lv 30),Skill Description & ★1-5 Effects
+Alvarez,Shadow of Exile,S+,Human,DPS (Physical),Physical,Revolving Blades,Deals 620% ATK Physical DMG to a single enemy. | Star upgrades: ★1-5: +30/+70/+120/+185/+270% bonus Physical DMG
+,,,,,,Identify Weakness,Increases Physical DMG dealt by 30%. | Star upgrades: ★1-5: +3% Physical DMG per star (45% total @5★)
+,,,,,,Terror Blade,10 hits × 85% Physical DMG random; −5% DEF (max 25%) 2 turns. | Star upgrades: ★1: +30%; ★2: 15 hits; ★3: +70%; ★4: 20 hits; ★5: +120%
+,,,,,,Azure Dagger,"HP & ATK & DEF +20%, Speed +40. | Star upgrades: Fixed bond bonus"
+Andrew,Knight of Death,S+,Human,Tank,Physical,Ultimate Duel,Deals 619% of ATK as Physical DMG to a single enemy. | Star upgrades: ★1-5: +30/+70/+120/+185/+270% bonus Physical DMG
+,,,,,,Ode to Darkness,"During battle, reduces Magic DMG taken by 40%. | Star upgrades: ★1-5: +4% Magic DMG reduction per star (60% total @5★)"
+,,,,,,Despair's Backlash,Deals 144% ATK Physical DMG to all enemies; reduces their Magic DMG dealt by 15%. | Star upgrades: ★1: +30%; ★2: −3% more magic debuff; ★3: +70%; ★4: −3%; ★5: +120%
+,,,,,,Avenging Warsong,"HP & ATK & DEF +20%, Speed +40. | Star upgrades: Fixed bond bonus"
+Belial,Cursed Soul of the Dark,S+,Nightfall,DPS (Physical),Physical,Malice Curse,Deals 605% ATK Physical DMG to lowest-HP enemy. | Star upgrades: ★1-5: +30/+70/+120/+185/+270% bonus Physical DMG
+,,,,,,Endless Trepidation,Increases CRIT rate by 30%. | Star upgrades: ★1-5: +3% CRIT per star (45% total @5★)
+,,,,,,Otherworld Distortion,Deals 399% ATK Physical DMG to 3 random enemies. | Star upgrades: ★1: +30%; ★2: +3% permanent ATK; ★3: +70%; ★4: +6% ATK; ★5: +120%
+,,,,,,Offering Grimoire,"HP & ATK & DEF +20%, Speed +40. | Star upgrades: Fixed bond bonus"
+Crystal,Soul Ferrier,S+,Nightfall,DPS (Physical),Physical,Ferry Soul,Deals 522.8% ATK Physical DMG to a single enemy. | Star upgrades: ★1-5: +30/+70/+120/+185/+270% bonus Physical DMG
+,,,,,,Shadowy Soul,Deals 1372.7% ATK Physical DMG; recast at 50% DMG on kill. | Star upgrades: ★1-5: +30/+70/+120/+185/+270% bonus Physical DMG
+,,,,,,Soul Protection,Back-row Forest heroes +24.75% monster damage dealt. | Star upgrades: ★1-5: +3% monster DMG per star (~39.75% @5★)
+,,,,,,TBD,Not yet captured in screenshots. | Star upgrades: Pending
+Daphne,Rose's Watch / Rose's Wrath,S+,Nightfall,DPS (Magic),Magic,Tragic Finale,Deals 605% ATK Magic DMG to a random enemy. | Star upgrades: ★1-5: +30/+70/+120/+185/+270% bonus Magic DMG
+,,,,,,Sweet Blade,Increases Magic DMG dealt by 30%. | Star upgrades: ★1-5: +3% Magic DMG per star (45% total @5★)
+,,,,,,First Bloom,"Deals 510% ATK Magic DMG, prioritizing back-row enemies. | Star upgrades: ★1-5: +30/+70/+120/+185/+270% bonus Magic DMG"
+,,,,,,Love Exchange,"HP & ATK & DEF +20%, Speed +40. | Star upgrades: Fixed bond bonus"
+Dragonic,Dragonborn,S+,Forest,Tank,Physical,Thunder Breath,Deals 511% of ATK as Physical DMG to a single enemy. | Star upgrades: ★1-5: +30/+70/+120/+185/+270% bonus Physical DMG
+,,,,,,Thunderous Wrath,"During battle, reduces all damage taken by your front-row units by 17%. | Star upgrades: ★1-5: −2% all damage taken per star (27% total @5★)"
+,,,,,,Overload,Reduces physical DMG taken by front-row allies by 29% for 1 turn. | Star upgrades: ★1: −2% more; ★2: 2 turns; ★3: −2% more; ★4: all allies; ★5: −2% more
+,,,,,,Thunder Mark,"HP & ATK & DEF +20%, Speed +40. | Star upgrades: Fixed bond bonus"
+Fenixia,Fiery Plume,S+,Human,DPS (Magic),Magic,Incinerate,Deals 605% ATK Magic DMG to a single enemy; +2 Flame Overload per Human ally at battle start. | Star upgrades: ★1-5: +30/+70/+120/+185/+270% bonus Magic DMG
+,,,,,,Fireborn,Increases CRIT rate by 30%. | Star upgrades: ★1-5: +3% CRIT per star (45% total @5★)
+,,,,,,Flame Spiral,Deals 320% ATK Magic DMG to all enemies. | Star upgrades: ★1-5: +30/+70/+120/+185/+270% bonus Magic DMG
+,,,,,,Phoenix Wing,"HP & ATK & DEF +20%, Speed +40. | Star upgrades: Fixed bond bonus"
+Kataras,Demon Masked Asura,S+,Nightfall,Tank,Physical,Frenzied Hellfire,Deals 516% ATK Physical DMG to a random enemy. | Star upgrades: ★1-5: +30/+70/+120/+185/+270% bonus Physical DMG
+,,,,,,Soul's End,Front-row −13% all DMG taken; Nightfall heroes in Counterattack Mode gain double effect. | Star upgrades: ★1-5: +1.5% reduction per star
+,,,,,,Asura's Blade,Counterattack Mode 1 turn: retaliate 130% basic-attack DMG (max 1/turn). | Star upgrades: ★1: +10% counter DMG; ★2: 2 turns; ★3: +10%; ★4: front row also enters mode; ★5: +10%
+,,,,,,King's Advance,"HP & ATK & DEF +20%, Speed +40. | Star upgrades: Fixed bond bonus"
+Mirana,Spectral Rakkhasa,S+,Nightfall,DPS (Physical),Physical,Ceremony,Deals 605% ATK Physical DMG to a single enemy. | Star upgrades: ★1-5: +30/+70/+120/+185/+270% bonus Physical DMG
+,,,,,,Soul Drain,Increases Physical DMG dealt by 30%. | Star upgrades: ★1-5: +3% Physical DMG per star (45% total @5★)
+,,,,,,Resentful Chorus,Deals 320% ATK Physical DMG to all enemies. | Star upgrades: ★1-5: +30/+70/+120/+185/+270% bonus Physical DMG
+,,,,,,Despair,"HP & ATK & DEF +20%, Speed +40. | Star upgrades: Fixed bond bonus"
+Monica,Shadowhunt,S+,Forest,DPS (Magic),Magic,Desert Ember,Deals 614% Magic DMG to a single enemy; splashes to 1 back-row unit if target is front row. | Star upgrades: ★1-5: +30/+70/+120/+185/+270% bonus Magic DMG
+,,,,,,Feline Fury,"During battle, increases your CRIT by 30%. | Star upgrades: ★1-5: +3% CRIT per star (45% total @5★)"
+,,,,,,Savage Swoop,"Launches 3 attacks, each dealing 396% Magic DMG to a random enemy. | Star upgrades: ★1: +30%; ★2: 4 attacks; ★3: +70%; ★4: 5 attacks; ★5: +120%"
+,,,,,,Bestial Blessing,"HP & ATK & DEF +20%, Speed +40. | Star upgrades: Fixed bond bonus"
+Rexar,Winter's Wrath,S+,Forest,Tank,Physical,Frostlord's Throne,Deals 503% of ATK as Physical DMG to a single enemy. | Star upgrades: ★1-5: +30/+70/+120/+185/+270% bonus Physical DMG
+,,,,,,Eternal Frostlands,"During battle, reduces all damage taken by 30%. | Star upgrades: ★1-5: −3% per star (45% total @5★)"
+,,,,,,Frostbite Touch,Increases front-row allies' DEF by 50% for 1 turn. | Star upgrades: ★1-2: +5% DEF; ★3: all allies; ★4: 2 turns; ★5: +5% DEF
+,,,,,,Chilling Surge,"HP & ATK & DEF +20%, Speed +40. | Star upgrades: Fixed bond bonus"
+Sera,Bow of Tomorrow / Arrow of Tomorrow,S+,Forest,DPS (Magic),Magic,Arrow of the Butterfly,Deals 609% of ATK as Magic DMG to a single enemy. On crit: 1–3 Magic Amplification stacks. | Star upgrades: ★1-5: +30/+70/+120/+185/+270% bonus Magic DMG
+,,,,,,Shadow Sprite,"During battle, increases Magic DMG you deal by 30%. | Star upgrades: ★1-5: +3% Magic DMG per star (45% total @5★)"
+,,,,,,Arrow of Destiny,"Performs 8 attacks (16 @4★), each 121% Magic DMG to random enemy; +1 hit per Magic Amplification stack. | Star upgrades: ★1: +30%; ★2: 12 hits; ★3: +70%; ★4: 16 hits; ★5: +120%"
+,,,,,,Darkness Vanquisher,"HP & ATK & DEF +20%, Speed +40. | Star upgrades: Fixed bond bonus"
+Sophia,Spirit of Ripples,S+,Human,DPS (Magic),Magic,Dragonhunt,Deals 620% ATK Magic DMG to a single enemy. | Star upgrades: ★1-5: +30/+70/+120/+185/+270% bonus Magic DMG
+,,,,,,Moonlit Ripples,Increases ATK by 40%. | Star upgrades: ★1-5: +4% ATK per star (60% total @5★)
+,,,,,,Dragon's Waltz,Deals 447% ATK Magic DMG to back-row (10% Stun 1 turn). | Star upgrades: ★1: +30%; ★2: 2 targets; ★3: +70%; ★4: 3 targets; ★5: +120%
+,,,,,,Nocturnal Brilliance,"HP & ATK & DEF +20%, Speed +40. | Star upgrades: Fixed bond bonus"
+Sparta,God Slayer,S+,Nightfall,Tank,Physical,Demonic Sacrifice,Deals 504% ATK Physical DMG to a single enemy. | Star upgrades: ★1-5: +30/+70/+120/+185/+270% bonus Physical DMG
+,,,,,,Devil's Rage,Reduces all damage taken by 30%. | Star upgrades: ★1-5: −3% per star (45% total @5★)
+,,,,,,Scatter the Weak,Taunts 2 enemies; −16.5% ATK for 2 turns. | Star upgrades: ★1: −2% more; ★2: 3 targets; ★3: −2%; ★4: 4 targets; ★5: −2%
+,,,,,,Demonic Edge,"HP & ATK & DEF +20%, Speed +40. | Star upgrades: Fixed bond bonus"
+Valkyr,Valiant Warrior,S+,Human,Tank,Physical,Battle Realm,Deals 516% of ATK as Physical DMG to a single enemy. | Star upgrades: ★1-5: +30/+70/+120/+185/+270% bonus Physical DMG
+,,,,,,Battle Mark,Front-row: −13% all DMG taken and −13% Magic DMG taken. | Star upgrades: ★1-5: +1.5% reduction per star each
+,,,,,,Judgment,Reduces Magic DMG taken by all allies by 19.9% for 1 turn; Human heroes gain extra reduction. | Star upgrades: ★1-4: Human +4/8/12/16% extra; ★5: duration 2 turns
+,,,,,,Bloodthirst,"HP & ATK & DEF +20%, Speed +40. | Star upgrades: Fixed bond bonus"
+Yord,Traveler of the Forest Sea,S+,Forest,Support (Magic),Magic,Universal Chord,Deals 508% of ATK as Magic DMG to a single enemy. | Star upgrades: ★1-5: +30/+70/+120/+185/+270% bonus Magic DMG
+,,,,,,Lingering Echo,+45 Speed; reduces all damage taken by highest-ATK ally by 12%. | Star upgrades: ★1-5: +2 Speed and −1% dmg reduction per star
+,,,,,,Travel Invitation,Increases all allies' ATK by 16.5% for 1 turn. | Star upgrades: ★1: +2% ATK; ★2: +10% CRIT; ★3: +2% ATK; ★4: 2 turns; ★5: +2% ATK
+,,,,,,Safe Prelude,"HP & ATK & DEF +20%, Speed +40. | Star upgrades: Fixed bond bonus"
+Aaron,Howling Wolf King,S,Forest,DPS (Physical),Physical,TBD,Wolf king damage skill — pending screenshot | Star upgrades: Pending
+Ali,Electric Boxer,S,Human,DPS (Physical),Physical,TBD,Electric boxer combo — pending screenshot | Star upgrades: Pending
+Chakiss,Dragon Warrior(ess),S,Nightfall,Tank,Physical,Valiant Charge,Deals 297% ATK Physical DMG to a single enemy. | Star upgrades: ★1-5: +20/+45/+70/+100/+150% bonus Physical DMG
+,,,,,,Valiant Counterattack,249.4% Physical DMG to row; −6% enemy ATK 1 turn. | Star upgrades: ★1-5: +20/+45/+70/+100/+150% bonus Physical DMG
+,,,,,,Shield Shock,Reduces monster damage taken by 32.2%. | Star upgrades: ★1-5: +4% monster reduction per star
+,,,,,,Draconic Bloodline,HP & ATK & DEF +10%. | Star upgrades: Innate trait
+Cthylla,Deep Terror,S,Nightfall,DPS (Magic),Magic,TBD,Deep terror AoE — pending screenshot | Star upgrades: Pending
+Denise,Bard,S,Human,Support,Buff,TBD,Team Speed buff — pending screenshot | Star upgrades: Pending
+Edric,Spore Warrior,S,Forest,DPS / Debuff,Physical,TBD,Spore warrior damage/debuff — pending screenshot | Star upgrades: Pending
+Faerie,Merciful Tree Spirit,S,Forest,Support,Buff,TBD,Back-row DPS scaler/heal — pending screenshot | Star upgrades: Pending
+Garuda,Dragonslayer,S,Human,Tank / DPS,Physical,TBD,Front-row AoE + self heal — pending screenshot | Star upgrades: Pending
+Marissa,Spear of Revenge,S,Nightfall,DPS (Physical),Physical,TBD,Low-HP execute assassin — pending screenshot | Star upgrades: Pending
+Reina,Enchanting Witch,S,Nightfall,Support / Control,Magic,TBD,Disarm/enchant control — pending screenshot | Star upgrades: Pending
+Verna,Starlit Princess,S,Forest,DPS / Support (WB),Physical,Whispers of the Stars,683% Physical DMG random; vs monsters +12% damage taken 2 turns. | Star upgrades: ★1-5: +20/+45/+70/+100/+150% bonus Physical DMG
+,,,,,,Astral Guardian,+17.45% DMG to monsters; +53.45% Food/Iron/Gold after kills. | Star upgrades: ★1-5: +2% monster DMG and +5% resources per star
+,,,,,,Dance of the Stars,331.2% ATK Physical DMG to 2 random enemies. | Star upgrades: ★1-5: +20/+45/+70/+100/+150% bonus Physical DMG
+,,,,,,Star Sigil Protection,HP & ATK & DEF +10%. | Star upgrades: Innate trait
+Harold,Tekken Chief,A,Human,Tank,Physical,TBD,Basic tank skill — pending screenshot | Star upgrades: Pending
+Moga,Garlic Samurai,A,Forest,DPS (Physical),Physical,TBD,Samurai slash — pending screenshot | Star upgrades: Pending
+Romano,Holy Inquisitor,A,Nightfall,Tank / Control,Physical,TBD,Front-row stun/control — pending screenshot | Star upgrades: Pending
+Torun,Berserk Axe,A,Forest,DPS (Physical),Physical,TBD,Berserker axe damage — pending screenshot | Star upgrades: Pending

@@ -1,7 +1,10 @@
 # X-Clash Heroes — Tier List, Stats & Skills Reference
 
 > **Purpose:** Help you decide upgrade priority and pick teams for PvP, World Boss, Campaign, and events.  
-> **Note:** In-game numbers change with level, stars, gear, and runes. Use your screenshots as the source of truth for exact values — this sheet gives **roles, synergies, and tier context**.
+> **Note:** In-game numbers change with level, stars, gear, and runes. Stats/skills sourced from your [Google Drive folder](https://drive.google.com/drive/folders/1c-1VQk8gCxEjVDPTN7oQ44K3dMGGatlO) + Xyland s39 raw-stats PDF.
+
+**Full tier list with all skills:** [`x-clash-heroes-full-tier-list.csv`](x-clash-heroes-full-tier-list.csv)  
+**Raw stats (Lv.150):** [`x-clash-heroes-stats.csv`](x-clash-heroes-stats.csv)
 
 ---
 
@@ -19,29 +22,26 @@ Pick heroes that **counter the enemy faction** when building arena and rally tea
 
 ---
 
-## S+ Tier — Full Roster (Combat Identity)
+## S+ Tier — Full Roster (31 Heroes)
 
 | Hero | Full Name | Faction | Role | Combat Identity |
 |------|-----------|---------|------|-----------------|
-| **Sera** | Sera, Bow of Tomorrow | Forest | DPS | **16×127% magic hits** + Magic Amplification; 628% Butterfly crit skill ✅ |
-| **Dragonic** | Dragonic, Dragonborn | Forest | Tank | **−26% phys dmg** team buff + **462%** burst; front-row −26% damage taken ✅ |
-| **Yord** | Yord, Traveler of the Forest Sea | Forest | Buffer | **+14.55% ATK + CRIT buff** all allies; protects highest-ATK ally — **mandatory on every team** ✅ |
-| **Monica** | Monica, Shadowhunt | Forest | DPS | **555% magic + back-row splash**; Savage Swoop 5-hit random ✅ |
-| **Sophia** | Sophia, Spirit of Ripples | Human | DPS | **Back-row magic DPS** + Stun; Dragon's Waltz hits 3 targets at 4★ ✅ |
-| **Fenixia** | Fenixia, Fiery Plume | Human | DPS | **481% single + 254% AoE** magic; +42% CRIT; Flame Overload per Human ally ✅ |
-| **Daphne** | Daphne, Rose's Watch | Nightfall | DPS | **Best Nightfall DPS**; hard counter to Human teams *(skills pending)* |
-| **Andrew** | Andrew, Knight of Death | Human | Tank | **Anti-magic tank** — 33% magic reduction, AoE debuff; unlocks 3 Forest + 2 Human bonus ✅ |
-| **Crystal** | Crystal, Soul Ferrier | Forest | Support/DPS | **+25% monster DMG** to Forest backline; **1372% execute** on kill ✅ |
-| **Verna** | Verna, Starlit Princess | Forest | DPS/Support | **683% hit + 12% damage taken** debuff on monsters; +53% resource gains ✅ |
-| **Valkyr** | Valkyr, Valiant Warrior | God | Tank/Buffer | **Front-row buffer** with Judgment-stack burst damage |
-| **Sparta** | Sparta, God Slayer | Nightfall | Tank/DPS | **Mechanic-heavy** hybrid; strong PvP, skip for World Boss |
-| **Rexar** | Rexar, Winter's Wrath | Forest | DPS | **Forest PvP specialist**; pairs with Dragonic |
-| **Alvarez** | Alvarez, Shadow of Exile | Nightfall | DPS | High burst shadow damage dealer |
-| **Belial** | Belial, Cursed Soul of the Dark Tome | Nightfall | DPS | **Lowest-HP execute** + 35% CRIT; Otherworld Distortion hits 3 random ✅ |
-| **Kataras** | Kataras, Demon Masked Asura | God* | DPS | Demon warrior burst damage |
-| **Mirana** | Mirana, Spectral Rakkhasa | Nightfall* | DPS | Spectral damage dealer |
-
-*\*Verify faction in your client — some premium heroes use God/extended factions.*
+| **Sera** | Bow of Tomorrow / Arrow of Tomorrow | Forest | DPS (Magic) | **609% Butterfly** + **16×121% Destiny** hits; Magic Amplification scaling ✅ |
+| **Dragonic** | Dragonborn | Forest | Tank | **511% Thunder Breath**; −17% front-row dmg; **−29% phys** Overload buff ✅ |
+| **Yord** | Traveler of the Forest Sea | Forest | Support (Magic) | **+16.5% ATK** team buff; protects highest-ATK ally — mandatory ✅ |
+| **Monica** | Shadowhunt | Forest | DPS (Magic) | **614% Desert Ember** + back-row splash; **396%×5 Savage Swoop** ✅ |
+| **Sophia** | Spirit of Ripples | Human | DPS (Magic) | **620% Dragonhunt**; **447% back-row Waltz** + Stun (3 targets @4★) ✅ |
+| **Fenixia** | Fiery Plume | Human | DPS (Magic) | **605% single + 320% AoE** magic; +30% CRIT Fireborn ✅ |
+| **Daphne** | Rose's Watch / Rose's Wrath | Nightfall | DPS (Magic) | **605% Tragic Finale**; **510% back-row First Bloom**; +30% Sweet Blade ✅ |
+| **Andrew** | Knight of Death | Human | Tank | **619% duel**; **−40% magic taken**; **144% AoE** anti-magic debuff ✅ |
+| **Crystal** | Soul Ferrier | **Nightfall** | DPS (Physical) | **1372% execute** Shadowy Soul; buffs **Forest backline** monster DMG ✅ |
+| **Valkyr** | Valiant Warrior | **Human** | Tank | Front-row **−13%** all + magic dmg; **Judgment** magic reduction ✅ |
+| **Sparta** | God Slayer | Nightfall | Tank | Taunt **4 enemies**; **−30%** damage taken; skip World Boss ✅ |
+| **Rexar** | Winter's Wrath | Forest | Tank | **−30%** dmg reduction; **+50% DEF** team buff ✅ |
+| **Alvarez** | Shadow of Exile | **Human** | DPS (Physical) | **620% Revolving Blades**; **20×85% Terror Blade** DEF shred ✅ |
+| **Belial** | Cursed Soul of the Dark | Nightfall | DPS (Physical) | **605% lowest-HP** execute; **399%×3** random hits ✅ |
+| **Kataras** | Demon Masked Asura | Nightfall | **Tank** | **Counterattack Mode** tank; **516% Frenzied Hellfire** ✅ |
+| **Mirana** | Spectral Rakkhasa | Nightfall | DPS (Physical) | **605% single + 320% AoE** physical; +30% Soul Drain ✅ |
 
 ---
 
@@ -49,16 +49,17 @@ Pick heroes that **counter the enemy faction** when building arena and rally tea
 
 | Hero | Full Name | Faction | Role | Combat Identity |
 |------|-----------|---------|------|-----------------|
-| **Aaron** | Aaron, Howling Wolf King | Beastkins | DPS | Wolf burst damage; filler investment |
-| **Ali** | Ali, Electric Boxer | Human | DPS | Electric melee DPS |
-| **Chakiss** | Chakiss, Dragon Warrior | Human | DPS | Epic filler — pick **one** of Chakiss or Edric early |
-| **Cthylla** | Cthylla, Deep Terror | Nightfall | DPS | Deep sea AoE/control damage |
-| **Denise** | Denise, Bard | Human | Support | Team buffer; mainly PvE |
-| **Edric** | Edric, Spore Warrior | Forest | DPS | Epic filler — pick **one** of Chakiss or Edric early |
-| **Faerie** | Faerie, Merciful Tree Spirit | Forest | Healer | Sustain/healing for long fights |
-| **Garuda** | Garuda, Dragonslayer | Human | DPS | Anti-beast burst DPS |
-| **Marissa** | Marissa, Spear of Revenge | Human | DPS | Revenge single-target DPS |
-| **Reina** | Reina, Enchanting Witch | Nightfall* | Support | Enchant/debuff support |
+| **Verna** | Starlit Princess | Forest | DPS / WB Support | **683%** hit + **12% damage taken** debuff on monsters; +53% resource gains ✅ |
+| **Chakiss** | Dragon Warrior(ess) | **Nightfall** | **Tank** | Row AoE + **−32% monster dmg** reduction; PvE filler ✅ |
+| **Aaron** | Howling Wolf King | Forest | DPS (Physical) | Wolf warrior — filler; low endgame priority *(skills pending)* |
+| **Ali** | Electric Boxer | Human | DPS (Physical) | Electric melee DPS *(skills pending)* |
+| **Cthylla** | Deep Terror | Nightfall | DPS (Magic) | Deep sea AoE/control *(skills pending)* |
+| **Denise** | Bard | Human | Support | Team Speed buff; PvE/PvP tempo *(skills pending)* |
+| **Edric** | Spore Warrior | Forest | DPS / Debuff | Spore debuff kit — filler *(skills pending)* |
+| **Faerie** | Merciful Tree Spirit | Forest | Support | Back-row DPS scaler / sustain *(skills pending)* |
+| **Garuda** | Dragonslayer | Human | Tank / DPS | Front-row AoE + self-sustain *(skills pending)* |
+| **Marissa** | Spear of Revenge | **Nightfall** | DPS (Physical) | Low-HP execute assassin *(skills pending)* |
+| **Reina** | Enchanting Witch | Nightfall | Support / Control | Disarm / enchant control *(skills pending)* |
 
 ---
 
@@ -66,10 +67,10 @@ Pick heroes that **counter the enemy faction** when building arena and rally tea
 
 | Hero | Full Name | Faction | Role | Combat Identity |
 |------|-----------|---------|------|-----------------|
-| **Harold** | Harold, Tekken Chief | Human | Tank | Basic frontline; low priority |
-| **Moga** | Moga, Garlic Samurai | Beastkins | DPS | Melee filler DPS |
-| **Romano** | Romano, Holy Inquisitor | Human | Support | Holy support with damage |
-| **Torun** | Torun, Berserk Axe | Beastkins | DPS | Berserker melee DPS |
+| **Harold** | Tekken Chief | Human | Tank | Basic frontline; low priority *(skills pending)* |
+| **Moga** | Garlic Samurai | **Forest** | DPS (Physical) | Melee filler DPS *(skills pending)* |
+| **Romano** | Holy Inquisitor | **Nightfall** | Tank / Control | Front-row stun kit *(skills pending)* |
+| **Torun** | Berserk Axe | **Forest** | DPS (Physical) | Berserker melee DPS *(skills pending)* |
 
 ---
 
@@ -224,37 +225,31 @@ Monica + Sera + Yord + Dragonic + Rexar
 | **Shadowy Soul** | 24/30 | **1372.7% Physical DMG** single; **recast at 50%** on kill | 5★: +270% bonus DMG |
 | **Soul Protection** | 25/30 | Back-row **Forest** heroes **+24.75% monster damage** | +3% per star (~39.75%+ at 5★) |
 
-**Role:** World Boss enabler — buffs your Forest backline (Sera/Verna) + massive execute damage.
+**Role:** **Nightfall** hero — World Boss enabler; buffs your **Forest** backline (Sera/Verna) + **1372% execute** damage.
 
----
-| Skill | Effect |
-|-------|--------|
-| Core identity | PvP: **bypasses tanks**, hits backline |
-| World Boss | **Multi-target** hits |
+### Daphne — Rose's Watch / Rose's Wrath *(verified — Xyland s39 PDF)*
 
-### Valkyr — Valiant Warrior (Official preview)
-| Skill | Effect |
-|-------|--------|
-| **Ultimate Spear** | Burst damage using Judgment stacks |
-| **Shrine Shadow** | Judgment / mark mechanic |
-| **Mark of Judgment** | Stack system for burst |
-| **Unparalleled Domain** | Domain buff + burst |
-| Position | **Front row** buffer-tank |
+| Skill | Lv30 Effect | ★5 Unlock |
+|-------|-------------|-----------|
+| **Tragic Finale** | **605% Magic** to random enemy | +270% bonus Magic DMG |
+| **Sweet Blade** | **+30% Magic DMG** dealt | +3% per star (45% total) |
+| **First Bloom** | **510% Magic** — **prioritizes back-row** | +270% bonus Magic DMG |
+| **Love Exchange** | Bond: HP/ATK/DEF +20%, Speed +40 | Fixed |
 
-### Sparta — God Slayer (Official preview)
-| Feature | Detail |
-|---------|--------|
-| Faction | Nightfall |
-| Role | Warrior with decent damage |
-| Position | **Back row** |
-| World Boss | **Not recommended** |
+**Role:** Top Nightfall magic DPS — back-row targeting; hard counter to Human teams in PvP.
 
-### Crystal — Soul Ferrier
-| Skill | Effect |
-|-------|--------|
-| Core | **Buffs Forest backline** (% scales with star level) |
+### Kataras — Demon Masked Asura *(verified — Xyland s39 PDF)*
 
-### Andrew — Knight of Death *(verified from your screenshots @ Lv140)*
+| Skill | Lv30 Effect | ★5 Unlock |
+|-------|-------------|-----------|
+| **Frenzied Hellfire** | **516% Physical** to random enemy | +270% bonus Physical DMG |
+| **Soul's End** | Front-row **−13%** all DMG; double in Counterattack Mode | +1.5% per star |
+| **Asura's Blade** | **Counterattack Mode** 1 turn — retaliate 130% basic-attack DMG | ★5: front row enters mode, 2 turns |
+| **King's Advance** | Bond: HP/ATK/DEF +20%, Speed +40 | Fixed |
+
+**Role:** Nightfall **counterattack tank** — not a DPS. Pairs with Nightfall comps.
+
+### Andrew — Knight of Death *(verified — Xyland s39 PDF)*
 
 | Skill | Lv | Current Effect (4★) | **5★ Awaken Unlock** |
 |-------|-----|----------------------|----------------------|
@@ -363,10 +358,14 @@ Monica + Sera + Yord + Dragonic + Rexar
 
 | File | Use |
 |------|-----|
+| **`x-clash-heroes-full-tier-list.csv`** | **Full 31-hero tier list** with all skills + ★1–★5 effects |
+| `x-clash-heroes-stats.csv` | Raw ATK/HP/DEF at Lv.150 (Xyland s39 doc) |
+| `X-CLASH-HERO-GUIDE.md` | Quick tier list, upgrade priority, team comps |
 | `x-clash-heroes-master.csv` | Main roster — import to Google Sheets |
-| `x-clash-heroes-skills.csv` | Skills per hero; update from screenshots |
-| `x-clash-heroes-tier-by-mode.csv` | PvP / WB / Campaign tiers side-by-side |
+| `x-clash-heroes-skills.csv` | Skills per hero with star gates |
+| `x-clash-heroes-tier-by-mode.csv` | PvP / WB / Campaign tiers |
 | `x-clash-my-roster-template.csv` | **Your** heroes — fill with your levels/gear |
+| `drive-images/` | Source screenshots from Google Drive (not committed) |
 
 ### Import to Google Sheets
 1. Open [Google Sheets](https://sheets.google.com) → Blank spreadsheet
@@ -380,23 +379,19 @@ Monica + Sera + Yord + Dragonic + Rexar
 
 | Hero | Status | Source |
 |------|--------|--------|
-| Andrew | ✅ Complete (3 skills) | User screenshots |
-| Verna | ✅ Complete (3 skills) | User screenshots |
-| Alvarez | ✅ Complete (3 skills) | User screenshots |
-| Chakiss | ✅ Complete (3 skills) | User screenshots |
-| Valkyr | ✅ Complete (3 skills) | User screenshots @ 3★ |
-| Sparta | ✅ Complete (3 skills) | User screenshots @ 3★ |
-| Belial | ✅ Complete (3 skills) | User screenshots @ 3★ |
-| Mirana | ✅ Complete (3 skills) | User screenshots @ 3★ |
-| Sophia | ✅ Complete (3 skills) | User screenshots @ 2★ |
-| Rexar | ✅ Complete (3 skills) | User screenshots @ 3★ |
-| Fenixia | ✅ Complete (3 skills) | User screenshots @ 5★ |
-| Yord | ✅ Complete (3 skills) | User screenshots @ 5★ |
-| Crystal | ✅ Complete (3 skills) | User screenshots @ 5★ |
-| Sera | ✅ Complete (3 skills) | User screenshots @ 5★ CP 3.87M |
-| Dragonic | ✅ Complete (3 skills) | User screenshots @ 5★ CP 3.61M |
-| Monica | ✅ Complete (3 skills) | User screenshots @ 5★ CP 3.22M |
-| *Remaining 18 heroes* | ⏳ Pending | Send skill screenshots |
+| **S+ (16 heroes)** | ✅ Full skills + Lv150 stats | Xyland s39 PDF + Drive screenshots |
+| Alvarez, Andrew, Belial, Crystal, Daphne, Dragonic, Fenixia, Kataras, Mirana, Monica, Rexar, Sera, Sophia, Sparta, Valkyr, Yord | ✅ | PDF |
+| Verna, Chakiss | ✅ | Drive screenshots |
+| **S/A (13 heroes)** | ⏳ Skills pending | Aaron, Ali, Cthylla, Denise, Edric, Faerie, Garuda, Marissa, Reina, Harold, Moga, Romano, Torun |
+
+**Major faction corrections from Drive folder:**
+- **Crystal** → Nightfall (not Forest); still buffs Forest backline for WB
+- **Alvarez** → Human (not Nightfall)
+- **Valkyr** → Human (not God)
+- **Kataras** → Nightfall **Tank** (not God DPS)
+- **Chakiss** → Nightfall Tank (not Human)
+- **Marissa, Romano** → Nightfall
+- **Aaron, Moga, Torun** → Forest
 
 ---
 

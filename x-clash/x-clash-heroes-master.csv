@@ -1,32 +1,32 @@
 Hero Name,Official Title,Overall Tier,Faction,Primary Role,Secondary Role,Row Position,Combat Identity,F2P or Spender,Upgrade Priority (1=Highest),Best Game Modes,Strong Against (Faction),Weak Against (Faction),Synergy Partners,Notes
-Alvarez,Shadow of Exile,S+,Nightfall,DPS,Debuffer,Back,Multi-hit physical DPS; DEF shred + self Physical DMG buff,Spender,8,PvP / PvE,Human,Forest,Belial / Daphne,Terror Blade scales hits with stars (10→20)
-Andrew,Knight of Death,S+,Human,Tank,Debuffer,Front,Anti-magic tank with debuffs; counters early Forest meta,F2P (Day 60),6,PvP / Defense,Forest,Nightfall,Dragonic,Free summon on server day 60
-Belial,Cursed Soul of the Dark Tome,S+,Nightfall,DPS,Execute,Back,Lowest-HP execute + CRIT scaling; 35% CRIT at 5★,Spender,9,PvP,Human,Forest,Alvarez / Daphne,Malice Curse targets lowest HP enemy
-Crystal,Soul Ferrier,S+,Forest,Support,DPS (WB),Back,Buffs back-row Forest monster DMG + execute nuke Shadowy Soul,F2P/Epic,5,World Boss / PvE,—,—,Sera / Verna / Yord,Soul Protection = core Forest backline buff
-Daphne,Rose's Watch,S+,Nightfall,DPS,—,Back,Best Nightfall DPS; hard counter to Human teams,Spender,3,PvP / Arena,Human,Forest,Monica / Sophia,Also called Rose's Wrath in some sources
-Dragonic,Dragonborn,S+,Forest,Tank,Burst DPS,Front,−26% phys DMG team buff + 462% burst; front-row −26% all-damage passive,F2P,4,PvP / Campaign,—,—,Andrew / Rexar,Verified @ CP 3.61M; first altar summon
-Fenixia,Fiery Plume,S+,Human,DPS,—,Back,481% single + 254% AoE magic; Flame Overload stacks with Human allies,F2P (Lucky Spin),5,World Boss / PvE,Nightfall,Human counters,Yord / Crystal / Sophia,42%+ CRIT at 5★ via Fireborn
-Kataras,Demon Masked Asura,S+,God/Nightfall,DPS,—,Back,High burst demon warrior; premium damage,Spender,10,PvP,—,—,Belial / Mirana,Verify faction in-game
-Mirana,Spectral Rakkhasa,S+,Nightfall,DPS,—,Back,AoE physical DPS; Resentful Chorus hits all enemies,Spender,10,PvP / PvE,Human,Forest,Belial / Daphne,Soul Drain +35% Physical DMG at 5★
-Monica,Shadowhunt,S+,Forest,DPS,Assassin,Back,555% magic + back-row splash; Savage Swoop 5-hit random; +28% CRIT passive,Spender,2,PvP / World Boss,Human,Human tanks,Sera / Yord / Rexar,Verified @ CP 3.22M; backline splash confirmed
-Rexar,Winter's Wrath,S+,Forest,Tank,Buffer,Front,DEF buffer + damage reduction; Frostbite Touch buffs all allies at 3★,Spender,7,PvP (Forest),Human,—,Dragonic / Monica,Pairs with Dragonic for Forest PvP
-Sera,Bow of Tomorrow,S+,Forest,DPS,—,Back,16×127% Magic random + Amplification scaling; 628% Butterfly crit; +30% Magic DMG passive,F2P,1,PvP / Campaign / World Boss,Human,Human counters,Yord / Dragonic / Crystal,Verified @ CP 3.87M; also Arrow of Tomorrow
-Sophia,Spirit of Ripples,S+,Human,DPS,Control,Back,Magic DPS; back-row targeting + Stun; Dragon's Waltz hits 3 at 4★,Spender,2,PvP / World Boss,Nightfall,Forest,Monica / Fenixia,@2★ in screenshots — high spender priority
-Sparta,God Slayer,S+,Nightfall,Tank,DPS,Front,Taunt + damage reduction tank; −33% DMG at 5★,Spender,6,PvP (technical),Human,—,Daphne,Scatter the Weak taunts up to 4 at 4★; skip World Boss
-Valkyr,Valiant Warrior,S+,God,Tank,Buffer,Front,Front-row protection + Human magic reduction; Judgment 2 turns at 5★,Spender,3,PvP / Rally,—,—,Andrew / Sophia,Battle Mark protects front row; pairs with Human comps
-Yord,Traveler of the Forest Sea,S+,Forest,Support,Buffer,Back,Travel Invitation buffs ATK+CRIT; Lingering Echo protects top DPS,F2P/Spender,1,ALL MODES (especially World Boss),—,—,Sera / Fenixia / Monica,4★ Travel Invitation = 2 turn duration
-Aaron,Howling Wolf King,S,Beastkins,DPS,—,Back,Wolf-themed burst DPS,A/B tier filler,12,PvE / Filler,—,—,—,Lower investment priority
-Ali,Electric Boxer,S,Human,DPS,—,Front,Electric melee DPS,F2P/Epic,11,PvE / Arena,Forest,—,—,Solid epic; invest one of Chakiss/Edric instead per guides
-Chakiss,Dragon Warrior,S,Human,DPS,Tank (PvE),Front,Row AoE + monster damage reduction; PvE filler,F2P/Epic,9,PvE / Monsters,Forest,—,Andrew,Invest one of Chakiss or Edric—not both early
-Cthylla,Deep Terror,S,Nightfall,DPS,Control,Back,Deep sea terror; AoE/control damage,Spender/Epic,10,PvE / Nightfall,Human,Forest,—,Verify skills from screenshots
-Denise,Bard,S,Human,Support,Buffer,Back,Team buffer; strong PvE support,F2P/Epic,8,PvE / Campaign,—,—,Faerie / Yord,Mainly PvE-focused support
-Edric,Spore Warrior,S,Forest,DPS,Support,Front,Spore warrior epic filler,F2P/Epic,9,PvE / Filler,—,—,Crystal,Also spelled Eldrich in some guides
-Faerie,Merciful Tree Spirit,S,Forest,Support,Healer,Back,Healer/support for sustained fights,F2P/Epic,8,Campaign / Siege,—,—,Denise / Dragonic,Good for long siege battles
-Garuda,Dragonslayer,S,Human,DPS,—,Back,Anti-dragon burst DPS,F2P/Epic,10,PvE / PvP,Beastkins,—,Sophia,Effective until higher-tier heroes maxed
-Marissa,Spear of Revenge,S,Human,DPS,—,Front,Revenge-themed single-target DPS,F2P/Epic,11,PvE,—,—,—,Mid-tier epic DPS
-Reina,Enchanting Witch,S,Nightfall/Human,Support,DPS,Back,Enchant/debuff witch support,F2P/Epic,10,PvE / PvP,—,—,Denise,Verify faction in-game
-Verna,Starlit Princess,S,Forest,DPS,Support (WB),Back,Monster/boss specialist — +12% damage taken debuff + monster DMG amp,F2P/Epic,5,World Boss / PvE,—,—,Crystal / Yord / Sera,Also spelled Vera; Whispers of the Stars = core WB skill
-Harold,Tekken Chief,A,Human,Tank,—,Front,Basic frontline tank,F2P,14,Filler,—,—,—,Low priority unless no other tank
-Moga,Garlic Samurai,A,Beastkins,DPS,—,Front,Samurai melee DPS,F2P,15,Filler,—,—,—,Bench hero; spare resources only
-Romano,Holy Inquisitor,A,Human,Support,DPS,Back,Holy support with damage,F2P,14,PvE filler,Nightfall,—,Denise,Low investment priority
-Torun,Berserk Axe,A,Beastkins,DPS,—,Front,Berserker melee DPS,F2P,15,Filler,—,—,—,Low priority damage dealer
+Alvarez,Shadow of Exile,S+,Human,DPS,,Back,Deals 620% ATK Physical DMG to a single enemy.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Andrew,Knight of Death,S+,Human,Tank,,Front,Deals 619% of ATK as Physical DMG to a single enemy.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Belial,Cursed Soul of the Dark,S+,Nightfall,DPS,,Back,Deals 605% ATK Physical DMG to lowest-HP enemy.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Crystal,Soul Ferrier,S+,Nightfall,DPS,,Back,Deals 522.8% ATK Physical DMG to a single enemy.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Daphne,Rose's Watch,S+,Nightfall,DPS,,Back,Deals 605% ATK Magic DMG to a random enemy.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Dragonic,Dragonborn,S+,Forest,Tank,,Front,Deals 511% of ATK as Physical DMG to a single enemy.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Fenixia,Fiery Plume,S+,Human,DPS,,Back,Deals 605% ATK Magic DMG to a single enemy; +2 Flame Overload per Human ally at battle start.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Kataras,Demon Masked Asura,S+,Nightfall,Tank,,Front,Deals 516% ATK Physical DMG to a random enemy.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Mirana,Spectral Rakkhasa,S+,Nightfall,DPS,,Back,Deals 605% ATK Physical DMG to a single enemy.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Monica,Shadowhunt,S+,Forest,DPS,,Back,Deals 614% Magic DMG to a single enemy; splashes to 1 back-row unit if target is front row.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Rexar,Winter's Wrath,S+,Forest,Tank,,Front,Deals 503% of ATK as Physical DMG to a single enemy.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Sera,Bow of Tomorrow,S+,Forest,DPS,,Back,Deals 609% of ATK as Magic DMG to a single enemy. On crit: 1–3 Magic Amplification stacks.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Sophia,Spirit of Ripples,S+,Human,DPS,,Back,Deals 620% ATK Magic DMG to a single enemy.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Sparta,God Slayer,S+,Nightfall,Tank,,Front,Deals 504% ATK Physical DMG to a single enemy.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Valkyr,Valiant Warrior,S+,Human,Tank,,Front,Deals 516% of ATK as Physical DMG to a single enemy.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Yord,Traveler of the Forest Sea,S+,Forest,Support,,Back,Deals 508% of ATK as Magic DMG to a single enemy.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Aaron,Howling Wolf King,S,Forest,DPS,,Back,Wolf king damage skill — pending screenshot,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Ali,Electric Boxer,S,Human,DPS,,Front,Electric boxer combo — pending screenshot,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Chakiss,Dragon Warrior(ess),S,Nightfall,Tank,,Front,Deals 297% ATK Physical DMG to a single enemy.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Cthylla,Deep Terror,S,Nightfall,DPS,,Back,Deep terror AoE — pending screenshot,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Denise,Bard,S,Human,Support,,Back,Team Speed buff — pending screenshot,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Edric,Spore Warrior,S,Forest,DPS,Debuff,Back,Spore warrior damage/debuff — pending screenshot,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Faerie,Merciful Tree Spirit,S,Forest,Support,,Back,Back-row DPS scaler/heal — pending screenshot,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Garuda,Dragonslayer,S,Human,Tank,DPS,Front,Front-row AoE + self heal — pending screenshot,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Marissa,Spear of Revenge,S,Nightfall,DPS,,Back,Low-HP execute assassin — pending screenshot,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Reina,Enchanting Witch,S,Nightfall,Support,Control,Back,Disarm/enchant control — pending screenshot,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Verna,Starlit Princess,S,Forest,DPS,Support (WB),Back,683% Physical DMG random; vs monsters +12% damage taken 2 turns.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Harold,Tekken Chief,A,Human,Tank,,Front,Basic tank skill — pending screenshot,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Moga,Garlic Samurai,A,Forest,DPS,,Back,Samurai slash — pending screenshot,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Romano,Holy Inquisitor,A,Nightfall,Tank,Control,Front,Front-row stun/control — pending screenshot,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Torun,Berserk Axe,A,Forest,DPS,,Back,Berserker axe damage — pending screenshot,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026

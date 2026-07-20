@@ -1,0 +1,12 @@
+Team Name,Mode,Faction Bonus,Hero 1,Hero 2,Hero 3,Hero 4,Hero 5,Notes
+F2P PvE / Campaign,PvE,Mixed,Sera,Dragonic,Yord,Fenixia,Denise/Faerie,Standard F2P campaign clear — baseline comp reference
+F2P World Boss,World Boss,Mixed,Yord,Sera,Fenixia,Crystal,Verna,No dedicated tank unless tank out-DPSes weakest hero
+F2P PvP,PvP,Mixed,Sera,Yord,Fenixia,Dragonic,Andrew/Crystal,Standard F2P arena core
+Spender PvP,PvP,Mixed,Monica,Sophia,Yord,Daphne,Valkyr/Sparta,Top spender arena reference
+Spender World Boss,World Boss,Mixed,Monica,Sophia,Yord,Daphne,Sera/Fenixia,Maximum WB damage reference
+Forest PvP (5-stack),PvP,5 Forest (+20%),Monica,Sera,Yord,Dragonic,Rexar,Full Forest faction bonus
+Human PvP (5-stack),PvP,5 Human (+20%),Sophia,Fenixia,Andrew,Valkyr,Alvarez,Full Human faction bonus
+Nightfall PvP (5-stack),PvP,5 Nightfall (+20%),Daphne,Belial,Sparta,Mirana,Kataras,Full Nightfall faction bonus
+Forest + Human (3+2),PvP,3 Forest + 2 Human (+10%),Sera,Dragonic,Verna,Andrew,Fenixia,Common mixed-faction PvP template
+Zombie Siege (F2P),Zombie Siege,Mixed,Yord,Sera,Dragonic,Fenixia,Denise,Buffers + AoE reference
+Campaign (pre-Day 60),Campaign,Mixed,Sera,Dragonic,Yord,Fenixia,Denise,Before Andrew unlock reference

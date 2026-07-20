@@ -1,0 +1,5 @@
+Faction,Beats,Heroes,Team Bonus Notes
+Forest,Beats Human,"Sera, Dragonic, Monica, Yord, Rexar, Verna, Edric, Faerie, Aaron, Moga, Torun",3 same = +5%; 3+2 = +10%; 4 = +15%; 5 = +20%
+Human,Beats Nightfall,"Andrew, Fenixia, Sophia, Alvarez, Valkyr, Denise, Garuda, Ali, Harold",Human counters Nightfall (−20% dmg taken vs countered faction)
+Nightfall,Beats Forest,"Crystal, Daphne, Kataras, Sparta, Belial, Mirana, Chakiss, Marissa, Reina, Cthylla, Romano",Nightfall counters Forest
+Triangle,Forest → Human → Nightfall → Forest,—,Pick counters for arena/rally

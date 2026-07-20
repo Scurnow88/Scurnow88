@@ -358,20 +358,28 @@ Monica + Sera + Yord + Dragonic + Rexar
 
 | File | Use |
 |------|-----|
+| **`x-clash-heroes-profiles.csv`** | **Master Google Sheet** — gear, synergies, rankings, skills summary per hero |
+| **`X-CLASH-GOOGLE-SHEETS-SETUP.md`** | **Import guide** — tab layout + your Team 1/2 + download links |
 | **`x-clash-heroes-full-tier-list.csv`** | **Full 31-hero tier list** with all skills + ★1–★5 effects |
+| `x-clash-heroes-skills.csv` | Every skill row with star gates (Skills tab) |
+| `x-clash-hero-builds.csv` | Artifacts, runes, substats, talents per hero |
+| `x-clash-hero-mode-ratings.csv` | PvP / WB / Campaign / Siege mode ratings |
+| `x-clash-team-compositions.csv` | PvE, PvP, Boss teams + your roster suggestions |
+| `x-clash-hero-rankings.csv` | Top DPS / Tank / Support ordered lists |
+| `x-clash-faction-reference.csv` | Faction triangle + team bonus rules |
 | `x-clash-heroes-stats.csv` | Raw ATK/HP/DEF at Lv.150 (Xyland s39 doc) |
 | `X-CLASH-HERO-GUIDE.md` | Quick tier list, upgrade priority, team comps |
-| `x-clash-heroes-master.csv` | Main roster — import to Google Sheets |
-| `x-clash-heroes-skills.csv` | Skills per hero with star gates |
-| `x-clash-heroes-tier-by-mode.csv` | PvP / WB / Campaign tiers |
+| `x-clash-heroes-master.csv` | Compact roster summary |
+| `x-clash-heroes-tier-by-mode.csv` | PvP / WB / Campaign tiers (compact) |
 | `x-clash-my-roster-template.csv` | **Your** heroes — fill with your levels/gear |
 | `drive-images/` | Source screenshots from Google Drive (not committed) |
 
 ### Import to Google Sheets
+See **`X-CLASH-GOOGLE-SHEETS-SETUP.md`** for the full tab layout. Quick version:
 1. Open [Google Sheets](https://sheets.google.com) → Blank spreadsheet
-2. File → Import → Upload each CSV as a **separate tab**
+2. **File → Import → Upload** each CSV as a **separate tab** (start with `x-clash-heroes-profiles.csv`)
 3. Copy `x-clash-my-roster-template.csv` tab and fill in your roster
-4. Use VLOOKUP/INDEX between tabs if you merge them
+4. Use **Teams** tab for your Forest/Human PvP and WB comps
 
 ---
 

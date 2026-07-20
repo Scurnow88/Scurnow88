@@ -1,32 +1,32 @@
 Hero Name,Official Title,Overall Tier,Faction,Primary Role,Secondary Role,Row Position,Combat Identity,F2P or Spender,Upgrade Priority (1=Highest),Best Game Modes,Strong Against (Faction),Weak Against (Faction),Synergy Partners,Notes
-Alvarez,Shadow of Exile,S+,Human,DPS,,Back,Deals 620% ATK Physical DMG to a single enemy.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
-Andrew,Knight of Death,S+,Human,Tank,,Front,Deals 619% of ATK as Physical DMG to a single enemy.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
-Belial,Cursed Soul of the Dark,S+,Nightfall,DPS,,Back,Deals 605% ATK Physical DMG to lowest-HP enemy.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
-Crystal,Soul Ferrier,S+,Nightfall,DPS,,Back,Deals 522.8% ATK Physical DMG to a single enemy.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
-Daphne,Rose's Watch,S+,Nightfall,DPS,,Back,Deals 605% ATK Magic DMG to a random enemy.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
-Dragonic,Dragonborn,S+,Forest,Tank,,Front,Deals 511% of ATK as Physical DMG to a single enemy.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
-Fenixia,Fiery Plume,S+,Human,DPS,,Back,Deals 605% ATK Magic DMG to a single enemy; +2 Flame Overload per Human ally at battle start.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
-Kataras,Demon Masked Asura,S+,Nightfall,Tank,,Front,Deals 516% ATK Physical DMG to a random enemy.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
-Mirana,Spectral Rakkhasa,S+,Nightfall,DPS,,Back,Deals 605% ATK Physical DMG to a single enemy.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
-Monica,Shadowhunt,S+,Forest,DPS,,Back,Deals 614% Magic DMG to a single enemy; splashes to 1 back-row unit if target is front row.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
-Rexar,Winter's Wrath,S+,Forest,Tank,,Front,Deals 503% of ATK as Physical DMG to a single enemy.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
-Sera,Bow of Tomorrow,S+,Forest,DPS,,Back,Deals 609% of ATK as Magic DMG to a single enemy. On crit: 1–3 Magic Amplification stacks.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
-Sophia,Spirit of Ripples,S+,Human,DPS,,Back,Deals 620% ATK Magic DMG to a single enemy.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
-Sparta,God Slayer,S+,Nightfall,Tank,,Front,Deals 504% ATK Physical DMG to a single enemy.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
-Valkyr,Valiant Warrior,S+,Human,Tank,,Front,Deals 516% of ATK as Physical DMG to a single enemy.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
-Yord,Traveler of the Forest Sea,S+,Forest,Support,,Back,Deals 508% of ATK as Magic DMG to a single enemy.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
-Aaron,Howling Wolf King,S,Forest,DPS,,Back,Wolf king damage skill — pending screenshot,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
-Ali,Electric Boxer,S,Human,DPS,,Front,Electric boxer combo — pending screenshot,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
-Chakiss,Dragon Warrior(ess),S,Nightfall,Tank,,Front,Deals 297% ATK Physical DMG to a single enemy.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
-Cthylla,Deep Terror,S,Nightfall,DPS,,Back,Deep terror AoE — pending screenshot,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
-Denise,Bard,S,Human,Support,,Back,Team Speed buff — pending screenshot,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
-Edric,Spore Warrior,S,Forest,DPS,Debuff,Back,Spore warrior damage/debuff — pending screenshot,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
-Faerie,Merciful Tree Spirit,S,Forest,Support,,Back,Back-row DPS scaler/heal — pending screenshot,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
-Garuda,Dragonslayer,S,Human,Tank,DPS,Front,Front-row AoE + self heal — pending screenshot,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
-Marissa,Spear of Revenge,S,Nightfall,DPS,,Back,Low-HP execute assassin — pending screenshot,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
-Reina,Enchanting Witch,S,Nightfall,Support,Control,Back,Disarm/enchant control — pending screenshot,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
-Verna,Starlit Princess,S,Forest,DPS,Support (WB),Back,683% Physical DMG random; vs monsters +12% damage taken 2 turns.,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
-Harold,Tekken Chief,A,Human,Tank,,Front,Basic tank skill — pending screenshot,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
-Moga,Garlic Samurai,A,Forest,DPS,,Back,Samurai slash — pending screenshot,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
-Romano,Holy Inquisitor,A,Nightfall,Tank,Control,Front,Front-row stun/control — pending screenshot,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
-Torun,Berserk Axe,A,Forest,DPS,,Back,Berserker axe damage — pending screenshot,Mixed,5,All modes,—,—,See guide,Updated from Drive folder Jul 2026
+Alvarez,Shadow of Exile,S+,Human,DPS,,Back,620% Physical single (346.6% @ Lv13).,Mixed,8,Varies,—,—,See guide,Verified Jul 2026
+Andrew,Knight of Death,S+,Human,Tank,,Front,619% Physical single.,Mixed,8,Varies,—,—,See guide,Verified Jul 2026
+Belial,Cursed Soul of the Dark,S+,Nightfall,DPS,,Back,605% Physical lowest-HP.,Mixed,8,Varies,—,—,See guide,Verified Jul 2026
+Crystal,Soul Ferrier,S+,Nightfall,DPS,,Back,522.8% Physical single.,Mixed,8,Varies,—,—,See guide,Verified Jul 2026
+Daphne,Rose's Watch,S+,Nightfall,DPS,,Back,605% Magic random.,Mixed,8,Varies,—,—,See guide,Verified Jul 2026
+Dragonic,Dragonborn,S+,Forest,Tank,,Front,Deals 511% ATK Physical DMG single enemy.,Mixed,8,Varies,—,—,See guide,Verified Jul 2026
+Fenixia,Fiery Plume,S+,Human,DPS,,Back,605% Magic single; Flame Overload per Human ally.,Mixed,8,Varies,—,—,See guide,Verified Jul 2026
+Kataras,Demon Masked Asura,S+,Nightfall,Tank,,Front,516% Physical random.,Mixed,8,Varies,—,—,See guide,Verified Jul 2026
+Mirana,Spectral Rakkhasa,S+,Nightfall,DPS,,Back,605% Physical single.,Mixed,8,Varies,—,—,See guide,Verified Jul 2026
+Monica,Shadowhunt,S+,Forest,DPS,,Back,614% Magic single; splashes back-row if front target.,Mixed,8,Varies,—,—,See guide,Verified Jul 2026
+Rexar,Winter's Wrath,S+,Forest,Tank,,Front,503% ATK Physical DMG single.,Mixed,8,Varies,—,—,See guide,Verified Jul 2026
+Sera,Bow of Tomorrow,S+,Forest,DPS,,Back,609% Magic single; crit → Amplification stacks.,Mixed,8,Varies,—,—,See guide,Verified Jul 2026
+Sophia,Spirit of Ripples,S+,Human,DPS,,Back,620% Magic single.,Mixed,8,Varies,—,—,See guide,Verified Jul 2026
+Sparta,God Slayer,S+,Nightfall,Tank,,Front,504% Physical single.,Mixed,8,Varies,—,—,See guide,Verified Jul 2026
+Valkyr,Valiant Warrior,S+,Human,Tank,,Front,516% Physical single.,Mixed,8,Varies,—,—,See guide,Verified Jul 2026
+Yord,Traveler of the Forest Sea,S+,Forest,Support,,Front,508% Magic single.,Mixed,8,Varies,—,—,See guide,Verified Jul 2026
+Aaron,Howling Wolf King,S,Forest,Support,DPS (Magic,Front,126.7% Magic single.,Mixed,8,Varies,—,—,See guide,Verified Jul 2026
+Ali,Electric Boxer,S,Human,DPS,,Front,151.1% Physical single.,Mixed,8,Varies,—,—,See guide,Verified Jul 2026
+Chakiss,Dragon Warrior(ess),S,Nightfall,Tank,,Front,297% Physical single.,Mixed,8,Varies,—,—,See guide,Verified Jul 2026
+Cthylla,Deep Terror,S,Nightfall,DPS,,Back,161.3% Magic single.,Mixed,8,Varies,—,—,See guide,Verified Jul 2026
+Denise,Bard,S,Human,Support,,Front,143.2% Physical single.,Mixed,8,Varies,—,—,See guide,Verified Jul 2026
+Edric,Spore Warrior,S,Forest,Tank,,Front,Damage skill visible (spear icon) — description not captured.,Mixed,8,Varies,—,—,See guide,Verified Jul 2026
+Faerie,Merciful Tree Spirit,S,Forest,DPS,,Back,173.6% Physical single.,Mixed,8,Varies,—,—,See guide,Verified Jul 2026
+Garuda,Dragonslayer,S,Human,Tank,Support,Front,175.2% Magic single.,Mixed,8,Varies,—,—,See guide,Verified Jul 2026
+Marissa,Spear of Revenge,S,Nightfall,DPS,,Back,425.3% Physical single; Stun chance.,Mixed,8,Varies,—,—,See guide,Verified Jul 2026
+Reina,Enchanting Witch,S,Nightfall,DPS,Support,Back,172.6% Physical single.,Mixed,8,Varies,—,—,See guide,Verified Jul 2026
+Verna,Starlit Princess,S,Forest,DPS,Support (WB,Back,683% Physical random; +12% dmg taken vs monsters.,Mixed,8,Varies,—,—,See guide,Verified Jul 2026
+Harold,Tekken Chief,A,Human,DPS,,Front,156% Physical single.,Mixed,8,Varies,—,—,See guide,Verified Jul 2026
+Moga,Garlic Samurai,A,Forest,DPS,,Front,236.1% Physical single.,Mixed,8,Varies,—,—,See guide,Verified Jul 2026
+Romano,Holy Inquisitor,A,Nightfall,DPS,,Front,158.8% Physical single.,Mixed,8,Varies,—,—,See guide,Verified Jul 2026
+Torun,Berserk Axe,A,Forest,DPS,,Front,156% Physical single.,Mixed,8,Varies,—,—,See guide,Verified Jul 2026

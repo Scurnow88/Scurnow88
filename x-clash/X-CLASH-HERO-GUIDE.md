@@ -49,17 +49,17 @@ Pick heroes that **counter the enemy faction** when building arena and rally tea
 
 | Hero | Full Name | Faction | Role | Combat Identity |
 |------|-----------|---------|------|-----------------|
-| **Verna** | Starlit Princess | Forest | DPS / WB Support | **683%** hit + **12% damage taken** debuff on monsters; +53% resource gains ✅ |
-| **Chakiss** | Dragon Warrior(ess) | **Nightfall** | **Tank** | Row AoE + **−32% monster dmg** reduction; PvE filler ✅ |
-| **Aaron** | Howling Wolf King | Forest | DPS (Physical) | Wolf warrior — filler; low endgame priority *(skills pending)* |
-| **Ali** | Electric Boxer | Human | DPS (Physical) | Electric melee DPS *(skills pending)* |
-| **Cthylla** | Deep Terror | Nightfall | DPS (Magic) | Deep sea AoE/control *(skills pending)* |
-| **Denise** | Bard | Human | Support | Team Speed buff; PvE/PvP tempo *(skills pending)* |
-| **Edric** | Spore Warrior | Forest | DPS / Debuff | Spore debuff kit — filler *(skills pending)* |
-| **Faerie** | Merciful Tree Spirit | Forest | Support | Back-row DPS scaler / sustain *(skills pending)* |
-| **Garuda** | Dragonslayer | Human | Tank / DPS | Front-row AoE + self-sustain *(skills pending)* |
-| **Marissa** | Spear of Revenge | **Nightfall** | DPS (Physical) | Low-HP execute assassin *(skills pending)* |
-| **Reina** | Enchanting Witch | Nightfall | Support / Control | Disarm / enchant control *(skills pending)* |
+| **Verna** | Starlit Princess | Forest | DPS / WB Support | **683%** hit + monster debuff; +53% resource farming ✅ |
+| **Chakiss** | Dragon Warrior(ess) | Nightfall | Tank | **297%** charge + row AoE; **−32% monster dmg** ✅ |
+| **Denise** | Bard | Human | Support | **Mirror Play** + back-row **+12% monster** buff ✅ |
+| **Marissa** | Spear of Revenge | Nightfall | DPS (Physical) | **425% Charge** + Stun; **336% Precision** ✅ |
+| **Garuda** | Dragonslayer | Human | Tank / Support | **175% Magic** + **+26% DEF** front row ✅ |
+| **Reina** | Enchanting Witch | Nightfall | DPS / Support | **5×75%** multi-hit + **+23% monster** dmg ✅ |
+| **Aaron** | Howling Wolf King | Forest | Support / DPS | **126% Magic** + front-row **−11% monster** dmg ✅ |
+| **Ali** | Electric Boxer | Human | DPS (Physical) | **4×76% Piercing Fists** multi-hit ✅ |
+| **Cthylla** | Deep Terror | Nightfall | DPS (Magic) | **161% Soul Trial** + **2-target Soul Bash** DEF shred ✅ |
+| **Edric** | Spore Warrior | Forest | Tank | **+80% DEF** + **−28% monster** dmg *(1 dmg skill pending)* ⏳ |
+| **Faerie** | Merciful Tree Spirit | Forest | DPS (Physical) | **+169% ATK** passive; **210%** 2-target punishment ✅ |
 
 ---
 
@@ -67,10 +67,10 @@ Pick heroes that **counter the enemy faction** when building arena and rally tea
 
 | Hero | Full Name | Faction | Role | Combat Identity |
 |------|-----------|---------|------|-----------------|
-| **Harold** | Tekken Chief | Human | Tank | Basic frontline; low priority *(skills pending)* |
-| **Moga** | Garlic Samurai | **Forest** | DPS (Physical) | Melee filler DPS *(skills pending)* |
-| **Romano** | Holy Inquisitor | **Nightfall** | Tank / Control | Front-row stun kit *(skills pending)* |
-| **Torun** | Berserk Axe | **Forest** | DPS (Physical) | Berserker melee DPS *(skills pending)* |
+| **Harold** | Tekken Chief | Human | DPS (Physical) | **156% Ruthless Fist** + **143%** 2-target *(CS skill pending)* ⏳ |
+| **Moga** | Garlic Samurai | Forest | DPS (Physical) | **236% Log Toss** + **160%** 2-target Log Power ✅ |
+| **Romano** | Holy Inquisitor | Nightfall | DPS (Physical) | **158% Cleanse Heresy** + **145%** 2-target *(CS skill pending)* ⏳ |
+| **Torun** | Berserk Axe | Forest | DPS (Physical) | **156% Berserk Axe** + **150%** 2-target *(1 skill pending)* ⏳ |
 
 ---
 
@@ -377,21 +377,17 @@ Monica + Sera + Yord + Dragonic + Rexar
 
 ## Verified Hero Data Progress
 
-| Hero | Status | Source |
-|------|--------|--------|
-| **S+ (16 heroes)** | ✅ Full skills + Lv150 stats | Xyland s39 PDF + Drive screenshots |
-| Alvarez, Andrew, Belial, Crystal, Daphne, Dragonic, Fenixia, Kataras, Mirana, Monica, Rexar, Sera, Sophia, Sparta, Valkyr, Yord | ✅ | PDF |
-| Verna, Chakiss | ✅ | Drive screenshots |
-| **S/A (13 heroes)** | ⏳ Skills pending | Aaron, Ali, Cthylla, Denise, Edric, Faerie, Garuda, Marissa, Reina, Harold, Moga, Romano, Torun |
+| Status | Count | Heroes |
+|--------|-------|--------|
+| ✅ **Complete** | **27/31** | All S+ heroes + Verna, Chakiss, Denise, Marissa, Garuda, Reina, Aaron, Ali, Cthylla, Faerie, Moga |
+| ⏳ **Partial** | **4/31** | Edric (1 dmg skill), Romano (CS skill), Harold (CS skill), Torun (1 skill) |
 
-**Major faction corrections from Drive folder:**
-- **Crystal** → Nightfall (not Forest); still buffs Forest backline for WB
-- **Alvarez** → Human (not Nightfall)
-- **Valkyr** → Human (not God)
-- **Kataras** → Nightfall **Tank** (not God DPS)
-- **Chakiss** → Nightfall Tank (not Human)
-- **Marissa, Romano** → Nightfall
-- **Aaron, Moga, Torun** → Forest
+**Source:** [Google Drive folder](https://drive.google.com/drive/folders/1c-1VQk8gCxEjVDPTN7oQ44K3dMGGatlO) — 120 screenshots + Xyland s39 PDF.
+
+**Faction reference (confirmed via in-game faction filters):**
+- **Forest:** Sera, Dragonic, Monica, Yord, Rexar, Verna, Edric, Faerie, Aaron, Moga, Torun
+- **Human:** Andrew, Fenixia, Sophia, Alvarez, Valkyr, Denise, Garuda, Ali, Harold
+- **Nightfall:** Crystal, Daphne, Kataras, Sparta, Belial, Mirana, Chakiss, Marissa, Reina, Cthylla, Romano
 
 ---
 

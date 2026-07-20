@@ -1,86 +1,123 @@
 Hero Name,Skill Slot,Skill Name,Skill Type,Effect Summary (Lv30 baseline),Dmg Type,Star Gate (★1-★5),Data Source,Needs Screenshot Update
-Dragonic,Skill 1,Thunder Breath,Active,Deals 511% of ATK as Physical DMG to a single enemy.,Physical,★1-5: +30/+70/+120/+185/+270% bonus Physical DMG,Xyland s39 PDF,No
-Dragonic,Skill 2,Thunderous Wrath,Passive,"During battle, reduces all damage taken by your front-row units by 17%.",Buff,★1-5: −2% all damage taken per star (27% total @5★),Xyland s39 PDF,No
-Dragonic,Skill 3,Overload,Active (Buff),Reduces physical DMG taken by front-row allies by 29% for 1 turn.,Buff,★1: −2% more; ★2: 2 turns; ★3: −2% more; ★4: all allies; ★5: −2% more,Xyland s39 PDF,No
-Dragonic,Skill 4,Thunder Mark,Bond/Awaken,"HP & ATK & DEF +20%, Speed +40.",Buff,Fixed bond bonus,Xyland s39 PDF,No
-Rexar,Skill 1,Frostlord's Throne,Active,Deals 503% of ATK as Physical DMG to a single enemy.,Physical,★1-5: +30/+70/+120/+185/+270% bonus Physical DMG,Xyland s39 PDF,No
-Rexar,Skill 2,Eternal Frostlands,Passive,"During battle, reduces all damage taken by 30%.",Buff,★1-5: −3% per star (45% total @5★),Xyland s39 PDF,No
-Rexar,Skill 3,Frostbite Touch,Active (Buff),Increases front-row allies' DEF by 50% for 1 turn.,Buff,★1-2: +5% DEF; ★3: all allies; ★4: 2 turns; ★5: +5% DEF,Xyland s39 PDF,No
-Rexar,Skill 4,Chilling Surge,Bond/Awaken,"HP & ATK & DEF +20%, Speed +40.",Buff,Fixed bond bonus,Xyland s39 PDF,No
-Monica,Skill 1,Desert Ember,Active,Deals 614% Magic DMG to a single enemy; splashes to 1 back-row unit if target is front row.,Magic,★1-5: +30/+70/+120/+185/+270% bonus Magic DMG,Xyland s39 PDF,No
-Monica,Skill 2,Feline Fury,Passive,"During battle, increases your CRIT by 30%.",Buff,★1-5: +3% CRIT per star (45% total @5★),Xyland s39 PDF,No
-Monica,Skill 3,Savage Swoop,Active,"Launches 3 attacks, each dealing 396% Magic DMG to a random enemy.",Magic,★1: +30%; ★2: 4 attacks; ★3: +70%; ★4: 5 attacks; ★5: +120%,Xyland s39 PDF,No
-Monica,Skill 4,Bestial Blessing,Bond/Awaken,"HP & ATK & DEF +20%, Speed +40.",Buff,Fixed bond bonus,Xyland s39 PDF,No
-Sera,Skill 1,Arrow of the Butterfly,Active,Deals 609% of ATK as Magic DMG to a single enemy. On crit: 1–3 Magic Amplification stacks.,Magic,★1-5: +30/+70/+120/+185/+270% bonus Magic DMG,Xyland s39 PDF + screenshots,No
-Sera,Skill 2,Shadow Sprite,Passive,"During battle, increases Magic DMG you deal by 30%.",Buff,★1-5: +3% Magic DMG per star (45% total @5★),Xyland s39 PDF + screenshots,No
-Sera,Skill 3,Arrow of Destiny,Active (CS),"Performs 8 attacks (16 @4★), each 121% Magic DMG to random enemy; +1 hit per Magic Amplification stack.",Magic,★1: +30%; ★2: 12 hits; ★3: +70%; ★4: 16 hits; ★5: +120%,Xyland s39 PDF + screenshots,No
-Sera,Skill 4,Darkness Vanquisher,Bond/Awaken,"HP & ATK & DEF +20%, Speed +40.",Buff,Fixed bond bonus,Xyland s39 PDF,No
-Yord,Skill 1,Universal Chord,Active,Deals 508% of ATK as Magic DMG to a single enemy.,Magic,★1-5: +30/+70/+120/+185/+270% bonus Magic DMG,Xyland s39 PDF,No
-Yord,Skill 2,Lingering Echo,Passive,+45 Speed; reduces all damage taken by highest-ATK ally by 12%.,Buff,★1-5: +2 Speed and −1% dmg reduction per star,Xyland s39 PDF,No
-Yord,Skill 3,Travel Invitation,Active (Buff),Increases all allies' ATK by 16.5% for 1 turn.,Buff,★1: +2% ATK; ★2: +10% CRIT; ★3: +2% ATK; ★4: 2 turns; ★5: +2% ATK,Xyland s39 PDF,No
-Yord,Skill 4,Safe Prelude,Bond/Awaken,"HP & ATK & DEF +20%, Speed +40.",Buff,Fixed bond bonus,Xyland s39 PDF,No
-Andrew,Skill 1,Ultimate Duel,Active,Deals 619% of ATK as Physical DMG to a single enemy.,Physical,★1-5: +30/+70/+120/+185/+270% bonus Physical DMG,Xyland s39 PDF,No
-Andrew,Skill 2,Ode to Darkness,Passive,"During battle, reduces Magic DMG taken by 40%.",Buff,★1-5: +4% Magic DMG reduction per star (60% total @5★),Xyland s39 PDF,No
-Andrew,Skill 3,Despair's Backlash,Active (AoE),Deals 144% ATK Physical DMG to all enemies; reduces their Magic DMG dealt by 15%.,Physical,★1: +30%; ★2: −3% more magic debuff; ★3: +70%; ★4: −3%; ★5: +120%,Xyland s39 PDF,No
-Andrew,Skill 4,Avenging Warsong,Bond/Awaken,"HP & ATK & DEF +20%, Speed +40.",Buff,Fixed bond bonus,Xyland s39 PDF,No
-Valkyr,Skill 1,Battle Realm,Active,Deals 516% of ATK as Physical DMG to a single enemy.,Physical,★1-5: +30/+70/+120/+185/+270% bonus Physical DMG,Xyland s39 PDF,No
-Valkyr,Skill 2,Battle Mark,Passive,Front-row: −13% all DMG taken and −13% Magic DMG taken.,Buff,★1-5: +1.5% reduction per star each,Xyland s39 PDF,No
-Valkyr,Skill 3,Judgment,Active (Buff),Reduces Magic DMG taken by all allies by 19.9% for 1 turn; Human heroes gain extra reduction.,Buff,★1-4: Human +4/8/12/16% extra; ★5: duration 2 turns,Xyland s39 PDF,No
-Valkyr,Skill 4,Bloodthirst,Bond/Awaken,"HP & ATK & DEF +20%, Speed +40.",Buff,Fixed bond bonus,Xyland s39 PDF,No
-Fenixia,Skill 1,Incinerate,Active,Deals 605% ATK Magic DMG to a single enemy; +2 Flame Overload per Human ally at battle start.,Magic,★1-5: +30/+70/+120/+185/+270% bonus Magic DMG,Xyland s39 PDF,No
-Fenixia,Skill 2,Fireborn,Passive,Increases CRIT rate by 30%.,Buff,★1-5: +3% CRIT per star (45% total @5★),Xyland s39 PDF,No
-Fenixia,Skill 3,Flame Spiral,Active (AoE),Deals 320% ATK Magic DMG to all enemies.,Magic,★1-5: +30/+70/+120/+185/+270% bonus Magic DMG,Xyland s39 PDF,No
-Fenixia,Skill 4,Phoenix Wing,Bond/Awaken,"HP & ATK & DEF +20%, Speed +40.",Buff,Fixed bond bonus,Xyland s39 PDF,No
-Sophia,Skill 1,Dragonhunt,Active,Deals 620% ATK Magic DMG to a single enemy.,Magic,★1-5: +30/+70/+120/+185/+270% bonus Magic DMG,Xyland s39 PDF,No
-Sophia,Skill 2,Moonlit Ripples,Passive,Increases ATK by 40%.,Buff,★1-5: +4% ATK per star (60% total @5★),Xyland s39 PDF,No
-Sophia,Skill 3,Dragon's Waltz,Active,Deals 447% ATK Magic DMG to back-row (10% Stun 1 turn).,Magic,★1: +30%; ★2: 2 targets; ★3: +70%; ★4: 3 targets; ★5: +120%,Xyland s39 PDF,No
-Sophia,Skill 4,Nocturnal Brilliance,Bond/Awaken,"HP & ATK & DEF +20%, Speed +40.",Buff,Fixed bond bonus,Xyland s39 PDF,No
-Alvarez,Skill 1,Revolving Blades,Active,Deals 620% ATK Physical DMG to a single enemy.,Physical,★1-5: +30/+70/+120/+185/+270% bonus Physical DMG,Xyland s39 PDF,No
-Alvarez,Skill 2,Identify Weakness,Passive,Increases Physical DMG dealt by 30%.,Buff,★1-5: +3% Physical DMG per star (45% total @5★),Xyland s39 PDF,No
-Alvarez,Skill 3,Terror Blade,Active (CS),10 hits × 85% Physical DMG random; −5% DEF (max 25%) 2 turns.,Physical,★1: +30%; ★2: 15 hits; ★3: +70%; ★4: 20 hits; ★5: +120%,Xyland s39 PDF,No
-Alvarez,Skill 4,Azure Dagger,Bond/Awaken,"HP & ATK & DEF +20%, Speed +40.",Buff,Fixed bond bonus,Xyland s39 PDF,No
-Sparta,Skill 1,Demonic Sacrifice,Active,Deals 504% ATK Physical DMG to a single enemy.,Physical,★1-5: +30/+70/+120/+185/+270% bonus Physical DMG,Xyland s39 PDF,No
-Sparta,Skill 2,Devil's Rage,Passive,Reduces all damage taken by 30%.,Buff,★1-5: −3% per star (45% total @5★),Xyland s39 PDF,No
-Sparta,Skill 3,Scatter the Weak,Active (Taunt),Taunts 2 enemies; −16.5% ATK for 2 turns.,Debuff,★1: −2% more; ★2: 3 targets; ★3: −2%; ★4: 4 targets; ★5: −2%,Xyland s39 PDF,No
-Sparta,Skill 4,Demonic Edge,Bond/Awaken,"HP & ATK & DEF +20%, Speed +40.",Buff,Fixed bond bonus,Xyland s39 PDF,No
-Kataras,Skill 1,Frenzied Hellfire,Active,Deals 516% ATK Physical DMG to a random enemy.,Physical,★1-5: +30/+70/+120/+185/+270% bonus Physical DMG,Xyland s39 PDF,No
-Kataras,Skill 2,Soul's End,Passive,Front-row −13% all DMG taken; Nightfall heroes in Counterattack Mode gain double effect.,Buff,★1-5: +1.5% reduction per star,Xyland s39 PDF,No
-Kataras,Skill 3,Asura's Blade,Active,Counterattack Mode 1 turn: retaliate 130% basic-attack DMG (max 1/turn).,Physical,★1: +10% counter DMG; ★2: 2 turns; ★3: +10%; ★4: front row also enters mode; ★5: +10%,Xyland s39 PDF,No
-Kataras,Skill 4,King's Advance,Bond/Awaken,"HP & ATK & DEF +20%, Speed +40.",Buff,Fixed bond bonus,Xyland s39 PDF,No
-Daphne,Skill 1,Tragic Finale,Active,Deals 605% ATK Magic DMG to a random enemy.,Magic,★1-5: +30/+70/+120/+185/+270% bonus Magic DMG,Xyland s39 PDF,No
-Daphne,Skill 2,Sweet Blade,Passive,Increases Magic DMG dealt by 30%.,Buff,★1-5: +3% Magic DMG per star (45% total @5★),Xyland s39 PDF,No
-Daphne,Skill 3,First Bloom,Active,"Deals 510% ATK Magic DMG, prioritizing back-row enemies.",Magic,★1-5: +30/+70/+120/+185/+270% bonus Magic DMG,Xyland s39 PDF,No
-Daphne,Skill 4,Love Exchange,Bond/Awaken,"HP & ATK & DEF +20%, Speed +40.",Buff,Fixed bond bonus,Xyland s39 PDF,No
-Belial,Skill 1,Malice Curse,Active,Deals 605% ATK Physical DMG to lowest-HP enemy.,Physical,★1-5: +30/+70/+120/+185/+270% bonus Physical DMG,Xyland s39 PDF,No
-Belial,Skill 2,Endless Trepidation,Passive,Increases CRIT rate by 30%.,Buff,★1-5: +3% CRIT per star (45% total @5★),Xyland s39 PDF,No
-Belial,Skill 3,Otherworld Distortion,Active,Deals 399% ATK Physical DMG to 3 random enemies.,Physical,★1: +30%; ★2: +3% permanent ATK; ★3: +70%; ★4: +6% ATK; ★5: +120%,Xyland s39 PDF,No
-Belial,Skill 4,Offering Grimoire,Bond/Awaken,"HP & ATK & DEF +20%, Speed +40.",Buff,Fixed bond bonus,Xyland s39 PDF,No
-Mirana,Skill 1,Ceremony,Active,Deals 605% ATK Physical DMG to a single enemy.,Physical,★1-5: +30/+70/+120/+185/+270% bonus Physical DMG,Xyland s39 PDF,No
-Mirana,Skill 2,Soul Drain,Passive,Increases Physical DMG dealt by 30%.,Buff,★1-5: +3% Physical DMG per star (45% total @5★),Xyland s39 PDF,No
-Mirana,Skill 3,Resentful Chorus,Active (AoE),Deals 320% ATK Physical DMG to all enemies.,Physical,★1-5: +30/+70/+120/+185/+270% bonus Physical DMG,Xyland s39 PDF,No
-Mirana,Skill 4,Despair,Bond/Awaken,"HP & ATK & DEF +20%, Speed +40.",Buff,Fixed bond bonus,Xyland s39 PDF,No
-Crystal,Skill 1,Ferry Soul,Active,Deals 522.8% ATK Physical DMG to a single enemy.,Physical,★1-5: +30/+70/+120/+185/+270% bonus Physical DMG,User screenshots,No
-Crystal,Skill 2,Shadowy Soul,Active (Execute),Deals 1372.7% ATK Physical DMG; recast at 50% DMG on kill.,Physical,★1-5: +30/+70/+120/+185/+270% bonus Physical DMG,User screenshots,No
-Crystal,Skill 3,Soul Protection,Passive,Back-row Forest heroes +24.75% monster damage dealt.,Buff,★1-5: +3% monster DMG per star (~39.75% @5★),User screenshots,No
-Crystal,Skill 4,TBD,Bond/Awaken,Not yet captured in screenshots.,—,Pending,Pending screenshot,Yes
-Verna,Skill 1,Whispers of the Stars,Active (CS),683% Physical DMG random; vs monsters +12% damage taken 2 turns.,Physical,★1-5: +20/+45/+70/+100/+150% bonus Physical DMG,User screenshots,No
-Verna,Skill 2,Astral Guardian,Passive,+17.45% DMG to monsters; +53.45% Food/Iron/Gold after kills.,Buff,★1-5: +2% monster DMG and +5% resources per star,User screenshots,No
-Verna,Skill 3,Dance of the Stars,Active,331.2% ATK Physical DMG to 2 random enemies.,Physical,★1-5: +20/+45/+70/+100/+150% bonus Physical DMG,User screenshots,No
-Verna,Skill 4,Star Sigil Protection,Innate,HP & ATK & DEF +10%.,Buff,Innate trait,User screenshots,No
-Chakiss,Skill 1,Valiant Charge,Active,Deals 297% ATK Physical DMG to a single enemy.,Physical,★1-5: +20/+45/+70/+100/+150% bonus Physical DMG,User screenshots,No
-Chakiss,Skill 2,Valiant Counterattack,Active,249.4% Physical DMG to row; −6% enemy ATK 1 turn.,Physical,★1-5: +20/+45/+70/+100/+150% bonus Physical DMG,User screenshots,No
-Chakiss,Skill 3,Shield Shock,Passive,Reduces monster damage taken by 32.2%.,Buff,★1-5: +4% monster reduction per star,User screenshots,No
-Chakiss,Skill 4,Draconic Bloodline,Innate,HP & ATK & DEF +10%.,Buff,Innate trait,User screenshots,No
-Aaron,Skill 1,TBD,Active,Wolf king damage skill — pending screenshot,Physical,Pending,Hero Clash research,Yes
-Ali,Skill 1,TBD,Active,Electric boxer combo — pending screenshot,Physical,Pending,Hero Clash research,Yes
-Cthylla,Skill 1,TBD,Active,Deep terror AoE — pending screenshot,Magic,Pending,Hero Clash research,Yes
-Denise,Skill 1,TBD,Active (Buff),Team Speed buff — pending screenshot,Buff,Pending,Hero Clash research,Yes
-Edric,Skill 1,TBD,Active,Spore warrior damage/debuff — pending screenshot,Physical,Pending,Hero Clash research,Yes
-Faerie,Skill 1,TBD,Active (Buff),Back-row DPS scaler/heal — pending screenshot,Buff,Pending,Hero Clash research,Yes
-Garuda,Skill 1,TBD,Active,Front-row AoE + self heal — pending screenshot,Physical,Pending,Hero Clash research,Yes
-Marissa,Skill 1,TBD,Active,Low-HP execute assassin — pending screenshot,Physical,Pending,Hero Clash research,Yes
-Reina,Skill 1,TBD,Active,Disarm/enchant control — pending screenshot,Magic,Pending,Hero Clash research,Yes
-Harold,Skill 1,TBD,Active,Basic tank skill — pending screenshot,Physical,Pending,No public data,Yes
-Moga,Skill 1,TBD,Active,Samurai slash — pending screenshot,Physical,Pending,No public data,Yes
-Romano,Skill 1,TBD,Active,Front-row stun/control — pending screenshot,Physical,Pending,Hero Clash research,Yes
-Torun,Skill 1,TBD,Active,Berserker axe damage — pending screenshot,Physical,Pending,No public data,Yes
+Dragonic,Skill 1,Thunder Breath,Active,Deals 511% ATK Physical DMG single enemy.,Physical,★1-5: +30/+70/+120/+185/+270%,Xyland s39 PDF,No
+Dragonic,Skill 2,Thunderous Wrath,Passive,Front-row −17% all damage taken during battle.,Buff,★1-5: −2% per star,Xyland s39 PDF,No
+Dragonic,Skill 3,Overload,Active (Buff),−29% physical DMG to front-row allies 1 turn.,Buff,★1: −2%; ★2: 2 turns; ★3: −2%; ★4: all allies; ★5: −2%,Xyland s39 PDF,No
+Dragonic,Skill 4,Thunder Mark,Bond/Awaken,"HP/ATK/DEF +20%, Speed +40.",Buff,Fixed,Drive screenshot,No
+Rexar,Skill 1,Frostlord's Throne,Active,503% ATK Physical DMG single.,Physical,★1-5: +30/+70/+120/+185/+270%,Xyland s39 PDF,No
+Rexar,Skill 2,Eternal Frostlands,Passive,−30% all damage taken.,Buff,★1-5: −3% per star,Xyland s39 PDF,No
+Rexar,Skill 3,Frostbite Touch,Active (Buff),+50% DEF front row 1 turn.,Buff,★1-2: +5% DEF; ★3: all allies; ★4: 2 turns; ★5: +5%,Xyland s39 PDF,No
+Rexar,Skill 4,Chilling Surge,Bond/Awaken,"HP/ATK/DEF +20%, Speed +40.",Buff,Unlocks 4★,Drive screenshot,No
+Monica,Skill 1,Desert Ember,Active,614% Magic single; splashes back-row if front target.,Magic,★1-5: +30/+70/+120/+185/+270%,Xyland s39 PDF,No
+Monica,Skill 2,Feline Fury,Passive,+30% CRIT.,Buff,★1-5: +3% per star,Xyland s39 PDF,No
+Monica,Skill 3,Savage Swoop,Active,3×396% Magic random.,Magic,★1: +30%; ★2: 4 hits; ★3: +70%; ★4: 5 hits; ★5: +120%,Xyland s39 PDF,No
+Monica,Skill 4,Bestial Blessing,Bond/Awaken,"HP/ATK/DEF +20%, Speed +40.",Buff,Fixed,Drive screenshot,No
+Sera,Skill 1,Arrow of the Butterfly,Active,609% Magic single; crit → Amplification stacks.,Magic,★1-5: +30/+70/+120/+185/+270%,Xyland s39 PDF,No
+Sera,Skill 2,Shadow Sprite,Passive,+30% Magic DMG dealt.,Buff,★1-5: +3% per star,Xyland s39 PDF,No
+Sera,Skill 3,Arrow of Destiny,Active (CS),8 hits×121% Magic random (+16 @4★); +1 hit per Amplification.,Magic,★1: +30%; ★2: 12 hits; ★3: +70%; ★4: 16 hits; ★5: +120%,Xyland s39 PDF,No
+Sera,Skill 4,Darkness Vanquisher,Bond/Awaken,"HP/ATK/DEF +20%, Speed +40.",Buff,Fixed,Drive screenshot,No
+Yord,Skill 1,Universal Chord,Active,508% Magic single.,Magic,★1-5: +30/+70/+120/+185/+270%,Xyland s39 PDF,No
+Yord,Skill 2,Lingering Echo,Passive,+45 Speed; −12% dmg to highest-ATK ally.,Buff,"★1-5: +2 Speed, −1% per star",Xyland s39 PDF,No
+Yord,Skill 3,Travel Invitation,Active (Buff),+16.5% ATK all allies 1 turn.,Buff,★1: +2% ATK; ★2: +10% CRIT; ★3: +2%; ★4: 2 turns; ★5: +2%,Xyland s39 PDF,No
+Yord,Skill 4,Safe Prelude,Bond/Awaken,"HP/ATK/DEF +20%, Speed +40.",Buff,Fixed,Drive screenshot,No
+Andrew,Skill 1,Ultimate Duel,Active,619% Physical single.,Physical,★1-5: +30/+70/+120/+185/+270%,Xyland s39 PDF,No
+Andrew,Skill 2,Ode to Darkness,Passive,−40% Magic DMG taken.,Buff,★1-5: +4% per star,Xyland s39 PDF,No
+Andrew,Skill 3,Despair's Backlash,Active (AoE),144% Physical all enemies; −15% enemy Magic DMG dealt.,Physical,★1: +30%; ★2: −3% debuff; ★3: +70%; ★4: −3%; ★5: +120%,Xyland s39 PDF,No
+Andrew,Skill 4,Avenging Warsong,Bond/Awaken,"HP/ATK/DEF +20%, Speed +40.",Buff,Fixed,Xyland s39 PDF,No
+Valkyr,Skill 1,Battle Realm,Active,516% Physical single.,Physical,★1-5: +30/+70/+120/+185/+270%,Xyland s39 PDF,No
+Valkyr,Skill 2,Battle Mark,Passive,Front-row −13% all dmg and −13% magic dmg.,Buff,★1-5: +1.5% per star,Xyland s39 PDF,No
+Valkyr,Skill 3,Judgment,Active (Buff),−19.9% Magic DMG all allies 1 turn; Human bonus.,Buff,★1-4: Human +4/8/12/16%; ★5: 2 turns,Xyland s39 PDF,No
+Valkyr,Skill 4,Bloodthirst,Bond/Awaken,"HP/ATK/DEF +20%, Speed +40.",Buff,Fixed,Xyland s39 PDF,No
+Fenixia,Skill 1,Incinerate,Active,605% Magic single; Flame Overload per Human ally.,Magic,★1-5: +30/+70/+120/+185/+270%,Xyland s39 PDF,No
+Fenixia,Skill 2,Fireborn,Passive,+30% CRIT.,Buff,★1-5: +3% per star,Xyland s39 PDF,No
+Fenixia,Skill 3,Flame Spiral,Active (AoE),320% Magic all enemies.,Magic,★1-5: +30/+70/+120/+185/+270%,Xyland s39 PDF,No
+Fenixia,Skill 4,Phoenix Wing,Bond/Awaken,"HP/ATK/DEF +20%, Speed +40.",Buff,Fixed,Xyland s39 PDF,No
+Sophia,Skill 1,Dragonhunt,Active,620% Magic single.,Magic,★1-5: +30/+70/+120/+185/+270%,Xyland s39 PDF,No
+Sophia,Skill 2,Moonlit Ripples,Passive,+40% ATK.,Buff,★1-5: +4% per star,Xyland s39 PDF,No
+Sophia,Skill 3,Dragon's Waltz,Active,447% Magic back-row; 10% Stun.,Magic,★1: +30%; ★2: 2 targets; ★3: +70%; ★4: 3 targets; ★5: +120%,Xyland s39 PDF,No
+Sophia,Skill 4,Nocturnal Brilliance,Bond/Awaken,"HP/ATK/DEF +20%, Speed +40.",Buff,Fixed,Xyland s39 PDF,No
+Alvarez,Skill 1,Revolving Blades,Active,620% Physical single (346.6% @ Lv13).,Physical,★1-5: +30/+70/+120/+185/+270%,Drive screenshot,No
+Alvarez,Skill 2,Identify Weakness,Passive,+23.6% Physical DMG dealt.,Buff,★1-5: +3% per star,Drive screenshot,No
+Alvarez,Skill 3,Terror Blade,Active (CS),10×43% Physical random; −5% DEF stack.,Physical,★1: +30%; ★2: 15 hits; ★3: +70%; ★4: 20 hits; ★5: +120%,Drive screenshot,No
+Alvarez,Skill 4,Azure Dagger,Bond/Awaken,"HP/ATK/DEF +20%, Speed +40.",Buff,Fixed,Drive screenshot,No
+Sparta,Skill 1,Demonic Sacrifice,Active,504% Physical single.,Physical,★1-5: +30/+70/+120/+185/+270%,Xyland s39 PDF,No
+Sparta,Skill 2,Devil's Rage,Passive,−30% all damage taken.,Buff,★1-5: −3% per star,Xyland s39 PDF,No
+Sparta,Skill 3,Scatter the Weak,Active (Taunt),Taunt 2; −16.5% ATK 2 turns.,Debuff,★1: −2%; ★2: 3 targets; ★3: −2%; ★4: 4 targets; ★5: −2%,Xyland s39 PDF,No
+Sparta,Skill 4,Demonic Edge,Bond/Awaken,"HP/ATK/DEF +20%, Speed +40.",Buff,Fixed,Xyland s39 PDF,No
+Kataras,Skill 1,Frenzied Hellfire,Active,516% Physical random.,Physical,★1-5: +30/+70/+120/+185/+270%,Xyland s39 PDF,No
+Kataras,Skill 2,Soul's End,Passive,Front-row −13% dmg; double in Counterattack Mode.,Buff,★1-5: +1.5% per star,Xyland s39 PDF,No
+Kataras,Skill 3,Asura's Blade,Active,Counterattack Mode: retaliate 130% basic-attack DMG.,Physical,★1: +10% counter; ★2: 2 turns; ★3: +10%; ★4: front row mode; ★5: +10%,Xyland s39 PDF,No
+Kataras,Skill 4,King's Advance,Bond/Awaken,"HP/ATK/DEF +20%, Speed +40.",Buff,Fixed,Xyland s39 PDF,No
+Daphne,Skill 1,Tragic Finale,Active,605% Magic random.,Magic,★1-5: +30/+70/+120/+185/+270%,Xyland s39 PDF,No
+Daphne,Skill 2,Sweet Blade,Passive,+30% Magic DMG dealt.,Buff,★1-5: +3% per star,Xyland s39 PDF,No
+Daphne,Skill 3,First Bloom,Active,510% Magic back-row priority.,Magic,★1-5: +30/+70/+120/+185/+270%,Xyland s39 PDF,No
+Daphne,Skill 4,Love Exchange,Bond/Awaken,"HP/ATK/DEF +20%, Speed +40.",Buff,Fixed,Xyland s39 PDF,No
+Belial,Skill 1,Malice Curse,Active,605% Physical lowest-HP.,Physical,★1-5: +30/+70/+120/+185/+270%,Xyland s39 PDF,No
+Belial,Skill 2,Endless Trepidation,Passive,+30% CRIT.,Buff,★1-5: +3% per star,Xyland s39 PDF,No
+Belial,Skill 3,Otherworld Distortion,Active,399% Physical to 3 random.,Physical,★1: +30%; ★2: +3% ATK; ★3: +70%; ★4: +6% ATK; ★5: +120%,Xyland s39 PDF,No
+Belial,Skill 4,Offering Grimoire,Bond/Awaken,"HP/ATK/DEF +20%, Speed +40.",Buff,Fixed,Xyland s39 PDF,No
+Mirana,Skill 1,Ceremony,Active,605% Physical single.,Physical,★1-5: +30/+70/+120/+185/+270%,Xyland s39 PDF,No
+Mirana,Skill 2,Soul Drain,Passive,+30% Physical DMG dealt.,Buff,★1-5: +3% per star,Xyland s39 PDF,No
+Mirana,Skill 3,Resentful Chorus,Active (AoE),320% Physical all enemies.,Physical,★1-5: +30/+70/+120/+185/+270%,Xyland s39 PDF,No
+Mirana,Skill 4,Despair,Bond/Awaken,"HP/ATK/DEF +20%, Speed +40.",Buff,Unlocks 4★,Drive screenshot,No
+Crystal,Skill 1,Ferry Soul,Active,522.8% Physical single.,Physical,★1-5: +30/+70/+120/+185/+270%,Drive screenshot,No
+Crystal,Skill 2,Shadowy Soul,Active (Execute),1372.7% Physical; recast 50% on kill.,Physical,★1-5: +30/+70/+120/+185/+270%,Drive screenshot,No
+Crystal,Skill 3,Soul Protection,Passive,Back-row Forest +24.75% monster DMG.,Buff,★1-5: +3% per star,Drive screenshot,No
+Crystal,Skill 4,Guiding Lamp,Bond/Awaken,"HP/ATK/DEF +20%, Speed +40.",Buff,Fixed,Drive screenshot,No
+Verna,Skill 1,Whispers of the Stars,Active (CS),683% Physical random; +12% dmg taken vs monsters.,Physical,★1-5: +20/+45/+70/+100/+150%,Drive screenshot,No
+Verna,Skill 2,Astral Guardian,Passive,+17.45% monster DMG; +53.45% resources after kills.,Buff,"★1-5: +2% DMG, +5% resources per star",Drive screenshot,No
+Verna,Skill 3,Dance of the Stars,Active,331.2% Physical to 2 random.,Physical,★1-5: +20/+45/+70/+100/+150%,Drive screenshot,No
+Verna,Skill 4,Star Sigil Protection,Innate,HP/ATK/DEF +10%.,Buff,Innate,Drive screenshot,No
+Chakiss,Skill 1,Valiant Charge,Active,297% Physical single.,Physical,★1-5: +20/+45/+70/+100/+150%,Drive screenshot,No
+Chakiss,Skill 2,Valiant Counterattack,Active,249.4% Physical row; −6% enemy ATK.,Physical,★1-5: +20/+45/+70/+100/+150%,Drive screenshot,No
+Chakiss,Skill 3,Shield Shock,Passive,−32.2% monster damage taken.,Buff,★1-5: +4% per star,Drive screenshot,No
+Chakiss,Skill 4,Draconic Bloodline,Innate,HP/ATK/DEF +10%.,Buff,Innate,Drive screenshot,No
+Denise,Skill 1,Mirror Play,Active,143.2% Physical single.,Physical,★1-5: +20/+45/+70/+100/+150%,Drive screenshot Jul 2026,No
+Denise,Skill 2,Inspire,Passive,−21.8% monster damage taken.,Buff,★1-4: +4% per star,Drive screenshot Jul 2026,No
+Denise,Skill 3,Charming Song,Active (Buff),Back-row +12% monster damage 1 turn.,Buff,★1-3: +1%; ★4: 2 turns; ★5: +1%,Drive screenshot Jul 2026,No
+Denise,Skill 4,One Last Song,Bond (4★),HP/ATK/DEF +10%.,Buff,Unlocks 4★,Drive screenshot Jul 2026,No
+Marissa,Skill 1,Charge,Active,425.3% Physical single; Stun chance.,Physical,★1: +20%; ★2: 10% Stun; ★3: +45%; ★4: 20% Stun; ★5: +70%,Drive screenshot Jul 2026,No
+Marissa,Skill 2,Triumphal Emblem,Passive,+27% monster damage dealt.,Buff,★1-4: +4% per star,Drive screenshot Jul 2026,No
+Marissa,Skill 3,Absolute Precision,Active,336% Physical single.,Physical,★1-5: +20/+45/+70/+100/+150%,Drive screenshot Jul 2026,No
+Marissa,Skill 4,Ranged Deterrence,Innate,HP/ATK/DEF +10%.,Buff,Innate,Drive screenshot Jul 2026,No
+Garuda,Skill 1,Spear Rain,Active,175.2% Magic single.,Magic,★1-5: +20/+45/+70/+100/+150%,Drive screenshot Jul 2026,No
+Garuda,Skill 2,Energizing Lance,Passive,−27% monster damage taken.,Buff,★1-4: +4% per star,Drive screenshot Jul 2026,No
+Garuda,Skill 3,War Instinct,Active (Buff),+26% DEF front row 1 turn.,Buff,★1-3: +4%; ★4: 2 turns; ★5: +4%,Drive screenshot Jul 2026,No
+Garuda,Skill 4,Fervent Battle Soul,Innate,HP/ATK/DEF +10%.,Buff,Innate,Drive screenshot Jul 2026,No
+Reina,Skill 1,Explosive Demon,Active,172.6% Physical single.,Physical,★1-5: +20/+45/+70/+100/+150%,Drive screenshot Jul 2026,No
+Reina,Skill 2,Devil's Embrace,Passive,+23% monster damage dealt.,Buff,★1-5: +4% per star,Drive screenshot Jul 2026,No
+Reina,Skill 3,Demonic Sacrifice,Active (CS),5×75.3% Physical random.,Physical,★1: +20%; ★2: 7 hits; ★3: +45%; ★4: 9 hits; ★5: +70%,Drive screenshot Jul 2026,No
+Reina,Skill 4,Ward Evil,Bond (4★),HP/ATK/DEF +10%.,Buff,Unlocks 4★,Drive screenshot Jul 2026,No
+Aaron,Skill 1,Mesmer Talon,Active,126.7% Magic single.,Magic,★1-5: +20/+45/+70/+100/+150%,Drive screenshot Jul 2026,No
+Aaron,Skill 2,Lupine Nature,Passive,−21.5% monster damage taken.,Buff,★1-4: +4% per star,Drive screenshot Jul 2026,No
+Aaron,Skill 3,Scar of Misfortune,Active (Buff),Front-row −11% monster damage 1 turn.,Buff,★1-3: +2%; ★4: 2 turns; ★5: +2%,Drive screenshot Jul 2026,No
+Aaron,Skill 4,Ravenous Pack,Bond (4★),HP/ATK/DEF +10%.,Buff,Unlocks 4★,Drive screenshot Jul 2026,No
+Cthylla,Skill 1,Soul Trial,Active,161.3% Magic single.,Magic,★1-5: +20/+45/+70/+100/+150%,Drive screenshot Jul 2026,No
+Cthylla,Skill 2,Tentacle Strike,Passive,+19% ATK.,Buff,★1-5: +3% per star,Drive screenshot Jul 2026,No
+Cthylla,Skill 3,Soul Bash,Active (CS),113.3% Magic to 2 enemies; DEF debuff.,Magic,★1: +20%; ★2: −10% DEF; ★3: +45%; ★4: −15% DEF; ★5: +70%,Drive screenshot Jul 2026,No
+Cthylla,Skill 4,Harsh Discipline,Bond (4★),HP/ATK/DEF +10%.,Buff,Unlocks 4★,Drive screenshot Jul 2026,No
+Harold,Skill 1,Ruthless Fist,Active,156% Physical single.,Physical,★1-5: +15/+30/+50/+75/+100%,Drive screenshot Jul 2026,No
+Harold,Skill 2,Emergency Restoration,Active,143.1% Physical to 2 enemies.,Physical,★1: +15%; ★2: 3 targets; ★3: +30%; ★4: +50%; ★5: +75%,Drive screenshot Jul 2026,No
+Harold,Skill 3,Fury Stance,Innate,HP/ATK/DEF +5%.,Buff,Innate,Drive screenshot Jul 2026,No
+Harold,Skill 4,TBD (CS),Active,CS skill visible in roster — description not captured.,Physical,Pending,Drive screenshot — icon only,Yes
+Torun,Skill 1,Berserk Axe,Active,156% Physical single.,Physical,★1-5: +15/+30/+50/+75/+100%,Drive screenshot Jul 2026,No
+Torun,Skill 2,Rising Wrath,Active,150.4% Physical to 2 enemies.,Physical,★1: +15%; ★2: 3 targets; ★3: +30%; ★4: +50%; ★5: +75%,Drive screenshot Jul 2026,No
+Torun,Skill 3,Triumphant Howl,Innate,HP/ATK/DEF +5%.,Buff,Innate,Drive screenshot Jul 2026,No
+Torun,Skill 4,TBD,Active,Skill icon visible — description not captured.,Physical,Pending,Drive screenshot — icon only,Yes
+Moga,Skill 1,Log Toss,Active,236.1% Physical single.,Physical,★1-5: +15/+30/+50/+75/+100%,Drive screenshot Jul 2026,No
+Moga,Skill 2,Log Power,Active (CS),160% Physical to 2 enemies.,Physical,★1: +15%; ★2: 3 targets; ★3: +30%; ★4: +50%; ★5: +75%,Drive screenshot Jul 2026,No
+Moga,Skill 3,Purifying Dew,Innate,HP/ATK/DEF +5%.,Buff,Innate,Drive screenshot Jul 2026,No
+Ali,Skill 1,Electric Punch,Active,151.1% Physical single.,Physical,★1-5: +20/+45/+70/+100/+150%,Drive screenshot Jul 2026,No
+Ali,Skill 2,Piercing Fists,Active (CS),4×76.7% Physical random.,Physical,★1: +20%; ★2: 6 hits; ★3: +45%; ★4: 8 hits; ★5: +70%,Drive screenshot Jul 2026,No
+Ali,Skill 3,Unstoppable War Drive,Passive,+19% ATK.,Buff,★1-5: +3% per star,Drive screenshot Jul 2026,No
+Ali,Skill 4,Unending Trials,Bond (4★),HP/ATK/DEF +10%.,Buff,Unlocks 4★,Drive screenshot Jul 2026,No
+Faerie,Skill 1,Nature's Awakening,Active (CS),173.6% Physical single.,Physical,★1-5: +20/+45/+70/+100/+150%,Drive screenshot Jul 2026,No
+Faerie,Skill 2,Unending Life,Passive,+169.6% ATK.,Buff,★1-5: +3% per star,Drive screenshot Jul 2026,No
+Faerie,Skill 3,Nature's Punishment,Active,209.8% Physical to 2 random.,Physical,★1-5: +20/+45/+70/+100/+150%,Drive screenshot Jul 2026,No
+Faerie,Skill 4,Primal Realm,Bond (4★),HP/ATK/DEF +10%.,Buff,Unlocks 4★,Drive screenshot Jul 2026,No
+Romano,Skill 1,Cleanse Heresy,Active,158.8% Physical single.,Physical,★1-5: +15/+30/+50/+75/+100%,Drive screenshot Jul 2026,No
+Romano,Skill 2,Piercing Fists,Active,144.9% Physical to 2 enemies.,Physical,★1: +15%; ★2: 3 targets; ★3: +30%; ★4: +50%; ★5: +75%,Drive screenshot Jul 2026,No
+Romano,Skill 3,TBD (CS),Active,CS skill visible — description not captured.,Physical,Pending,Drive screenshot — icon only,Yes
+Edric,Skill 1,TBD,Active,Damage skill visible (spear icon) — description not captured.,Physical,Pending,Drive screenshot — icon only,Yes
+Edric,Skill 2,Longevity,Passive,+80% DEF during battle.,Buff,★1-5: +10% DEF per star,Drive screenshot Jul 2026,No
+Edric,Skill 3,Agility,Active (Buff),−28% monster damage taken 1 turn.,Buff,★1-3: +4%; ★4: 2 turns; ★5: +4%,Drive screenshot Jul 2026,No
+Edric,Skill 4,Strengthen,Innate,HP/ATK/DEF +10%.,Buff,Innate,Drive screenshot Jul 2026,No

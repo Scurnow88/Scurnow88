@@ -1,0 +1,13 @@
+Hero,Title,Faction,Role,CP,Stars,Skill1_Lv,Skill2_Lv,Skill3_Lv,Skill4_Lv,Exclusive_Gear_Lv,UB_Priority,Notes
+Sera,The Heiress,Forest,Buffer,3063938,5,34,33,33,,12,SS,Rally core — Forest faction buff + team heals
+Dragonic,The Dragon,Forest,Tank,3056086,5,33,33,33,,,A,Frontline option; high CP but tanks underperform vs DPS on UB
+Andrew,The King,Human,Tank,2982396,5,33,33,33,,,A,Best rally front (1.4M HP); PvP king not UB DPS
+Fenixia,The Phoenix,Human,DPS,2861192,5,33,33,33,,7,S,Human burst; pair with Sera + Andrew
+Crystal,The Soul,Forest,Buffer,2839155,5,33,33,30,,,SS,Soul Protection 30/30 — Forest backrow monster buff
+Monica,The Assassin,Forest,DPS,2830483,5,33,33,33,,,S,Forest crit DPS; faction synergy with Sera/Verna
+Yord,The Sage,Forest,Buffer,2812152,5,33,33,33,,,SS,Mandatory buffer — use on every UB team
+Daphne,The Shadow,Nightfall,DPS,2740110,5,12,14,12,,,C,Under-leveled skills; Nightfall filler only
+Kataras,The Guardian,Nightfall,Tank,2739574,5,12,12,12,,,C,Counter-tank; low skills — not for UB
+Alvarez,The Alchemist,Human,DPS,2596122,4,33,33,33,,,D,4★ not awakened — do not use for UB yet
+Belial,The Demon,Nightfall,DPS,2447229,3,16,12,12,,,D,3★ — ascend before any serious use
+Verna,The Star,Forest,DPS,2401789,5,33,33,33,,,SS+,UB specialist — Astral Guardian +17.45% monster DMG; raise CP

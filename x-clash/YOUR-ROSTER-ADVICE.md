@@ -78,6 +78,46 @@ Based on **12 hero screenshots** from your Drive upload. CP and skill levels tak
 
 ---
 
+## World Boss — Team 1 (locked)
+
+**Same core as Union Boss, but no tank** — swap **Andrew → Monica** for max damage.
+
+### Roster
+
+| Slot | Hero | Role | Why this pick |
+|------|------|------|----------------|
+| **Back** | **Yord** | Buffer | Mandatory — team damage + survivability |
+| **Back** | **Sera** | Buffer | Forest faction buff + amplification |
+| **Back** | **Verna** | DPS | Monster specialist — Astral Guardian + debuff |
+| **Back** | **Crystal** | Buffer/DPS | Soul Protection buffs **Monica + Verna** (Forest back row) |
+| **Back** | **Monica** | DPS | Forest crit DPS — more boss damage than any tank |
+
+### One-line lineup
+
+**`Yord · Sera · Verna · Crystal · Monica`**
+
+### Formation
+
+```
+    [ Yord ]  [ Sera ]  [ Verna ]  [ Crystal ]  [ Monica ]
+```
+
+- **All back row** — World Boss is a damage race; tanks hurt your score.
+- **Andrew** stays on **Union Boss only** (rally survival).
+
+### UB vs WB at a glance
+
+| Hero | Union Boss Team 1 | World Boss Team 1 |
+|------|:-----------------:|:-----------------:|
+| Yord | ✅ | ✅ |
+| Sera | ✅ | ✅ |
+| Verna | ✅ | ✅ |
+| Crystal | ✅ | ✅ |
+| Andrew | ✅ (front) | ❌ |
+| Monica | ❌ (Team 2+) | ✅ |
+
+---
+
 ## 4-team strategy (1 rally + 3 join) — draft
 
 *Each hero appears on **one** team only. Teams 2–4 TBD — heroes listed above are reserved for those lineups.*
@@ -85,6 +125,10 @@ Based on **12 hero screenshots** from your Drive upload. CP and skill levels tak
 ### Team 1 — Your rally (locked)
 
 `Andrew · Yord · Sera · Verna · Crystal`
+
+### World Boss Team 1 (locked)
+
+`Yord · Sera · Verna · Crystal · Monica`
 
 ---
 
@@ -121,14 +165,19 @@ Faction bonus **+10%** with three Forest + two Human. Andrew front; Sera/Yord-st
 | Mode | Top 5 |
 |------|--------|
 | **Union Boss Team 1** | Andrew, Yord, Sera, Verna, Crystal |
-| **Union Boss Teams 2–4** | TBD (Dragonic, Monica, Fenixia, …) |
+| **World Boss Team 1** | Yord, Sera, Verna, Crystal, Monica |
+| **Union Boss Teams 2–4** | TBD (Dragonic, Fenixia, …) |
 | **PvP** | Sera, Dragonic, Verna, Andrew, Fenixia |
 | **Don’t use yet** | Belial, Alvarez (ascend first) |
 
 ---
 
-## Data file
+## Data files
 
-Your roster is also in **`x-clash-my-roster.csv`** for import into the master spreadsheet.
+| File | Contents |
+|------|----------|
+| **`X-CLASH-MASTER-RAW-DATA.xlsx`** | Master workbook — My Teams, My Roster, heroes, skills |
+| **`x-clash-my-teams.csv`** | Locked lineups (UB / WB / PvP) |
+| **`x-clash-my-roster.csv`** | Your heroes with team assignments |
 
 If you upload a **full roster grid** (all owned heroes), we can refine join teams and book/gear priority further.

@@ -363,10 +363,15 @@ Monica + Sera + Yord + Dragonic + Rexar
 
 | File | Use |
 |------|-----|
-| `x-clash-heroes-master.csv` | Main roster — import to Google Sheets |
+| `X-CLASH-MASTER-RAW-DATA.xlsx` | **Master workbook** — My Teams, My Roster, heroes, skills |
+| `x-clash-my-teams.csv` | Locked Union Boss / World Boss / PvP lineups |
+| `x-clash-my-roster.csv` | **Your** heroes — CP, skills, team assignments |
+| `x-clash-heroes-master.csv` | All 31 heroes — import to Google Sheets |
 | `x-clash-heroes-skills.csv` | Skills per hero; update from screenshots |
 | `x-clash-heroes-tier-by-mode.csv` | PvP / WB / Campaign tiers side-by-side |
-| `x-clash-my-roster-template.csv` | **Your** heroes — fill with your levels/gear |
+| `x-clash-my-roster-template.csv` | Blank template for new heroes |
+
+Regenerate workbook: `python3 x-clash/scripts/generate-master-workbook.py`
 
 ### Import to Google Sheets
 1. Open [Google Sheets](https://sheets.google.com) → Blank spreadsheet

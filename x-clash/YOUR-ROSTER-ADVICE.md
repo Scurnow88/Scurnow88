@@ -25,49 +25,66 @@ Based on **12 hero screenshots** from your Drive upload. CP and skill levels tak
 
 ---
 
-## Union Boss — your best team (rally leader)
+## Union Boss — Team 1 (your main rally)
 
-Use this when **you** start the rally:
+**Rule:** Each hero can only be on **one** team. This is your single strongest Union Boss lineup — use it when **you** lead the rally.
 
-| Slot | Hero | Why |
-|------|------|-----|
-| Front | **Andrew** | ~1.4M HP — survives boss hits; frees back row |
-| Buffer | **Yord** | Team-wide damage + survivability |
-| Buffer | **Sera** | Forest faction + heals |
-| DPS | **Verna** | +17.45% monster DMG (Astral Guardian) |
-| DPS / buff | **Crystal** | Soul Protection 30/30 buffs Forest backrow (Verna, Monica) |
+### Roster
 
-**Alternates:** Swap Andrew → **Dragonic** if you need more Forest faction tiles; swap Crystal → **Monica** or **Fenixia** if you already have enough buff uptime.
+| Slot | Hero | Role | Why this pick |
+|------|------|------|----------------|
+| **Front** | **Andrew** | Tank | ~1.4M HP — absorbs boss hits so back row stays alive |
+| **Back** | **Yord** | Buffer | Mandatory — team damage + survivability |
+| **Back** | **Sera** | Buffer | Forest faction buff + heals; highest CP on account |
+| **Back** | **Verna** | DPS | **+17.45% monster DMG** (Astral Guardian) + monster debuff |
+| **Back** | **Crystal** | Buffer/DPS | Soul Protection buffs **back-row Forest** — multiplies Verna’s damage |
+
+### One-line lineup
+
+**`Andrew · Yord · Sera · Verna · Crystal`**
+
+### Formation
+
+```
+        [ Yord ]  [ Sera ]  [ Verna ]  [ Crystal ]
+                      [ Andrew ]
+```
+
+- Put **Andrew** in the **front** slot only.
+- Put **Yord, Sera, Verna, Crystal** in the **back row** so Crystal’s **Soul Protection** applies to Verna (and other Forest back-row units).
+
+### Why not the others?
+
+| Hero | Why they’re off Team 1 |
+|------|-------------------------|
+| **Dragonic** | Higher CP, but tanks deal less boss damage than this buffer + DPS core |
+| **Monica** | Strong DPS — save for **Team 2**; Crystal’s back-row buff lifts **Verna** more than swapping in Monica |
+| **Fenixia** | Human burst — better on a **second** team with remaining heroes |
+| **Daphne / Kataras** | Skills too low (12–14) |
+| **Belial / Alvarez** | Not 5★ — not UB-ready |
+
+### Buff stack on Verna (why this team wins)
+
+1. **Yord** — team-wide damage buff  
+2. **Sera** — Forest faction + amplification  
+3. **Crystal** — Soul Protection (+monster DMG to back-row Forest)  
+4. **Verna** — Astral Guardian (+17.45% vs monsters) + Whispers debuff (+12% damage taken)
+
+### Left for your other teams (Teams 2–4)
+
+`Dragonic · Monica · Fenixia · Daphne · Kataras · Belial · Alvarez` — we can build those next when you’re ready.
 
 **Do not use for UB:** Belial (3★), Alvarez (4★), Daphne/Kataras until skills are 30+.
 
 ---
 
-## 4-team strategy (1 rally + 3 join)
+## 4-team strategy (1 rally + 3 join) — draft
 
-You only have **12 heroes**, so you **cannot** field four full unique teams at once. Plan for **one strong rally** and **join others** with your next-best lineups **at different times** (reuse Yord/Sera between rallies if not simultaneous).
+*Each hero appears on **one** team only. Teams 2–4 TBD — heroes listed above are reserved for those lineups.*
 
-### Team 1 — Your rally (max damage)
+### Team 1 — Your rally (locked)
 
 `Andrew · Yord · Sera · Verna · Crystal`
-
-### Team 2 — Join rally (Human burst)
-
-`Dragonic · Yord · Sera · Fenixia · Monica`
-
-- Forest + Human mix; Fenixia benefits from Sera’s Human buff.
-
-### Team 3 — Join rally (Forest monster stack)
-
-`Dragonic · Crystal · Monica · Verna · Yord`
-
-- Double Forest DPS with Crystal backrow buff; no Sera — accept less healing.
-
-### Team 4 — Filler / Nightfall (weakest)
-
-`Kataras · Daphne · Belial · Alvarez · (borrow buffer from alliance)`
-
-- Only use if you must fill a slot; **invest ascensions** on Belial/Alvarez before relying on this.
 
 ---
 
@@ -103,8 +120,8 @@ Faction bonus **+10%** with three Forest + two Human. Andrew front; Sera/Yord-st
 
 | Mode | Top 5 |
 |------|--------|
-| **Union Boss rally** | Andrew, Yord, Sera, Verna, Crystal |
-| **Union Boss join** | Dragonic, Yord, Sera, Fenixia, Monica |
+| **Union Boss Team 1** | Andrew, Yord, Sera, Verna, Crystal |
+| **Union Boss Teams 2–4** | TBD (Dragonic, Monica, Fenixia, …) |
 | **PvP** | Sera, Dragonic, Verna, Andrew, Fenixia |
 | **Don’t use yet** | Belial, Alvarez (ascend first) |
 

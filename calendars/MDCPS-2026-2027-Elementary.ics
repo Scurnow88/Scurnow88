@@ -1,0 +1,1062 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MDCPS Parent Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MDCPS 2026-2027 Elementary
+X-WR-CALDESC:Miami-Dade County Public Schools 2026-2027 elementary student 
+ calendar. Includes first/last day\, holidays\, recesses\, teacher planning
+  days (no students)\, grading-period markers\, and Wednesday early release
+  for Grades 2-5.
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+UID:mdcps-2026-2027-first-day@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:First Day of School
+DESCRIPTION:First day of school\; begin first semester. Source: Miami-Dade 
+ County Public Schools 2026-2027 School Calendar\, Elementary and Secondary
+ .
+CATEGORIES:School Day
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:First Day of School
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-labor-day@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:No School — Labor Day
+DESCRIPTION:Labor Day\; holiday for students and employees. Source: Miami-D
+ ade County Public Schools 2026-2027 School Calendar\, Elementary and Secon
+ dary.
+CATEGORIES:Holiday
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:No School — Labor Day
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-planning-2026-09-21@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:No School — Teacher Planning Day
+DESCRIPTION:Teacher planning day\; no students in school. Source: Miami-Dad
+ e County Public Schools 2026-2027 School Calendar\, Elementary and Seconda
+ ry.
+CATEGORIES:No School
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:No School — Teacher Planning Day
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-end-gp1@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:End of First Grading Period
+DESCRIPTION:End of first grading period\; first semester. Students are in s
+ chool. Source: Miami-Dade County Public Schools 2026-2027 School Calendar\
+ , Elementary and Secondary.
+CATEGORIES:Grading Period
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-begin-gp2@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Beginning of Second Grading Period
+DESCRIPTION:Beginning of second grading period\; first semester. Source: Mi
+ ami-Dade County Public Schools 2026-2027 School Calendar\, Elementary and 
+ Secondary.
+CATEGORIES:Grading Period
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-planning-2026-11-03@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:No School — Professional Learning Day
+DESCRIPTION:Teacher planning day\; District-wide Professional Learning Day\
+ ; no students in school. Source: Miami-Dade County Public Schools 2026-202
+ 7 School Calendar\, Elementary and Secondary.
+CATEGORIES:No School
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:No School — Professional Learning Day
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-veterans-day@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:No School — Veterans Day
+DESCRIPTION:Veterans' Day\; holiday for students and employees. Source: Mia
+ mi-Dade County Public Schools 2026-2027 School Calendar\, Elementary and S
+ econdary.
+CATEGORIES:Holiday
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:No School — Veterans Day
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-thanksgiving-break@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261128
+SUMMARY:No School — Thanksgiving Break
+DESCRIPTION:November 23-25: recess days. November 26: Thanksgiving holiday.
+  November 27: recess day for students and employees. Source: Miami-Dade Co
+ unty Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Recess
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:No School — Thanksgiving Break
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-planning-2026-12-18@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:No School — Teacher Planning Day
+DESCRIPTION:Teacher planning day\; no students in school. Source: Miami-Dad
+ e County Public Schools 2026-2027 School Calendar\, Elementary and Seconda
+ ry.
+CATEGORIES:No School
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:No School — Teacher Planning Day
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-winter-recess@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20270102
+SUMMARY:No School — Winter Recess
+DESCRIPTION:Winter recess for students and employees (December 21\, 2026 th
+ rough January 1\, 2027). Source: Miami-Dade County Public Schools 2026-202
+ 7 School Calendar\, Elementary and Secondary.
+CATEGORIES:Recess
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:No School — Winter Recess
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-end-gp2@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:End of Second Grading Period
+DESCRIPTION:End of second grading period\; first semester. Students are in 
+ school. Source: Miami-Dade County Public Schools 2026-2027 School Calendar
+ \, Elementary and Secondary.
+CATEGORIES:Grading Period
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-planning-2027-01-15@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:No School — Teacher Planning Day
+DESCRIPTION:Teacher planning day\; no students in school. Source: Miami-Dad
+ e County Public Schools 2026-2027 School Calendar\, Elementary and Seconda
+ ry.
+CATEGORIES:No School
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:No School — Teacher Planning Day
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-mlk-day@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+SUMMARY:No School — Martin Luther King Jr. Day
+DESCRIPTION:Dr. Martin Luther King\, Jr.'s birthday\; holiday for students 
+ and employees. Source: Miami-Dade County Public Schools 2026-2027 School C
+ alendar\, Elementary and Secondary.
+CATEGORIES:Holiday
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:No School — Martin Luther King Jr. Day
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-begin-gp3@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:Beginning of Third Grading Period
+DESCRIPTION:Beginning of third grading period\; second semester. Source: Mi
+ ami-Dade County Public Schools 2026-2027 School Calendar\, Elementary and 
+ Secondary.
+CATEGORIES:Grading Period
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-presidents-day@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270216
+SUMMARY:No School — Presidents Day
+DESCRIPTION:All Presidents Day\; holiday for students and employees. Source
+ : Miami-Dade County Public Schools 2026-2027 School Calendar\, Elementary 
+ and Secondary.
+CATEGORIES:Holiday
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:No School — Presidents Day
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-planning-2027-03-10@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:No School — Teacher Planning Day
+DESCRIPTION:Teacher planning day\; no students in school. Source: Miami-Dad
+ e County Public Schools 2026-2027 School Calendar\, Elementary and Seconda
+ ry.
+CATEGORIES:No School
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:No School — Teacher Planning Day
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-end-gp3@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:End of Third Grading Period
+DESCRIPTION:End of third grading period\; second semester. Students are in 
+ school. Source: Miami-Dade County Public Schools 2026-2027 School Calendar
+ \, Elementary and Secondary.
+CATEGORIES:Grading Period
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-spring-recess@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270322
+DTEND;VALUE=DATE:20270327
+SUMMARY:No School — Spring Recess
+DESCRIPTION:Spring recess for students and employees (March 22-26\, 2027). 
+ Source: Miami-Dade County Public Schools 2026-2027 School Calendar\, Eleme
+ ntary and Secondary.
+CATEGORIES:Recess
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:No School — Spring Recess
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-planning-2027-03-29@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:No School — Teacher Planning Day
+DESCRIPTION:Teacher planning day\; no students in school. Source: Miami-Dad
+ e County Public Schools 2026-2027 School Calendar\, Elementary and Seconda
+ ry.
+CATEGORIES:No School
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:No School — Teacher Planning Day
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-begin-gp4@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:Beginning of Fourth Grading Period
+DESCRIPTION:Beginning of fourth grading period\; second semester. Source: M
+ iami-Dade County Public Schools 2026-2027 School Calendar\, Elementary and
+  Secondary.
+CATEGORIES:Grading Period
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-memorial-day@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:No School — Memorial Day
+DESCRIPTION:Memorial Day\; holiday for students and employees. Source: Miam
+ i-Dade County Public Schools 2026-2027 School Calendar\, Elementary and Se
+ condary.
+CATEGORIES:Holiday
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:No School — Memorial Day
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-last-day@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+SUMMARY:Last Day of School
+DESCRIPTION:Last day of school\; end fourth grading period\; second semeste
+ r. Source: Miami-Dade County Public Schools 2026-2027 School Calendar\, El
+ ementary and Secondary.
+CATEGORIES:School Day
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Last Day of School
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2026-08-19@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2026-08-26@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2026-09-02@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2026-09-09@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2026-09-16@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2026-09-23@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2026-09-30@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2026-10-07@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2026-10-14@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2026-10-21@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2026-10-28@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2026-11-04@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2026-11-18@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2026-12-02@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2026-12-09@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2026-12-16@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2027-01-06@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2027-01-13@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2027-01-20@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2027-01-27@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2027-02-03@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2027-02-10@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2027-02-17@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2027-02-24@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2027-03-03@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2027-03-17@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2027-03-31@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2027-04-07@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2027-04-14@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2027-04-21@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2027-04-28@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2027-05-05@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2027-05-12@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2027-05-19@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2027-05-26@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mdcps-2026-2027-early-release-2027-06-02@dadeschools.net
+DTSTAMP:20260817T180204Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:Early Release (Grades 2-5)
+DESCRIPTION:Every Wednesday\, students in elementary schools (Grades 2-5) a
+ nd K-8 Centers (Grades 2-8) are released one hour early. Check your school
+ 's regular dismissal time and subtract one hour. Source: Miami-Dade County
+  Public Schools 2026-2027 School Calendar\, Elementary and Secondary.
+CATEGORIES:Early Release
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Early Release (Grades 2-5)
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

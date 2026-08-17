@@ -1,14 +1,14 @@
 Team_ID,Mode,Team_Name,Slot,Position,Hero,Role,Notes
-UB1,Union Boss,Team 1 (Rally Leader),1,Front,Andrew,Tank,~1.4M HP — absorbs boss hits for rally
-UB1,Union Boss,Team 1 (Rally Leader),2,Back,Yord,Buffer,Mandatory team buffer
-UB1,Union Boss,Team 1 (Rally Leader),3,Back,Sera,Buffer,Forest faction buff + heals
-UB1,Union Boss,Team 1 (Rally Leader),4,Back,Verna,DPS,+17.45% monster DMG (Astral Guardian)
-UB1,Union Boss,Team 1 (Rally Leader),5,Back,Crystal,Buffer/DPS,Soul Protection buffs Forest back row
-WB1,World Boss,Team 1,1,Back,Yord,Buffer,Mandatory team buffer
-WB1,World Boss,Team 1,2,Back,Sera,Buffer,Forest faction + amplification
-WB1,World Boss,Team 1,3,Back,Verna,DPS,Monster specialist — debuff + monster DMG amp
-WB1,World Boss,Team 1,4,Back,Crystal,Buffer/DPS,Soul Protection buffs Monica + Verna
-WB1,World Boss,Team 1,5,Back,Monica,DPS,Forest crit DPS — replaces Andrew (no tank on WB)
+UB1,Union Boss,Team 1 (Max Damage),1,Back,Yord,Buffer,Mandatory — team ATK/CRIT buff
+UB1,Union Boss,Team 1 (Max Damage),2,Back,Sera,Buffer,Forest faction + amplification
+UB1,Union Boss,Team 1 (Max Damage),3,Back,Verna,DPS,+17.45% monster DMG + boss debuff
+UB1,Union Boss,Team 1 (Max Damage),4,Back,Crystal,Buffer/DPS,Soul Protection buffs Monica + Verna
+UB1,Union Boss,Team 1 (Max Damage),5,Back,Monica,DPS,Forest crit DPS — no tanks (UB = max damage)
+WB1,World Boss,Team 1,1,Back,Yord,Buffer,Same lineup as Union Boss Team 1
+WB1,World Boss,Team 1,2,Back,Sera,Buffer,Same lineup as Union Boss Team 1
+WB1,World Boss,Team 1,3,Back,Verna,DPS,Same lineup as Union Boss Team 1
+WB1,World Boss,Team 1,4,Back,Crystal,Buffer/DPS,Same lineup as Union Boss Team 1
+WB1,World Boss,Team 1,5,Back,Monica,DPS,Same lineup as Union Boss Team 1
 PVP1,PvP,Team 1 (3 Forest + 2 Human),1,Front,Andrew,Tank,Human faction + frontline
 PVP1,PvP,Team 1 (3 Forest + 2 Human),2,Back,Sera,DPS,Forest
 PVP1,PvP,Team 1 (3 Forest + 2 Human),3,Front,Dragonic,Tank,Forest

@@ -155,14 +155,31 @@ def make_business_cards() -> None:
     dest = OUT / "06-Stationery"
     dest.mkdir(parents=True, exist_ok=True)
     w, h = 1050, 600  # 3.5x2 @ 300dpi
-    # Front — official dark logo
-    front = Image.new("RGB", (w, h), "#111111")
-    logo = Image.open(LOGOS / "06_Primary_Logo_On_Black_2000.png").convert("RGBA")
+    from PIL import ImageFont
+
+    try:
+        font_b = ImageFont.truetype("/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf", 22)
+        font_s = ImageFont.truetype("/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf", 18)
+        font_t = ImageFont.truetype("/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf", 28)
+    except OSError:
+        font_b = font_s = font_t = ImageFont.load_default()
+
+    # Front — Soft White is the default brand background (not black)
+    front = Image.new("RGB", (w, h), "#FAF8F2")
+    logo = Image.open(LOGOS / "02_Primary_Logo_Soft_White_2000.png").convert("RGBA")
     logo.thumbnail((460, 460), Image.Resampling.LANCZOS)
     layer = Image.new("RGBA", (w, h), (0, 0, 0, 0))
     layer.paste(logo, ((w - logo.size[0]) // 2, 40), logo)
     front = Image.alpha_composite(front.convert("RGBA"), layer).convert("RGB")
     front.save(dest / "business-card-front.png")
+
+    # Optional dark reverse
+    dark = Image.new("RGB", (w, h), "#111111")
+    dlogo = Image.open(LOGOS / "06_Primary_Logo_On_Black_2000.png").convert("RGBA")
+    dlogo.thumbnail((460, 460), Image.Resampling.LANCZOS)
+    dl = Image.new("RGBA", (w, h), (0, 0, 0, 0))
+    dl.paste(dlogo, ((w - dlogo.size[0]) // 2, 40), dlogo)
+    Image.alpha_composite(dark.convert("RGBA"), dl).convert("RGB").save(dest / "business-card-front-dark.png")
 
     # Back — cream + contact
     back = Image.new("RGB", (w, h), "#FAF8F2")
@@ -173,19 +190,6 @@ def make_business_cards() -> None:
     back = Image.alpha_composite(back.convert("RGBA"), bl)
     d = ImageDraw.Draw(back)
     d.rectangle((280, 48, 1010, 52), fill="#B57A1E")
-    back.convert("RGB").save(dest / "business-card-back-base.png")
-
-    # Type the back with reportlab overlay via a small PDF-to-png is heavy;
-    # write a PDF card instead and a typed PNG using reportlab raster... use PIL default font for contact? Better: PDF only + keep photo front.
-    from PIL import ImageFont
-
-    try:
-        font_b = ImageFont.truetype("/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf", 22)
-        font_s = ImageFont.truetype("/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf", 18)
-        font_t = ImageFont.truetype("/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf", 28)
-    except OSError:
-        font_b = font_s = font_t = ImageFont.load_default()
-    d = ImageDraw.Draw(back)
     x, y = 280, 80
     d.text((x, y), "TASTY TREATS WORLD", font=font_t, fill="#111111")
     d.text((x, y + 50), "786-505-5039", font=font_b, fill="#111111")
@@ -194,7 +198,6 @@ def make_business_cards() -> None:
     d.text((x, y + 156), "tastytreatsworld.com", font=font_s, fill="#111111")
     d.text((x, y + 220), "Chocoflan  ·  Beso de Ángel  ·  Mini desserts", font=font_s, fill="#B57A1E")
     back.convert("RGB").save(dest / "business-card-back.png")
-    Path(dest / "business-card-back-base.png").unlink(missing_ok=True)
 
     c = pdfcanvas.Canvas(str(dest / "business-card.pdf"), pagesize=(3.5 * inch, 2 * inch))
     c.drawImage(str(dest / "business-card-front.png"), 0, 0, 3.5 * inch, 2 * inch)
@@ -370,13 +373,14 @@ See `04-Menu/TastyTreatsWorld-Menu.pdf`. Mother’s Day flyers in the same folde
     W, H = letter
 
     # Cover
-    c.setFillColor(INK)
+    # Cover — Soft White is the default brand canvas
+    c.setFillColor(SOFT)
     c.rect(0, 0, W, H, fill=1, stroke=0)
-    c.drawImage(str(LOGOS / "06_Primary_Logo_On_Black_2000.png"), W / 2 - 150, H / 2 - 40, 300, 300, mask="auto")
+    c.drawImage(str(LOGOS / "02_Primary_Logo_Soft_White_2000.png"), W / 2 - 150, H / 2 - 40, 300, 300, mask="auto")
     c.setFillColor(GOLD)
     c.setFont("Times-Roman", 11)
-    c.drawCentredString(W / 2, 150, "BRAND PACKAGE  ·  OFFICIAL ARTWORK FROM DRIVE")
-    c.setFillColor(WHITE)
+    c.drawCentredString(W / 2, 150, "BRAND PACKAGE  ·  DEFAULT BACKGROUND: SOFT WHITE  #FAF8F2")
+    c.setFillColor(INK)
     c.setFont("Times-Roman", 10)
     c.drawCentredString(W / 2, 130, "786-505-5039  ·  Naples, Florida  ·  @TastyTreatsWorld")
     c.showPage()
@@ -466,11 +470,13 @@ Official artwork from the shared Google Drive, plus a print menu, lookbook, and 
 
 ## Logo cheat sheet
 
-- Website / labels: `02-Official-Logos/01_Primary_Logo_Transparent_2000.png`
-- Light print: `02_Primary_Logo_Soft_White_2000.png`
-- Black backgrounds: `06_Primary_Logo_On_Black_2000.png` (white script — readable)
+- **Default / website / print:** `02_Primary_Logo_Soft_White_2000.png` (cream) or `03_Primary_Logo_Pure_White_2000.png`
+- Transparent overlay: `01_Primary_Logo_Transparent_2000.png` — only on **light** photos or cream. The ink is black; dark image viewers show transparent pixels as black, so this file looks like a black square. That is the viewer, not a black brand background.
+- Black backgrounds only: `06_Primary_Logo_On_Black_2000.png` (white script)
 - Tiny avatar: `15_Instagram_Profile_1080.png` or `14_Cupcake_Icon_Transparent_1200.png`
 - Photo watermark: `13_Watermark_Gold_20pct.png`
+
+**Main brand background is Soft White `#FAF8F2`, not black.** Black is an accent canvas for night posts and foil cards.
 
 Primary gold `#B57A1E`  ·  Beautifully Delicious Script  ·  Aegean Breeze
 """,
@@ -487,9 +493,9 @@ def write_preview() -> None:
   <title>Tasty Treats World — Brand Package</title>
   <style>
     body { margin:0; font-family: Georgia, serif; background:#FAF8F2; color:#111; }
-    header { background:#111; color:#FAF8F2; text-align:center; padding:48px 20px; }
-    header img { width:240px; height:240px; }
-    a.btn { display:inline-block; margin-top:20px; background:#B57A1E; color:#111; text-decoration:none; padding:12px 22px; letter-spacing:.12em; font-size:13px; font-family:sans-serif; }
+    header { background:#FAF8F2; color:#111; text-align:center; padding:48px 20px; border-bottom:1px solid #E8E0D4; }
+    header img { width:280px; height:280px; }
+    a.btn { display:inline-block; margin-top:20px; background:#B57A1E; color:#fff; text-decoration:none; padding:12px 22px; letter-spacing:.12em; font-size:13px; font-family:sans-serif; }
     main { max-width:1080px; margin:0 auto; padding:40px 20px 80px; }
     .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:18px; }
     figure { margin:0; background:#fff; padding:16px; }
@@ -499,8 +505,8 @@ def write_preview() -> None:
 </head>
 <body>
   <header>
-    <img src="TastyTreatsWorld-Brand-Package/02-Official-Logos/06_Primary_Logo_On_Black_2000.png" alt="Tasty Treats World"/>
-    <p>Official brand package from Drive · Naples, Florida</p>
+    <img src="TastyTreatsWorld-Brand-Package/02-Official-Logos/02_Primary_Logo_Soft_White_2000.png" alt="Tasty Treats World"/>
+    <p>Official brand package · cream is the default background · Naples, Florida</p>
     <a class="btn" href="TastyTreatsWorld-Brand-Package.zip" download>Download .zip</a>
   </header>
   <main>

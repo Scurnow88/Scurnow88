@@ -18,7 +18,7 @@ Open `index.html` to preview, or unzip and read `TastyTreatsWorld-Brand-Package/
 - Official logos from Drive (transparent, light, dark, one-color gold/black/white, SVG, watermark, Instagram avatars)
 - Product photography — Beso de Ángel, chocoflan, minis
 - Menu PDF with current prices plus Mother’s Day flyers
-- Watermarked Instagram posts and business cards
+- Watermarked Instagram posts, **Facebook cover 851×315**, and business cards
 - Primary gold `#B57A1E`
 
 Typography: **Beautifully Delicious Script** + **Aegean Breeze**. Logo files keep the original rendered lettering.

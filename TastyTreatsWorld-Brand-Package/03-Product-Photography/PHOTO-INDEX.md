@@ -18,3 +18,4 @@ Curated from the shared Drive folder **TTW Images Pictures**.
 - `beso-de-angel-studio.jpg` — Beso de Ángel studio
 - `white-cake-texture.jpg` — White cake texture
 - `cake-detail-ruffle.jpg` — Ruffle piping detail
+- `mini-chocoflan-kraft-box.jpg` — Mini chocoflan box with pink florals

@@ -13,7 +13,7 @@ Official artwork from the shared Google Drive, plus a print menu, lookbook, and 
 | `02-Official-Logos/` | Source logos (PNG, JPG, SVG). Start with `01`, `02`, `06`, `14`, `15`. |
 | `03-Product-Photography/` | Real cakes and minis for the website and feed |
 | `04-Menu/` | Priced menu PDF + Mother’s Day flyers |
-| `05-Social-Media/` | Avatars, watermark, ready Instagram posts |
+| `05-Social-Media/` | **Facebook cover 851×315**, avatars, Instagram posts |
 | `06-Stationery/` | Business card |
 | `01-Brand-Guidelines/` | Colors, type, usage |
 
@@ -26,5 +26,13 @@ Official artwork from the shared Google Drive, plus a print menu, lookbook, and 
 - Photo watermark: `13_Watermark_Gold_20pct.png`
 
 **Main brand background is Soft White `#FAF8F2`, not black.** Black is an accent canvas for night posts and foil cards.
+
+## Facebook cover
+
+Upload `05-Social-Media/facebook-cover-851x315.jpg` (or the sharper `facebook-cover-1702x630.jpg`).
+
+It uses the official cream logo plus real cakes (chocoflan, Beso de Ángel, boxed minis). Do not stretch the square logo to fill the cover slot — that is what makes the transparent file look black in some apps.
+
+The page profile photo covers the bottom-left of the cover. Contact text is placed after that zone. Use `instagram-avatar-1080.png` as the page photo.
 
 Primary gold `#B57A1E`  ·  Beautifully Delicious Script  ·  Aegean Breeze

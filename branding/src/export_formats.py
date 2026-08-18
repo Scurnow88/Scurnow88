@@ -53,6 +53,7 @@ def knockout_white(img: Image.Image) -> Image.Image:
 
 
 def dark_from_light(img: Image.Image) -> Image.Image:
+    """Same lockup on dark grounds: black ink becomes white, gold stays gold."""
     arr = np.array(img.convert("RGBA"))
     rgb = arr[:, :, :3].astype(np.float32)
     r, g, b = rgb[:, :, 0], rgb[:, :, 1], rgb[:, :, 2]
@@ -60,22 +61,17 @@ def dark_from_light(img: Image.Image) -> Image.Image:
     mn = rgb.min(axis=2)
     chroma = mx - mn
     lum = 0.299 * r + 0.587 * g + 0.114 * b
-    paper = (mn >= 248) & (chroma <= 8)
-    gold = (r - b >= 20) & (g - b >= 6) & (r >= 120) & (b <= 180) & ~paper
-    pink = (r > g + 2) & (r > b) & (lum > 190) & (chroma > 3) & ~gold & ~paper
-    ink = ~paper & ~gold & ~pink
+    paper = (lum >= 250) & (chroma <= 6)
+    gold = (r - b >= 18) & (g - b >= 5) & (r >= 110) & (chroma >= 12) & (lum < 240) & ~paper
     out = np.zeros_like(arr)
-    ink_a = np.clip((210 - lum) / 210.0 * 255.0, 0, 255)
-    out[ink, 0] = 255
-    out[ink, 1] = 255
-    out[ink, 2] = 255
-    out[ink, 3] = ink_a[ink].astype(np.uint8)
     out[gold, :3] = arr[gold, :3]
     out[gold, 3] = 255
-    out[pink, 0] = 232
-    out[pink, 1] = 176
-    out[pink, 2] = 188
-    out[pink, 3] = np.clip(255 - mn[pink], 40, 160).astype(np.uint8)
+    rest = ~gold & ~paper
+    out[rest, 0] = 255
+    out[rest, 1] = 255
+    out[rest, 2] = 255
+    # Boost thin anti-aliased script so it does not vanish on black.
+    out[rest, 3] = np.clip((255.0 - lum[rest]) * 1.9, 0, 255).astype(np.uint8)
     return Image.fromarray(out)
 
 
@@ -182,6 +178,11 @@ def build() -> None:
     save_svg_embedded(
         OUT / "png" / "2048" / "tasty-treats-world-transparent.png",
         OUT / "svg" / "tasty-treats-world-transparent.svg",
+        2048,
+    )
+    save_svg_embedded(
+        OUT / "png" / "2048" / "tasty-treats-world-black.png",
+        OUT / "svg" / "tasty-treats-world-black.svg",
         2048,
     )
     traced = OUT / "svg" / "tasty-treats-world-traced.svg"

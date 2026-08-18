@@ -119,6 +119,25 @@ def paste_still(canvas: Image.Image, sprite: Image.Image, xy: tuple[int, int]) -
     canvas.alpha_composite(sprite, (x, y))
 
 
+def photo_card(src: Path, tw: int, th: int, focus=(0.42, 0.48), radius: int = 48) -> Image.Image:
+    """The real photograph, rounded, so it reads as the picture that was added."""
+    photo = crop_cover(Image.open(src), tw, th, focus=focus)
+    photo = ImageEnhance.Contrast(photo).enhance(1.06)
+    pad = 40
+    canvas = Image.new("RGBA", (tw + pad, th + pad), (0, 0, 0, 0))
+    mask = Image.new("L", (tw, th), 0)
+    ImageDraw.Draw(mask).rounded_rectangle((0, 0, tw - 1, th - 1), radius=radius, fill=255)
+    cut = photo.convert("RGBA")
+    cut.putalpha(mask)
+    # shadow
+    sh_mask = mask.filter(ImageFilter.GaussianBlur(20))
+    sh = Image.new("RGBA", (tw, th), (40, 28, 18, 0))
+    sh.putalpha(sh_mask.point(lambda p: int(p * 0.40)))
+    canvas.alpha_composite(sh, (pad // 2 + 10, pad // 2 + 18))
+    canvas.alpha_composite(cut, (pad // 2, pad // 2))
+    return canvas
+
+
 def trim_alpha(im: Image.Image, pad: int = 0) -> Image.Image:
     bbox = im.getbbox()
     if not bbox:
@@ -140,16 +159,23 @@ def build() -> tuple[Image.Image, Image.Image]:
     content_h = SH - BAR_H
 
     cake = cutout_sprite(
-        FERRERO_CUT, PHOTOS / "gold-board-minis.jpg", int(content_h * 0.94), erode=7
+        FERRERO_CUT, PHOTOS / "gold-board-minis.jpg", int(content_h * 0.90), erode=7
     )
-    beso = cutout_sprite(
-        BESO_CUT, PHOTOS / "beso-de-angel-studio.jpg", int(content_h * 0.88), erode=5
+    # Client photo of the Beso de Ángel (studio shot on the dark surface)
+    card_h = int(content_h * 0.88)
+    card_w = int(card_h * 1.35)
+    beso = photo_card(
+        PHOTOS / "beso-de-angel-studio.jpg",
+        card_w,
+        card_h,
+        focus=(0.42, 0.50),
+        radius=56,
     )
-    bx = int(SW * 0.30)
-    by = content_h - beso.height + 40
-    fx = bx + int(beso.width * 0.50)
-    fy = content_h - cake.height + 24
-    paste_still(canvas, beso, (bx, by))
+    fx = SW - cake.width - 8
+    fy = content_h - cake.height + 28
+    bx = fx - int(beso.width * 0.72)
+    by = max(6, (content_h - beso.height) // 2)
+    canvas.alpha_composite(beso, (bx, by))
     paste_still(canvas, cake, (fx, fy))
 
     draw = ImageDraw.Draw(canvas)
@@ -207,9 +233,8 @@ def write_usage() -> None:
 Upload: facebook-cover-851x315.jpg
 Sharper upload: facebook-cover-1702x630.jpg
 
-851 × 315 px. Official logo on Soft White with real cakes
-(Beso de Ángel and Ferrero chocoflan) sitting on the cream.
-No stretched square logo, no black canvas.
+851 × 315 px. Official logo on Soft White. The white cake is the
+real Beso de Ángel studio photo; Ferrero chocoflan sits beside it.
 
 Page profile photo: instagram-avatar-1080.png
 (Facebook covers the bottom-left of this banner with that photo.)

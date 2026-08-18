@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200">
+
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="40%" r="62%">
+      <stop offset="0%" stop-color="#EFB6C6" stop-opacity="0.95"/>
+      <stop offset="45%" stop-color="#F7D6DE" stop-opacity="0.40"/>
+      <stop offset="100%" stop-color="#F7D6DE" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  
+  <ellipse cx="600.0" cy="400" rx="198" ry="188" fill="url(#glow)"/>
+
+    <circle cx="600.0" cy="545.0" r="372.0"
+      fill="none" stroke="#C4A045" stroke-width="6.0"/>
+
+    <g transform="translate(600 545) scale(1.06) translate(-600 -470)"
+       fill="none" stroke="#111111" stroke-width="5.2"
+       stroke-linecap="round" stroke-linejoin="round">
+      <path d="M 476 500 L 450 618 C 450 638 750 638 750 618 L 724 500"/>
+      <path d="M 476 500 C 530 518 670 518 724 500"/>
+      <path d="M 498 508 L 484 622"/>
+      <path d="M 522 512 L 512 626"/>
+      <path d="M 546 514 L 540 628"/>
+      <path d="M 570 516 L 568 630"/>
+      <path d="M 594 516 L 596 630"/>
+      <path d="M 618 516 L 624 630"/>
+      <path d="M 642 514 L 652 628"/>
+      <path d="M 666 512 L 680 624"/>
+      <path d="M 690 508 L 708 618"/>
+      <path d="
+        M 486 498
+        C 444 478 452 424 500 416
+        C 488 376 520 344 564 350
+        C 558 312 598 286 634 304
+        C 650 278 694 280 706 314
+        C 748 320 764 368 734 400
+        C 766 420 756 470 716 488
+        C 686 512 528 518 486 498 Z"/>
+      <path d="M 508 490 C 478 462 516 432 562 448 C 606 462 634 442 624 414"/>
+      <path d="M 536 448 C 520 422 556 396 596 410 C 634 422 656 402 648 378"/>
+      <path d="M 568 404 C 558 380 588 358 622 370 C 650 380 664 364 656 346"/>
+      <path d="M 596 354 C 592 338 614 326 634 336"/>
+      <circle cx="620" cy="292" r="25"/>
+      <path d="M 634 274 C 650 244 688 234 708 252"/>
+      <path d="M 612 284 C 616 278 624 278 628 284" stroke-width="4.42"/>
+    </g>
+</svg>

@@ -1,22 +1,22 @@
-# Tasty Treats WORLD — logo files
+# Tasty Treats WORLD — branding files
 
-These are format conversions of the original circular lockup: same cupcake, same script, same gold ring. Colors are slightly enriched and the lines are sharpened. This is not a redesign.
+Format conversions of the original circular lockup. The cupcake, script, gold ring, and layout are not redrawn.
 
-## Which file to use
+## Use these
 
-| Use | File |
+| Need | File |
 | --- | --- |
-| Website, overlay, stickers | `exports/png/4096/tasty-treats-world-original-transparent.png` or `exports/svg/tasty-treats-world-original-white.svg` |
-| Print on white | `exports/pdf/tasty-treats-world-original-white.pdf` or `exports/png/4096/tasty-treats-world-original-white.png` |
-| Print on black | `exports/pdf/tasty-treats-world-original-black.pdf` or `exports/png/4096/tasty-treats-world-original-black.png` |
-| Dark websites / video | `exports/png/2048/tasty-treats-world-original-transparent-on-dark.png` |
-| Instagram | `exports/social/instagram-1080.png` (light) or `instagram-1080-dark.png` |
-| Link preview | `exports/social/og-image-1200x630.jpg` |
+| Print on white | `exports/pdf/tasty-treats-world-white.pdf` or `exports/tiff/tasty-treats-world-white-300dpi.tif` |
+| Print on black | `exports/pdf/tasty-treats-world-black.pdf` or `exports/tiff/tasty-treats-world-black-300dpi.tif` |
+| Transparent PNG | `exports/png/4096/tasty-treats-world-transparent.png` |
+| Dark overlay PNG | `exports/png/2048/tasty-treats-world-transparent-on-dark.png` |
+| SVG (pixel-perfect embed) | `exports/svg/tasty-treats-world-transparent.svg` |
+| SVG (traced vectors) | `exports/svg/tasty-treats-world-traced.svg` |
+| Web JPG | `exports/jpg/` |
 | Favicon | `exports/ico/tasty-treats-world-favicon.ico` |
+| Instagram / OG | `exports/social/` |
 
-JPG copies are in `exports/jpg/` for email and printers that want a white or black background baked in.
-
-## Rebuild
+Source file: `original/tasty-treats-world-source.png`. Replace that PNG with a higher-resolution original if you have one, then run:
 
 ```bash
 python3 -m pip install -r branding/requirements.txt

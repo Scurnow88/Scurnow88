@@ -1,37 +1,24 @@
-# Tasty Treats WORLD — logo pack
+# Tasty Treats WORLD — logo files
 
-Print-ready and digital files of the Tasty Treats WORLD mark, rebuilt as sharp vector artwork with adjusted gold and blush tones.
+These are format conversions of the original circular lockup: same cupcake, same script, same gold ring. Colors are slightly enriched and the lines are sharpened. This is not a redesign.
 
 ## Which file to use
 
 | Use | File |
 | --- | --- |
-| Website, overlay, merch mockup | `exports/svg/tasty-treats-world-full-color-transparent.svg` |
-| Print on white (cards, bags, labels) | `exports/pdf/tasty-treats-world-full-color-white.pdf` or `exports/png/4096/tasty-treats-world-full-color-white.png` |
-| Print on black (boxes, shirts, dark bags) | `exports/pdf/tasty-treats-world-on-dark-black.pdf` or `exports/png/4096/tasty-treats-world-on-dark-black.png` |
-| Dark website / video overlay | `exports/svg/tasty-treats-world-on-dark-transparent.svg` |
-| Embroidery, foil, stamp, one-color print | `exports/svg/tasty-treats-world-mono-black-transparent.svg` or `...-mono-white-transparent.svg` |
-| Profile photo, favicon, app icon | `exports/svg/tasty-treats-world-icon-full-color-transparent.svg` and `exports/ico/tasty-treats-world-favicon.ico` |
-| Instagram / square social | `exports/social/instagram-1080.png` (light) or `instagram-1080-dark.png` |
-| Facebook / link preview | `exports/social/og-image-1200x630.jpg` |
+| Website, overlay, stickers | `exports/png/4096/tasty-treats-world-original-transparent.png` or `exports/svg/tasty-treats-world-original-white.svg` |
+| Print on white | `exports/pdf/tasty-treats-world-original-white.pdf` or `exports/png/4096/tasty-treats-world-original-white.png` |
+| Print on black | `exports/pdf/tasty-treats-world-original-black.pdf` or `exports/png/4096/tasty-treats-world-original-black.png` |
+| Dark websites / video | `exports/png/2048/tasty-treats-world-original-transparent-on-dark.png` |
+| Instagram | `exports/social/instagram-1080.png` (light) or `instagram-1080-dark.png` |
+| Link preview | `exports/social/og-image-1200x630.jpg` |
+| Favicon | `exports/ico/tasty-treats-world-favicon.ico` |
 
-JPG versions sit in `exports/jpg/` for email and places that do not allow transparency.
-
-`exports/illustrated/` holds extra full-color painted rasters of the same lockup if you want a slightly softer, hand-drawn look.
-
-## Color
-
-| Role | Light backgrounds | Dark backgrounds |
-| --- | --- | --- |
-| Ink | `#111111` | `#FFFFFF` |
-| Gold ring | `#C4A045` | `#E4C56A` |
-| Blush glow | `#EFB6C6` | `#E59AAD` |
+JPG copies are in `exports/jpg/` for email and printers that want a white or black background baked in.
 
 ## Rebuild
 
 ```bash
-python3 -m pip install pillow fonttools uharfbuzz numpy reportlab cairosvg
-python3 branding/src/build_logo.py
+python3 -m pip install -r branding/requirements.txt
+python3 branding/src/export_formats.py
 ```
-
-Script font is Great Vibes; `WORLD` is Montserrat. Both are SIL Open Font License (see `fonts/`).

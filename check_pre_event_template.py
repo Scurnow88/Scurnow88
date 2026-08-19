@@ -43,6 +43,7 @@ REQUIRED_CLASSES = [
     "pre-hero",
     "pre-h1",
     "offer-col",
+    "detail-col",
     "desire-cta-desktop",
     "desire-btn-mobile",
 ]

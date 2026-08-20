@@ -1,13 +1,13 @@
 Hero,Title,Faction,Role,CP,Stars,Skill1_Lv,Skill2_Lv,Skill3_Lv,Skill4_Lv,Exclusive_Gear_Lv,UB_Team,WB_Team,PvP_Team,UB_Priority,WB_Priority,Notes
-Sera,The Heiress,Forest,Buffer,3063938,5,34,33,33,,12,1,1,1,SS,SS,Core buffer — both boss modes
-Dragonic,The Dragon,Forest,Tank,3056086,5,33,33,33,,,,,1,A,,UB Team 2+ / PvP — tanks hurt boss damage
-Andrew,The King,Human,Tank,2982396,5,33,33,33,,,,,1,A,,PvP front only — skip UB (damage mode)
-Fenixia,The Phoenix,Human,DPS,2861192,5,33,33,33,,7,,,1,S,,UB Team 2+ / PvP Human DPS
-Crystal,The Soul,Forest,Buffer,2839155,5,33,33,30,,,1,1,,SS,SS,Back-row Forest buff — both boss modes
-Monica,The Assassin,Forest,DPS,2830483,5,33,33,33,,,1,1,,SS,SS,UB + WB Team 1 DPS
-Yord,The Sage,Forest,Buffer,2812152,5,33,33,33,,,1,1,,SS,SS,Mandatory buffer — both boss modes
+Sera,The Heiress,Forest,Buffer,3063938,5,34,33,33,,12,1,1,1,SS,SS,Team 1 core — highest CP damage carry
+Dragonic,The Dragon,Forest,Tank,3056086,5,33,33,33,,,,,1,A,,UB Team 2+ / PvP only
+Andrew,The King,Human,Tank,2982396,5,33,33,33,,,,,1,A,,PvP front — skip boss teams
+Fenixia,The Phoenix,Human,DPS,2861192,5,33,33,33,,7,1,1,1,S,SS,Team 1 DPS — replaced Verna after WB testing
+Crystal,The Soul,Forest,Buffer,2839155,5,33,33,30,,,1,1,,SS,SS,Buffs Sera + Monica back row
+Monica,The Assassin,Forest,DPS,2830483,5,33,33,33,,,1,1,,SS,SS,Team 1 core DPS
+Yord,The Sage,Forest,Buffer,2812152,5,33,33,33,,,1,1,,SS,SS,Mandatory — in all top WB scores
 Daphne,The Shadow,Nightfall,DPS,2740110,5,12,14,12,,,,,,C,,Reserve — low skills
 Kataras,The Guardian,Nightfall,Tank,2739574,5,12,12,12,,,,,,C,,Reserve — low skills
-Alvarez,The Alchemist,Human,DPS,2596122,4,33,33,33,,,,,,D,,4★ — not boss-ready
+Alvarez,The Alchemist,Human,DPS,2596122,4,33,33,33,,,,,,C,S,Ascend to 5★ — future boss DPS (see leaderboard meta)
 Belial,The Demon,Nightfall,DPS,2447229,3,16,12,12,,,,,,D,,3★ — not boss-ready
-Verna,The Star,Forest,DPS,2401789,5,33,33,33,,,1,1,1,SS+,SS+,Boss specialist — both modes despite low CP
+Verna,The Star,Forest,DPS,2401789,5,33,33,33,,,,,1,D,F,Benched boss — lowest CP; monster % kit needs heavy investment

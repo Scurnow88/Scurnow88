@@ -19,64 +19,73 @@ Based on **12 hero screenshots** from your Drive upload. CP and skill levels tak
 | 9 | Kataras | 2.74M | 5 | C — low skills |
 | 10 | Alvarez | 2.60M | **4** | D — not awakened |
 | 11 | Belial | 2.45M | **3** | D — not ascended |
-| 12 | Verna | 2.40M | 5 | **SS+** — best UB kit |
+| 12 | Verna | 2.40M | 5 | **F** — benched on boss *(PvP only)* |
 
-**Important:** Verna is **#12 by CP** but **#1 for Union Boss** because of **Astral Guardian** (+17.45% monster damage) and **Starlight** (extra hits on monsters). Do not bench her for UB because CP looks low.
+**Updated from your World Boss results (Aug 2026):** Your top scores (**~1.1G–1.4G** on Ancient Mammoth) used **Yord + high-CP DPS carries** — **not Verna**. On your account Verna scored far below those lineups. Guides rank her for boss *in theory* (monster % passives), but at **2.4M CP** her damage multipliers sit on too small a base. **Use Monica, Sera, and Fenixia for boss until Verna catches up in gear/CP.**
 
 ---
 
 ## Boss Team 1 — Union Boss & World Boss (locked)
 
-**Union Boss = highest damage.** Same rule as World Boss: **buffers + DPS, no tanks.** Andrew and Dragonic have high CP but tanks lose on boss meters.
+**Updated after your World Boss testing.** Union Boss = highest damage. Your proven WB lineups center on **Yord + stacked DPS** — Verna is **out** until her CP/gear matches your other carries.
 
-**Rule:** Each hero can only be on **one Union Boss team** (when you build Teams 2–4). This lineup is your **single strongest damage team** for both Union Boss and World Boss.
+**Rule:** Each hero can only be on **one Union Boss team** (when you build Teams 2–4).
 
 ### Roster
 
 | Slot | Hero | Role | Why this pick |
 |------|------|------|----------------|
-| **Back** | **Yord** | Buffer | Mandatory — team ATK/CRIT buff |
-| **Back** | **Sera** | Buffer | Forest faction + amplification; highest CP |
-| **Back** | **Verna** | DPS | **+17.45% monster DMG** (Astral Guardian) + boss debuff |
-| **Back** | **Crystal** | Buffer/DPS | Soul Protection buffs **Monica + Verna** (Forest back row) |
-| **Back** | **Monica** | DPS | Forest crit DPS — out-damages any tank on boss |
+| **Back** | **Yord** | Buffer | In every one of your top WB scores |
+| **Back** | **Sera** | DPS / buffer | **Highest CP** on your account — real damage, not just buffs |
+| **Back** | **Monica** | DPS | Forest crit burst — matches top-leaderboard DPS style |
+| **Back** | **Crystal** | Buffer / DPS | Soul Protection buffs **Sera + Monica** (Forest back row) |
+| **Back** | **Fenixia** | DPS | Human burst 33/33/33 — **replaces Verna** after your tests |
 
 ### One-line lineup
 
-**`Yord · Sera · Verna · Crystal · Monica`**
+**`Yord · Sera · Monica · Crystal · Fenixia`**
 
 ### Formation
 
 ```
-    [ Yord ]  [ Sera ]  [ Verna ]  [ Crystal ]  [ Monica ]
+    [ Yord ]  [ Sera ]  [ Monica ]  [ Crystal ]  [ Fenixia ]
 ```
 
-- **All back row** — maximize damage; skip Andrew/Dragonic even though their CP is higher.
-- Use this **same team** for Union Boss rallies and World Boss.
+- **All back row** — maximize damage.
+- **Do not use Verna** on boss for now — your scores prove she underperforms at current investment.
+
+### Why Verna failed *for you* (not “Verna is bad forever”)
+
+| Factor | Your account |
+|--------|----------------|
+| CP | Verna **2.4M** — lowest on roster; Monica/Sera **~2.8–3.0M** |
+| Kit | Monster % passives **multiply base damage** — weak base = weak result |
+| Your data | **1.1G–1.4G** without Verna vs catastrophic with her |
+| Leaderboard meta | Top scores use **premium burst DPS** (Monica/Sera-type), not low-CP specialists |
+
+**When to retry Verna on boss:** After her CP, gear, and exclusive are closer to Monica/Sera — then Astral Guardian may pay off.
 
 ### Why not the others?
 
 | Hero | Why they’re off Team 1 |
 |------|-------------------------|
-| **Andrew** | Tank — high HP but low boss damage; save for **PvP** or UB Team 2+ |
-| **Dragonic** | Same — CP looks good, damage doesn’t |
-| **Fenixia** | Solid DPS — reserve for **UB Team 2** (Monica + Crystal Forest stack is stronger) |
+| **Verna** | Benched — proven low damage on your WB runs |
+| **Andrew / Dragonic** | Tanks — skip on boss (damage mode) |
+| **Alvarez** | Strong future pick (your leaderboard shows Alvarez-type comps) — needs **5★** first |
 | **Daphne / Kataras** | Skills too low (12–14) |
-| **Belial / Alvarez** | Not 5★ — not boss-ready |
+| **Belial** | 3★ — not ready |
 
-### Damage stack (why this team wins)
+### Damage stack
 
-1. **Yord** — team-wide ATK/CRIT buff  
-2. **Sera** — Forest faction + amplification  
-3. **Crystal** — Soul Protection (+monster DMG to back-row Forest)  
-4. **Verna** — Astral Guardian (+17.45% vs monsters) + Whispers debuff (+12% damage taken)  
-5. **Monica** — raw Forest crit burst on top of all buffs
+1. **Yord** — team ATK/CRIT  
+2. **Sera** — amplification + heavy magic hits  
+3. **Crystal** — Forest back-row monster buff on Sera + Monica  
+4. **Monica** — crit burst  
+5. **Fenixia** — Human magic DPS + Sera synergy  
 
 ### Left for Union Boss Teams 2–4
 
-`Dragonic · Andrew · Fenixia · Daphne · Kataras · Belial · Alvarez`
-
-**Do not use for UB:** Belial (3★), Alvarez (4★), Daphne/Kataras until skills are 30+.
+`Dragonic · Andrew · Verna · Daphne · Kataras · Belial · Alvarez`
 
 ---
 
@@ -86,22 +95,19 @@ Based on **12 hero screenshots** from your Drive upload. CP and skill levels tak
 
 ### Team 1 — Max damage (Union Boss + World Boss)
 
-`Yord · Sera · Verna · Crystal · Monica`
+`Yord · Sera · Monica · Crystal · Fenixia`
 
 ---
 
 ## Investment priorities (next 30 days)
 
-1. **Verna** — gear + exclusive if available; she scales monster % not raw CP. Already 33/33/33 skills — good.
-2. **Crystal** — get Skill 3 to **33** (you’re at 30) for stronger Soul Protection.
-3. **Sera exclusive** — you’re Lv12; keep pushing for buffer scaling.
-4. **Yord** — same gear tier as Sera; never fall behind on buffer gear.
-5. **Andrew** — **PvP front only**; don’t use on Union Boss (damage mode, not survival).
-6. **Dragonic** — same; reserve for PvP or UB Team 2+.
-7. **Belial → 5★** and **Alvarez → 5★** before UB Teams 3–4.
-8. **Daphne / Kataras** — skills 12–14 are too low; books into 25+ before UB.
-
-**Skip for UB:** Andrew, Dragonic, or any tank — Union Boss rewards **highest damage**, not survivability.
+1. **Monica + Sera** — your proven boss damage carries; keep gear/skills maxed.
+2. **Crystal** — Skill 3 to **33** (at 30) — buffs Monica + Sera.
+3. **Yord + Fenixia** — never fall behind on buffer/DPS gear.
+4. **Sera exclusive** — Lv12; keep pushing.
+5. **Alvarez → 5★** — leaderboard meta uses Alvarez-type burst; swap in when ascended.
+6. **Verna** — **low priority for boss** until CP/gear catches up; fine for **PvP**.
+7. **Andrew / Dragonic** — PvP or UB Team 2+ only.
 
 ---
 
@@ -123,11 +129,11 @@ Faction bonus **+10%** with three Forest + two Human. Andrew front; Sera/Yord-st
 
 | Mode | Top 5 |
 |------|--------|
-| **Union Boss Team 1** | Yord, Sera, Verna, Crystal, Monica |
-| **World Boss Team 1** | Yord, Sera, Verna, Crystal, Monica *(same)* |
-| **Union Boss Teams 2–4** | TBD (Dragonic, Andrew, Fenixia, …) |
+| **Union Boss Team 1** | Yord, Sera, Monica, Crystal, Fenixia |
+| **World Boss Team 1** | Yord, Sera, Monica, Crystal, Fenixia *(same)* |
+| **Union Boss Teams 2–4** | TBD (Verna, Andrew, Dragonic, Alvarez, …) |
 | **PvP** | Sera, Dragonic, Verna, Andrew, Fenixia |
-| **Don’t use yet** | Belial, Alvarez (ascend first) |
+| **Boss — avoid** | **Verna** *(on your account, for now)* |
 
 ---
 

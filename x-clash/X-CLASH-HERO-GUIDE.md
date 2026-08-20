@@ -277,6 +277,8 @@ Monica + Sera + Yord + Dragonic + Rexar
 
 **Role:** World Boss / PvE specialist — monster damage amp + boss vulnerability debuff + resource farming.
 
+> **Account note:** Verna’s monster % kit only pays off when **CP, gear, and exclusive** match your other carries. At low CP (~2.4M vs ~3M+ DPS units), **Monica/Sera/Fenixia** often out-damage her in practice — verify on your World Boss meter before locking her in.
+
 ### Alvarez — Shadow of Exile *(verified @ CP 2,565,568, 4★)*
 
 | Skill | Lv | Effect (4★) | **5★ Awaken unlock** |

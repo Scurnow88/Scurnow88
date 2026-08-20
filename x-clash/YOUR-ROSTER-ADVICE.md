@@ -1,91 +1,78 @@
 # Your Roster — Personalized Advice (Aug 2026)
 
-Based on **12 hero screenshots** from your Drive upload. CP and skill levels taken from in-game panels.
+Based on **12 hero screenshots** (Aug Drive upload) + **World Boss lineup screenshots** (Ancient Mammoth, ~1.4G best).
+
+> **Important:** Aug roster CP/skill levels are **outdated**. Your 1.4G run shows **Lv150 / high transcend** heroes (~**18.6M** team CP). Recommendations below follow **your actual WB meter**, not old CSV stats.
 
 ---
 
-## Account snapshot
+## Account snapshot *(Aug upload — stale)*
 
-| Rank | Hero | CP | ★ | UB tier |
-|------|------|-----|---|---------|
-| 1 | Sera | 3.06M | 5 | SS — buffer |
-| 2 | Dragonic | 3.06M | 5 | A — tank |
-| 3 | Andrew | 2.98M | 5 | A — PvP / rally front |
-| 4 | Fenixia | 2.86M | 5 | S — Human DPS |
-| 5 | Crystal | 2.84M | 5 | SS — Forest monster buff |
-| 6 | Monica | 2.83M | 5 | S — Forest DPS |
-| 7 | Yord | 2.81M | 5 | SS — mandatory buffer |
-| 8 | Daphne | 2.74M | 5 | C — low skills |
-| 9 | Kataras | 2.74M | 5 | C — low skills |
-| 10 | Alvarez | 2.60M | **4** | D — not awakened |
-| 11 | Belial | 2.45M | **3** | D — not ascended |
-| 12 | Verna | 2.40M | 5 | **F** — benched on boss *(PvP only)* |
+| Rank | Hero | CP (Aug) | ★ | Boss priority |
+|------|------|----------|---|---------------|
+| 1 | Sera | 3.06M | 5 | SS |
+| 2 | Dragonic | 3.06M | 5 | S *(in your 1.4G run)* |
+| 3 | Andrew | 2.98M | 5 | PvP only |
+| 4 | Fenixia | 2.86M | 5 | B — not in 1.4G best |
+| 5 | Crystal | 2.84M | 5 | SS |
+| 6 | Monica | 2.83M | 5 | SS |
+| 7 | Yord | 2.81M | 5 | B — **not in your best run** |
+| 8 | Daphne | 2.74M | 5 | C |
+| 9 | **Kataras** | 2.74M | 5 | **SS+ — your #1 WB pick** |
+| 10 | Alvarez | 2.60M | 4 | Confirm slot in 1.4G |
+| 11 | Belial | 2.45M | 3 | Confirm slot in 1.4G |
+| 12 | Verna | 2.40M | 5 | **F — benched on boss** |
 
-**Updated from your World Boss results (Aug 2026):** Your top scores (**~1.1G–1.4G** on Ancient Mammoth) used **Yord + high-CP DPS carries** — **not Verna**. On your account Verna scored far below those lineups. Guides rank her for boss *in theory* (monster % passives), but at **2.4M CP** her damage multipliers sit on too small a base. **Use Monica, Sera, and Fenixia for boss until Verna catches up in gear/CP.**
+### Corrections from your WB testing
+
+| Mistake | Fix |
+|---------|-----|
+| Called **Yord** core because of straw-hat art | Your **1.4G best run used Kataras** in that lineup — not Yord |
+| Listed Kataras as tank / skill 12 | Master data: **S+ burst DPS**; your in-game build is clearly maxed |
+| Pushed **Verna** for boss | Your meter says **no** — keep benched |
+| Said “no tanks on boss” | Your **1.4G run included a demon/tank slot** — your score beats that rule |
 
 ---
 
-## Boss Team 1 — Union Boss & World Boss (locked)
+## Boss Team 1 — from your **1.4G** World Boss run (rank 16)
 
-**Updated after your World Boss testing.** Union Boss = highest damage. Your proven WB lineups center on **Yord + stacked DPS** — Verna is **out** until her CP/gear matches your other carries.
+**Source:** Your Challenge Lineup screenshot — **18,605,065** team CP, **1.4G** damage. You confirmed **Kataras** is the key member.
 
-**Rule:** Each hero can only be on **one Union Boss team** (when you build Teams 2–4).
+### Roster *(best match to screenshot — please confirm slots 1, 4, 5)*
 
-### Roster
-
-| Slot | Hero | Role | Why this pick |
-|------|------|------|----------------|
-| **Back** | **Yord** | Buffer | In every one of your top WB scores |
-| **Back** | **Sera** | DPS / buffer | **Highest CP** on your account — real damage, not just buffs |
-| **Back** | **Monica** | DPS | Forest crit burst — matches top-leaderboard DPS style |
-| **Back** | **Crystal** | Buffer / DPS | Soul Protection buffs **Sera + Monica** (Forest back row) |
-| **Back** | **Fenixia** | DPS | Human burst 33/33/33 — **replaces Verna** after your tests |
+| Slot | Hero | Role | Screenshot match |
+|------|------|------|------------------|
+| **Back** | **Sera** | DPS / buffer | Forest DPS, slot 1 *(or Alvarez if that was your white/gold hero)* |
+| **Back** | **Monica** | DPS | Forest DPS, slot 2 (blonde) |
+| **Back** | **Kataras** | DPS | **Slot 3 — you confirmed; your highest score** |
+| **Front** | **Dragonic** | Tank / burst | Demon/tank slot 4 *(or Belial — confirm which you used)* |
+| **Back** | **Crystal** | Buffer / DPS | Mage/support slot 5 *(confirm if this was Verna/other)* |
 
 ### One-line lineup
 
-**`Yord · Sera · Monica · Crystal · Fenixia`**
+**`Sera · Monica · Kataras · Dragonic · Crystal`**
+
+*(Swap Sera → Alvarez and/or Dragonic → Belial if those were the heroes in your 1.4G screenshot.)*
 
 ### Formation
 
 ```
-    [ Yord ]  [ Sera ]  [ Monica ]  [ Crystal ]  [ Fenixia ]
+    [ Sera ]  [ Monica ]  [ Kataras ]  [ Crystal ]
+                    [ Dragonic ]
 ```
 
-- **All back row** — maximize damage.
-- **Do not use Verna** on boss for now — your scores prove she underperforms at current investment.
+### Locked picks (from your data)
 
-### Why Verna failed *for you* (not “Verna is bad forever”)
-
-| Factor | Your account |
-|--------|----------------|
-| CP | Verna **2.4M** — lowest on roster; Monica/Sera **~2.8–3.0M** |
-| Kit | Monster % passives **multiply base damage** — weak base = weak result |
-| Your data | **1.1G–1.4G** without Verna vs catastrophic with her |
-| Leaderboard meta | Top scores use **premium burst DPS** (Monica/Sera-type), not low-CP specialists |
-
-**When to retry Verna on boss:** After her CP, gear, and exclusive are closer to Monica/Sera — then Astral Guardian may pay off.
-
-### Why not the others?
-
-| Hero | Why they’re off Team 1 |
-|------|-------------------------|
-| **Verna** | Benched — proven low damage on your WB runs |
-| **Andrew / Dragonic** | Tanks — skip on boss (damage mode) |
-| **Alvarez** | Strong future pick (your leaderboard shows Alvarez-type comps) — needs **5★** first |
-| **Daphne / Kataras** | Skills too low (12–14) |
-| **Belial** | 3★ — not ready |
-
-### Damage stack
-
-1. **Yord** — team ATK/CRIT  
-2. **Sera** — amplification + heavy magic hits  
-3. **Crystal** — Forest back-row monster buff on Sera + Monica  
-4. **Monica** — crit burst  
-5. **Fenixia** — Human magic DPS + Sera synergy  
+| Hero | Verdict |
+|------|---------|
+| **Kataras** | ✅ **Must include** — your best WB score |
+| **Monica** | ✅ In 1.4G run |
+| **Verna** | ❌ **Do not use** — catastrophic vs your other lineups |
+| **Yord** | ⚪ Optional — **not required** for your peak score |
 
 ### Left for Union Boss Teams 2–4
 
-`Dragonic · Andrew · Verna · Daphne · Kataras · Belial · Alvarez`
+`Yord · Andrew · Fenixia · Verna · Daphne · Belial · Alvarez`
 
 ---
 
@@ -93,21 +80,21 @@ Based on **12 hero screenshots** from your Drive upload. CP and skill levels tak
 
 *Each hero appears on **one** team only. Teams 2–4 TBD — heroes listed above are reserved for those lineups.*
 
-### Team 1 — Max damage (Union Boss + World Boss)
+### Team 1 — Your verified best (1.4G WB)
 
-`Yord · Sera · Monica · Crystal · Fenixia`
+`Sera · Monica · Kataras · Dragonic · Crystal`
 
 ---
 
 ## Investment priorities (next 30 days)
 
-1. **Monica + Sera** — your proven boss damage carries; keep gear/skills maxed.
-2. **Crystal** — Skill 3 to **33** (at 30) — buffs Monica + Sera.
-3. **Yord + Fenixia** — never fall behind on buffer/DPS gear.
-4. **Sera exclusive** — Lv12; keep pushing.
-5. **Alvarez → 5★** — leaderboard meta uses Alvarez-type burst; swap in when ascended.
-6. **Verna** — **low priority for boss** until CP/gear catches up; fine for **PvP**.
-7. **Andrew / Dragonic** — PvP or UB Team 2+ only.
+1. **Kataras** — your **#1 WB performer**; keep max investment (gear, skills, stars).
+2. **Monica + Sera** — core DPS in 1.4G run; keep maxed.
+3. **Crystal** — back-row buff + damage; Skill 3 toward 33+.
+4. **Dragonic** — front slot in best run; don’t strip gear if he’s in your boss team.
+5. **Verna** — **do not invest for boss** on your account.
+6. **Yord** — optional buffer; **not required** for your peak score.
+7. **Alvarez / Belial** — confirm if either was in the 1.4G lineup; invest if yes.
 
 ---
 
@@ -129,11 +116,12 @@ Faction bonus **+10%** with three Forest + two Human. Andrew front; Sera/Yord-st
 
 | Mode | Top 5 |
 |------|--------|
-| **Union Boss Team 1** | Yord, Sera, Monica, Crystal, Fenixia |
-| **World Boss Team 1** | Yord, Sera, Monica, Crystal, Fenixia *(same)* |
-| **Union Boss Teams 2–4** | TBD (Verna, Andrew, Dragonic, Alvarez, …) |
+| **World Boss Team 1** | Sera, Monica, **Kataras**, Dragonic, Crystal *(1.4G verified)* |
+| **Union Boss Team 1** | Same as WB *(max damage)* |
+| **Union Boss Teams 2–4** | Yord, Andrew, Fenixia, Verna, Alvarez, … |
 | **PvP** | Sera, Dragonic, Verna, Andrew, Fenixia |
-| **Boss — avoid** | **Verna** *(on your account, for now)* |
+| **Boss — avoid** | **Verna** |
+| **Boss — core** | **Kataras** |
 
 ---
 

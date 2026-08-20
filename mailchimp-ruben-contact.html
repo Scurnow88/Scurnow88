@@ -4,37 +4,17 @@
 
   Side padding lives on the OUTER cell (.ruben-side-pad), not on the gray
   table itself (email clients ignore padding on <table>).
-  Desktop: 30px left/right. Mobile: 18px left/right.
+  Desktop: 30px left/right. Mobile (≤480px): 16px left/right.
 -->
 
 <style type="text/css">
-  @media only screen and (max-width: 620px) {
+  @media only screen and (max-width: 480px) {
     .ruben-side-pad {
-      padding-left: 18px !important;
-      padding-right: 18px !important;
+      padding-left: 16px !important;
+      padding-right: 16px !important;
     }
     .ruben-card-pad {
-      padding: 20px 18px !important;
-    }
-    .ruben-photo,
-    .ruben-info {
-      display: block !important;
-      width: 100% !important;
-      max-width: 100% !important;
-      padding: 0 !important;
-      border-left: 0 !important;
-      text-align: center !important;
-    }
-    .ruben-photo {
-      padding: 0 0 16px 0 !important;
-    }
-    .ruben-info {
-      padding: 16px 0 0 0 !important;
-      border-top: 1px solid #d6d6d6 !important;
-    }
-    .ruben-info table {
-      margin-left: auto !important;
-      margin-right: auto !important;
+      padding: 18px 16px !important;
     }
   }
 </style>

@@ -1,5 +1,6 @@
 # X-Clash Heroes — Tier List, Stats & Skills Reference
 
+> **📘 Full guide:** See [`X-CLASH-FULL-GUIDE.md`](X-CLASH-FULL-GUIDE.md) for tiers, teams, upgrade priority, faction bonuses, and skill-based team building.  
 > **Purpose:** Help you decide upgrade priority and pick teams for PvP, World Boss, Campaign, and events.  
 > **Note:** In-game numbers change with level, stars, gear, and runes. Use your screenshots as the source of truth for exact values — this sheet gives **roles, synergies, and tier context**.
 
@@ -88,10 +89,11 @@ Pick heroes that **counter the enemy faction** when building arena and rally tea
 | Tier | Heroes |
 |------|--------|
 | **SS** | Yord, Sera |
-| **S** | Fenixia, Crystal, Verna |
+| **S** | Fenixia, Crystal, Monica, Kataras *(when built)* |
+| **B*** | Verna *(investment-gated — verify on meter)* |
 | **A** | Dragonic, Andrew (fillers only) |
 
-> **World Boss rule:** Skip dedicated tanks unless your tank out-damages your DPS. Stack **buffers + damage dealers**.
+> **World Boss rule:** Stack **buffers + damage dealers**. Use **Crystal** only with **Forest back row**. **Verna** only when CP matches your other carries.
 
 ### Spender PvP
 | Tier | Heroes |
@@ -115,10 +117,11 @@ Pick heroes that **counter the enemy faction** when building arena and rally tea
 ### F2P — Focus your core 5 first
 1. **Yord** — buffer for every mode; never skip
 2. **Sera** — main DPS from day 1
-3. **Dragonic** — free tank until Andrew (Day 60)
-4. **Crystal + Verna** — if you run World Boss (high ROI epics)
-5. **Fenixia** — when Lucky Spin gives her (needs Human altar investment)
-6. **Andrew** — on server day 60 free summons
+3. **Monica / Kataras** — if owned and built; boss burst
+4. **Crystal + Fenixia** — boss (Crystal needs Forest back row)
+5. **Dragonic** — free tank until Andrew (Day 60)
+6. **Andrew** — on server day 60 free summons (PvP)
+7. **Verna** — only after CP/gear matches team; verify on meter
 
 ### Spender — After F2P core
 1. **Monica** — replaces Sera as primary DPS at max investment
@@ -143,9 +146,14 @@ Sera + Dragonic + Yord + Fenixia + Denise/Faerie
 
 ### F2P World Boss
 ```
-Yord + Sera + Fenixia + Crystal + Verna
+Yord + Sera + Monica/Kataras + Fenixia + Crystal
 ```
-*(No tank unless Dragonic out-damages your weakest DPS)*
+*(Forest back row for Crystal; test 5th slot on meter. Verna only if CP matches.)*
+
+### Skill core (meter-validated)
+```
+Yord + Sera + Monica + Kataras + Fenixia
+```
 
 ### Spender PvP
 ```
@@ -222,17 +230,16 @@ Monica + Sera + Yord + Dragonic + Rexar
 |-------|-----|--------|------------|
 | **Ferry Soul** | 20/30 | **522.8% Physical DMG** single | 5★: +270% bonus DMG |
 | **Shadowy Soul** | 24/30 | **1372.7% Physical DMG** single; **recast at 50%** on kill | 5★: +270% bonus DMG |
-| **Soul Protection** | 25/30 | Back-row **Forest** heroes **+24.75% monster damage** | +3% per star (~39.75%+ at 5★) |
+| **Soul Protection** | 30/30 MAX | Back-row **Forest** heroes **+25.5% monster damage** | +3% per star (~39.75%+ at 5★) |
 
-**Role:** World Boss enabler — buffs your Forest backline (Sera/Verna) + massive execute damage.
+**Role:** World Boss enabler — buffs your Forest **back row** (+25.5% vs monsters @ Skill 3 max); massive execute on Shadowy Soul.
+
+**Formation:** Keep **Sera, Monica, Yord, and Crystal in the BACK row**. Front slot = flex (Kataras, Fenixia, tank).
 
 ---
-| Skill | Effect |
-|-------|--------|
-| Core identity | PvP: **bypasses tanks**, hits backline |
-| World Boss | **Multi-target** hits |
 
 ### Valkyr — Valiant Warrior (Official preview)
+
 | Skill | Effect |
 |-------|--------|
 | **Ultimate Spear** | Burst damage using Judgment stacks |
@@ -242,19 +249,14 @@ Monica + Sera + Yord + Dragonic + Rexar
 | Position | **Front row** buffer-tank |
 
 ### Sparta — God Slayer (Official preview)
+
 | Feature | Detail |
 |---------|--------|
 | Faction | Nightfall |
-| Role | Warrior with decent damage |
-| Position | **Back row** |
-| World Boss | **Not recommended** |
+| Role | Warrior / taunt tank |
+| World Boss | Not recommended |
 
-### Crystal — Soul Ferrier
-| Skill | Effect |
-|-------|--------|
-| Core | **Buffs Forest backline** (% scales with star level) |
-
-### Andrew — Knight of Death *(verified from your screenshots @ Lv140)*
+### Andrew — Knight of Death *(verified @ Lv140)*
 
 | Skill | Lv | Current Effect (4★) | **5★ Awaken Unlock** |
 |-------|-----|----------------------|----------------------|
@@ -365,15 +367,23 @@ Monica + Sera + Yord + Dragonic + Rexar
 
 | File | Use |
 |------|-----|
-| `X-CLASH-MASTER-RAW-DATA.xlsx` | **Master workbook** — My Teams, My Roster, heroes, skills |
-| `x-clash-my-teams.csv` | Locked Union Boss / World Boss / PvP lineups |
-| `x-clash-my-roster.csv` | **Your** heroes — CP, skills, team assignments |
-| `x-clash-heroes-master.csv` | All 31 heroes — import to Google Sheets |
-| `x-clash-heroes-skills.csv` | Skills per hero; update from screenshots |
-| `x-clash-heroes-tier-by-mode.csv` | PvP / WB / Campaign tiers side-by-side |
-| `x-clash-my-roster-template.csv` | Blank template for new heroes |
+| **`X-CLASH-FULL-GUIDE.md`** | **Full guide** — tiers, teams, upgrade priority, factions, skill rules |
+| **`X-CLASH-MASTER-RAW-DATA.xlsx`** | Master workbook — 11 tabs |
+| `x-clash-heroes-skills-spec.csv` | **140 skills** — main stats, synergy, verified flag |
+| `x-clash-team-compositions.csv` | Best teams by mode with key skills |
+| `x-clash-hero-slot-guide.csv` | When to bring/bench each hero |
+| `x-clash-upgrade-priority.csv` | F2P + spender investment order |
+| `x-clash-faction-reference.csv` | Triangle, bonuses, formation rules |
+| `x-clash-my-teams.csv` | Your locked lineups |
+| `x-clash-my-roster.csv` | Your heroes — CP, teams |
+| `x-clash-heroes-master.csv` | All 31 heroes |
+| `x-clash-heroes-skills.csv` | Raw skill rows |
+| `x-clash-heroes-tier-by-mode.csv` | PvP / WB / Campaign tiers |
 
-Regenerate workbook: `python3 x-clash/scripts/generate-master-workbook.py`
+```bash
+python3 x-clash/scripts/build-skills-spec.py
+python3 x-clash/scripts/generate-master-workbook.py
+```
 
 ### Import to Google Sheets
 1. Open [Google Sheets](https://sheets.google.com) → Blank spreadsheet

@@ -35,7 +35,7 @@ Andrew,Skill 3,Ode to Darkness,Passive,"Reduces Magic DMG taken by 29.2% (Lv13).
 Andrew,Skill 4,TBD,Active/Pasive,Level 1 — not yet invested; check in-game for name/effect,HP,1,—,User screenshot,Yes
 Crystal,Skill 1,Ferry Soul,Active,"Physical DMG: 522.8% ATK (Lv20→532.29%) single enemy. 5★: +270% bonus Physical DMG.",ATK,20,★★★★★ (5★ = +270% DMG),User screenshot CP 3144246 @5★,No
 Crystal,Skill 2,Shadowy Soul,Active,"Physical DMG: 1372.7% ATK (Lv24) single enemy; on kill recasts at 50% DMG. 5★: +270% bonus Physical DMG.",ATK / Execute,24,★★★★★ (5★ = +270% DMG),User screenshot @5★,No
-Crystal,Skill 3,Soul Protection,Passive,"Back-row Forest heroes +24.75% monster damage (Lv25→24.9%). Each star +3%. 5★: ~39.75%+ total.",Buff,25,★★★★★ (+3% per star),User screenshot @5★,No
+Crystal,Skill 3,Soul Protection,Passive,"Back-row Forest heroes +25.5% monster damage (Lv30 MAX). Each star +3%. 5★: ~39.75%+ total.",Buff / Monster DMG,30,★★★★★ (+3% per star),User screenshot CP 2839155 @5★ Skill3 30/30,No
 Crystal,Skill 4,TBD,Active/Pasive,Level 1 — not yet invested,ATK,1,—,User screenshot,Yes
 Verna,Skill 1,Whispers of the Stars,Active (CS),"Physical DMG: 683% ATK (Lv21→696%) to random enemy. If target is monster: +12% all damage taken for 2 turns. 5★: +150% bonus Physical DMG.",ATK / Debuff,21,★★★★★ (+20/45/70/100/150%),User screenshot CP 2328133,No
 Verna,Skill 2,Astral Guardian,Passive,"+17.45% DMG to monsters (Lv23→17.6%). Team +53.45% Food/Iron/Gold after defeating monsters. Each star: +2% monster DMG +5% resources.",ATK / Resource,23,★★★★★ (+2% DMG +5% resources per star),User screenshot,No

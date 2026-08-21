@@ -1,0 +1,18 @@
+Hero,Faction,Primary_Role,Bring_To_Team,Best_Modes,Bench_When,Key_Skill_1,Key_Skill_2,Key_Skill_3,Formation_Note
+Yord,Forest,Buffer,+14.5% ATK +10% CRIT all allies; protects top DPS,All modes,Rarely — unless meter disproves on your account,Travel Invitation,Lingering Echo,Universal Chord,Back row; buffs entire team regardless of row
+Sera,Forest,DPS,16×127% ramp +628% crit +30% magic passive,Boss / PvP / Campaign,Never if built; core carry,Arrow of Destiny,Arrow of the Butterfly,Shadow Sprite,BACK row; more Forest allies = higher Amplification cap
+Monica,Forest,DPS,555% single + 5×348% random +28% CRIT,Boss / PvP,Only if severely under-geared,Desert Ember,Savage Swoop,Feline Fury,BACK row for Crystal Soul Protection
+Crystal,Forest,Buffer/DPS,+25.5% monster DMG to back-row Forest; 1372% execute,Boss,Skip if <3 Forest back row DPS,Ferry Soul,Shadowy Soul,Soul Protection,BACK row WITH Sera/Monica/Yord — do NOT put Crystal front
+Kataras,God/Nightfall,DPS,Premium burst DPS when fully built,Boss / PvP,Low investment / no copy,Burst skill 1,Asura skill 2,Demon passive,Back or front flex; eats Yord buff; verify on meter
+Fenixia,Human,DPS,481% + 254% AoE +27% CRIT,Boss / PvP,When Crystal Forest buff team scores higher,Incinerate,Flame Spiral,Fireborn,Back row; Flame Overload needs Human allies for stacks
+Verna,Forest,DPS/Support,+17% monster DMG +12% damage taken debuff,Boss (high CP only),Low CP vs team — user meter failed,Astral Guardian,Whispers of the Stars,Dance of the Stars,Back row; needs investment to beat raw DPS carries
+Andrew,Human,Tank,33% magic reduction + AoE debuff,PvP / Defense,Boss damage modes (meter),Ultimate Duel,Despair's Backlash,Ode to Darkness,FRONT for PvP; skip boss DPS teams
+Dragonic,Forest,Tank,462% burst + team phys reduction,PvP / Campaign,Boss unless out-DPSes carries,Thunder Breath,Overload,Thunderous Wrath,Front; user 1.4G run included front slot
+Alvarez,Nightfall,DPS,Multi-hit Terror Blade +38% phys + DEF shred,Boss/PvP at 5★,Before 5★ awaken,Revolving Blades,Terror Blade,Identify Weakness,Back row Nightfall burst
+Belial,Nightfall,DPS,Execute lowest HP +35% CRIT,PvP,Before 5★ / boss unless built,Malice Curse,Otherworld Distortion,Endless Trepidation,Back row
+Mirana,Nightfall,DPS,AoE 129% all enemies +35% phys passive,Boss waves / PvP,Low investment,Ceremony,Resentful Chorus,Soul Drain,Back row
+Sophia,Human,DPS,Back-row magic + stun 3 targets,PvP / Boss spender,Early F2P before pull,Dragonhunt,Dragon's Waltz,Moonlit Ripples,Back row assassin
+Daphne,Nightfall,DPS,Top Nightfall DPS; counters Human,PvP spender,Boss priority after core 5,Rose skills pending,Rose skills pending,Rose skills pending,Back row
+Valkyr,God,Tank/Buffer,Front protection + Judgment Human synergy,PvP / Rally,Boss DPS teams,Battle Realm,Battle Mark,Judgment,FRONT row buffer-tank
+Sparta,Nightfall,Tank,Taunt 4 targets +33% DR,PvP technical,World Boss,Demonic Sacrifice,Scatter the Weak,Devil's Rage,Front taunt — not boss DPS
+Rexar,Forest,Tank/Buffer,Team DEF buff + damage reduction,Forest PvP,Boss,Frostlord's Throne,Frostbite Touch,Eternal Frostlands,Front Forest comp with Dragonic

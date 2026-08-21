@@ -1,0 +1,141 @@
+Hero,Faction,Recommended_Row,Skill_Slot,Skill_Name,Skill_Type,Main_Stat_Scale,Effect_Summary,Star_Gates,Boss_Tier,PvP_Tier,Team_Synergy_Note,Verified,Source
+Sera,Forest,Back,Skill 1,Arrow of Destiny,Active (CS Magic),ATK / Magic,16 hits × 127% Magic DMG random (Lv33 MAX). +1 hit per Magic Amplification stack. 4★→16 hits; 5★: +120% bonus DMG.,★★★★★ (5★ = +120% DMG),SS,SS,Pair Yord buffer; more Forest allies = higher Amplification cap,Yes,User screenshot CP 3874489 @5★
+Sera,Forest,Back,Skill 2,Arrow of the Butterfly,Active (Magic),ATK / CRIT / Magic,628.4% Magic DMG single (Lv32). On crit: 1–3 Magic Amplification stacks; limit = Forest allies on team. 5★: +270% bonus DMG.,★★★★★ (5★ = +270% DMG),SS,SS,Pair Yord buffer; more Forest allies = higher Amplification cap,Yes,User screenshot @5★
+Sera,Forest,Back,Skill 3,Shadow Sprite,Passive,Magic DMG,+30.4% Magic DMG dealt (Lv32→30.6%). Each star +3%. 5★: ~45%+ bonus (~75%+ total).,★★★★★ (+3% per star),SS,SS,Pair Yord buffer; more Forest allies = higher Amplification cap,Yes,User screenshot @5★
+Sera,Forest,Back,Skill 4,TBD,Active/Pasive,ATK,Level 1 — not yet invested,—,SS,SS,Pair Yord buffer; more Forest allies = higher Amplification cap,No,User screenshot
+Yord,Forest,Back,Skill 1,Travel Invitation,Active (Buff),ATK / CRIT / Buff,All allies +14.55% ATK for 1 turn (Lv17→14.7%). 2★: +10% CRIT Rate; 4★: 2 turns; 5★: +2% ATK.,★★★★★ (+2% ATK / +10% CRIT / 2 turns),SS,SS,Mandatory buffer; buffs all DPS; protects highest-ATK ally,Yes,User screenshot CP 2769428 @5★
+Yord,Forest,Back,Skill 2,Lingering Echo,Passive,Speed / Buff,+35 Speed; reduces damage to highest-ATK ally by 11% (Lv20). Each tier +2 Speed +1% reduction.,★★★★★ (4 tiers unlocked),SS,SS,Mandatory buffer; buffs all DPS; protects highest-ATK ally,Yes,User screenshot @5★
+Yord,Forest,Back,Skill 3,Universal Chord,Active (Magic),ATK,Magic DMG: 402.7% ATK (Lv17→410.8%) single enemy. 5★: +270% bonus Magic DMG.,★★★★★ (5★ = +270% DMG),SS,SS,Mandatory buffer; buffs all DPS; protects highest-ATK ally,Yes,User screenshot @5★
+Yord,Forest,Back,Skill 4,TBD,Active/Pasive,ATK,Level 1 — not yet invested,—,SS,SS,Mandatory buffer; buffs all DPS; protects highest-ATK ally,No,User screenshot
+Dragonic,Forest,Front,Skill 1,Thunder Breath,Active,ATK,Physical DMG: 461.8% ATK (Lv24→470%) single enemy. 5★: +270% bonus Physical DMG.,★★★★★ (5★ = +270% DMG),C,A,Front tank; skip boss unless out-DPSes carries,Yes,User screenshot CP 3609199 @5★
+Dragonic,Forest,Front,Skill 2,Overload,Active (Buff),HP / Buff,−26.6% Physical DMG to front-row allies 1 turn (Lv22). 2★→2 turns; 4★→all allies; 5★: +2% more.,★★★★★ (5★ = +2% reduction),C,A,Front tank; skip boss unless out-DPSes carries,Yes,User screenshot @5★
+Dragonic,Forest,Front,Skill 3,Thunderous Wrath,Passive,HP / DMG Immune,Front-row −16.4% all damage taken (Lv24→16.5%). Each star +2%. 5★: ~26%+ total reduction.,★★★★★ (+2% per star),C,A,Front tank; skip boss unless out-DPSes carries,Yes,User screenshot @5★
+Dragonic,Forest,Front,Skill 4,TBD,Active/Pasive,ATK,Level 1 — not yet invested,—,C,A,Front tank; skip boss unless out-DPSes carries,No,User screenshot
+Monica,Forest,Back,Skill 1,Desert Ember,Active (Magic),ATK / Penetration,555.2% Magic DMG single (Lv24); splashes to back-row if target is front row. 5★: +270% bonus Magic DMG.,★★★★★ (5★ = +270% DMG),SS,SS,Stack CRIT with Yord; Forest back row for Crystal Soul Protection,Yes,User screenshot CP 3221797 @5★
+Monica,Forest,Back,Skill 2,Savage Swoop,Active (Magic),ATK,3 hits × 348% Magic random (Lv22→354%). 2★→4 hits; 4★→5 hits; 5★: +120% bonus DMG.,★★★★★ (5★ = +120% DMG),SS,SS,Stack CRIT with Yord; Forest back row for Crystal Soul Protection,Yes,User screenshot @5★
+Monica,Forest,Back,Skill 3,Feline Fury,Passive,CRIT,+27.8% CRIT (Lv19→28%). Each star +3%. 5★: ~42.8%+ total CRIT.,★★★★★ (+3% CRIT per star),SS,SS,Stack CRIT with Yord; Forest back row for Crystal Soul Protection,Yes,User screenshot @5★
+Monica,Forest,Back,Skill 4,TBD,Active/Pasive,ATK,Level 1 — not yet invested,—,SS,SS,Stack CRIT with Yord; Forest back row for Crystal Soul Protection,No,User screenshot
+Sophia,Human,Back,Skill 1,Dragonhunt,Active (Magic),ATK / Skill DMG,Magic DMG: 170% ATK (Lv5) single enemy. 5★ unlock: +270% bonus Magic DMG.,★★ (5★ = +270% DMG),SS,SS,User screenshot CP 2212015 @2★,Yes,User screenshot CP 2212015 @2★
+Sophia,Human,Back,Skill 2,Dragon's Waltz,Active (Magic),ATK / Control,Magic DMG: 156.2% ATK (Lv5) back-row priority; 10% Stun 1 turn. 2★→2 targets; 4★→3 targets; 5★: +120% bonus Magic DMG.,★★ (5★ = +120% DMG),SS,SS,User screenshot @2★,Yes,User screenshot @2★
+Sophia,Human,Back,Skill 3,Moonlit Ripples,Passive,ATK,+20.5% ATK during battle (Lv5). Each star +4%. 5★: ~36.5%+ total ATK.,★★ (5★ = +4% ATK),SS,SS,User screenshot @2★,Yes,User screenshot @2★
+Sophia,Human,Back,Skill 4,TBD,Active/Pasive,ATK,Locked at 2★ — unlock on ascend,Ascend required,SS,SS,User screenshot,No,User screenshot
+Fenixia,Human,Back,Skill 1,Incinerate,Active (Magic),ATK / CRIT,Magic DMG: 481.5% ATK (Lv17) single enemy. Battle start: +2 Flame Overload stacks per allied Human hero. 5★: +270% bonus Magic DMG.,★★★★★ (5★ = +270% DMG),S,S,Flame Overload scales with Human ally count,Yes,User screenshot CP 2764305 @5★
+Fenixia,Human,Back,Skill 2,Flame Spiral,Active (AoE Magic),ATK / CRIT,Magic DMG: 253.7% ATK (Lv17→258.8%) to ALL enemies. 5★: +270% bonus Magic DMG.,★★★★★ (5★ = +270% DMG),S,S,Flame Overload scales with Human ally count,Yes,User screenshot @5★
+Fenixia,Human,Back,Skill 3,Fireborn,Passive,CRIT,+27.2% CRIT Rate (Lv16→27.4%). Each star +3%. 5★: ~42%+ total CRIT Rate.,★★★★★ (+3% CRIT per star),S,S,Flame Overload scales with Human ally count,Yes,User screenshot @5★
+Fenixia,Human,Back,Skill 4,TBD,Active/Pasive,ATK,Level 1 — not yet invested,—,S,S,Flame Overload scales with Human ally count,No,User screenshot
+Daphne,Nightfall,Back,Basic Attack,TBD,Basic,ATK,Standard attack,—,SS,SS,In-game,No,In-game
+Daphne,Nightfall,Back,Skill 1,TBD,Active,ATK,Best Nightfall DPS skill; strong vs Human,—,SS,SS,Guide,No,Guide
+Daphne,Nightfall,Back,Skill 2,TBD,Active,ATK,Rose/nightfall damage,★,SS,SS,In-game,No,In-game
+Daphne,Nightfall,Back,Skill 3,TBD,Passive,ATK,Anti-Human faction bonus,★★,SS,SS,Guide,No,Guide
+Daphne,Nightfall,Back,Ultimate,TBD,Ultimate,Ultimate DMG,Nightfall burst; weak vs Forest teams,★★★,SS,SS,Guide,No,Guide
+Andrew,Human,Front,Basic Attack,TBD,Basic,ATK,Standard spear attack,—,D,A,3 Forest + 2 Human = faction bonus; PvP front not boss,No,In-game
+Andrew,Human,Front,Skill 1,Ultimate Duel,Active,ATK / Penetration,Single-target Physical DMG: 361.2% ATK (Lv15; scales to 368.9% next). 5★ unlock: +270% bonus Physical DMG on this skill.,★★★★ (5★ = +270% DMG),D,A,3 Forest + 2 Human = faction bonus; PvP front not boss,Yes,User screenshot Lv140
+Andrew,Human,Front,Skill 2,Despair's Backlash,Active (AoE),ATK / Debuff,Physical DMG to ALL enemies: 78% ATK (Lv13). Reduces enemy Magic DMG dealt by 12.45%. 5★ unlock: +120% bonus Physical DMG.,★★★★ (5★ = +120% AoE DMG),D,A,3 Forest + 2 Human = faction bonus; PvP front not boss,Yes,User screenshot Lv140
+Andrew,Human,Front,Skill 3,Ode to Darkness,Passive,HP / DMG Immune,Reduces Magic DMG taken by 29.2% (Lv13). Each star adds +4% Magic DMG reduction. 5★ unlock: +4% more (≈33%+ total magic reduction).,★★★★ (5★ = +4% magic reduction),D,A,3 Forest + 2 Human = faction bonus; PvP front not boss,Yes,User screenshot Lv140
+Andrew,Human,Front,Skill 4,TBD,Active/Pasive,HP,Level 1 — not yet invested; check in-game for name/effect,—,D,A,3 Forest + 2 Human = faction bonus; PvP front not boss,No,User screenshot
+Crystal,Forest,Back,Skill 1,Ferry Soul,Active,ATK,Physical DMG: 522.8% ATK (Lv20→532.29%) single enemy. 5★: +270% bonus Physical DMG.,★★★★★ (5★ = +270% DMG),SS,B,Keep Forest DPS in BACK row (Sera/Monica/Yord/Crystal),Yes,User screenshot CP 3144246 @5★
+Crystal,Forest,Back,Skill 2,Shadowy Soul,Active,ATK / Execute,Physical DMG: 1372.7% ATK (Lv24) single enemy; on kill recasts at 50% DMG. 5★: +270% bonus Physical DMG.,★★★★★ (5★ = +270% DMG),SS,B,Keep Forest DPS in BACK row (Sera/Monica/Yord/Crystal),Yes,User screenshot @5★
+Crystal,Forest,Back,Skill 3,Soul Protection,Passive,Buff / Monster DMG,Back-row Forest heroes +25.5% monster damage (Lv30 MAX). Each star +3%. 5★: ~39.75%+ total.,★★★★★ (+3% per star),SS,B,Keep Forest DPS in BACK row (Sera/Monica/Yord/Crystal),Yes,User screenshot CP 2839155 @5★ Skill3 30/30
+Crystal,Forest,Back,Skill 4,TBD,Active/Pasive,ATK,Level 1 — not yet invested,—,SS,B,Keep Forest DPS in BACK row (Sera/Monica/Yord/Crystal),No,User screenshot
+Verna,Forest,Back,Skill 1,Whispers of the Stars,Active (CS),ATK / Debuff,Physical DMG: 683% ATK (Lv21→696%) to random enemy. If target is monster: +12% all damage taken for 2 turns. 5★: +150% bonus Physical DMG.,★★★★★ (+20/45/70/100/150%),B*,B,Only when CP matches team; pairs Crystal back-row buff,Yes,User screenshot CP 2328133
+Verna,Forest,Back,Skill 2,Astral Guardian,Passive,ATK / Resource,+17.45% DMG to monsters (Lv23→17.6%). Team +53.45% Food/Iron/Gold after defeating monsters. Each star: +2% monster DMG +5% resources.,★★★★★ (+2% DMG +5% resources per star),B*,B,Only when CP matches team; pairs Crystal back-row buff,Yes,User screenshot
+Verna,Forest,Back,Skill 3,Dance of the Stars,Active,ATK,Physical DMG: 331.2% ATK (Lv24→337%) to 2 random enemies. 5★: +150% bonus Physical DMG.,★★★★★ (+20/45/70/100/150%),B*,B,Only when CP matches team; pairs Crystal back-row buff,Yes,User screenshot
+Verna,Forest,Back,Skill 4,TBD,Active/Pasive,ATK,Level 1 — not yet invested,—,B*,B,Only when CP matches team; pairs Crystal back-row buff,No,User screenshot
+Sparta,Nightfall,Front,Skill 1,Demonic Sacrifice,Active,ATK,Physical DMG: 205% ATK (Lv10) single enemy. 5★ unlock: +270% bonus Physical DMG.,★★★ (5★ = +270% DMG),D,S,User screenshot CP 2391258 @3★,Yes,User screenshot CP 2391258 @3★
+Sparta,Nightfall,Front,Skill 2,Scatter the Weak,Active,ATK / Debuff / Taunt,Taunts 2 enemies; −11.5% ATK for 2 turns. 2★→3 targets; 4★→4 targets; 5★: −2% more ATK reduction.,★★★ (5★ = +2% ATK debuff),D,S,User screenshot @3★,Yes,User screenshot @3★
+Sparta,Nightfall,Front,Skill 3,Devil's Rage,Passive,HP / DMG Immune,Reduces all damage taken by 18%. Each star +3%. 5★: −33% total damage reduction.,★★★ (5★ = +3% reduction),D,S,User screenshot @3★,Yes,User screenshot @3★
+Sparta,Nightfall,Front,Skill 4,TBD,Active/Pasive,ATK,Locked at 3★ — unlock on ascend,Ascend required,D,S,User screenshot,No,User screenshot
+Valkyr,God,Front,Skill 1,Battle Realm,Active,ATK,Physical DMG: 207% ATK (Lv10) single enemy. 5★ unlock: +270% bonus Physical DMG.,★★★ (5★ = +270% DMG),C,SS,User screenshot CP 2535465 @3★,Yes,User screenshot CP 2535465 @3★
+Valkyr,God,Front,Skill 2,Battle Mark,Passive,HP / DMG Immune,Front-row: −8% all damage + −8% Magic DMG taken. Each star +1.5% reduction. 5★: ~15.5%+ total reduction.,★★★ (5★ = +1.5% reduction),C,SS,User screenshot @3★,Yes,User screenshot @3★
+Valkyr,God,Front,Skill 3,Judgment,Active (Buff),Buff / DMG Immune,All allies −13.3% Magic DMG taken for 1 turn. Human heroes +4/8/12/16% extra. 5★: duration → 2 turns.,★★★ (5★ = 2 turn duration),C,SS,User screenshot @3★,Yes,User screenshot @3★
+Valkyr,God,Front,Skill 4,TBD,Active/Pasive,ATK,Locked at 3★ — unlock on ascend,Ascend required,C,SS,User screenshot,No,User screenshot
+Rexar,Forest,Front,Skill 1,Frostlord's Throne,Active,ATK,Physical DMG: 204.4% ATK (Lv10) single enemy. 5★ unlock: +270% bonus Physical DMG.,★★★ (5★ = +270% DMG),C,S,User screenshot CP 2613293 @3★,Yes,User screenshot CP 2613293 @3★
+Rexar,Forest,Front,Skill 2,Frostbite Touch,Active (Buff),HP / Buff,+35% DEF to front row 1 turn (Lv10). 3★→all allies; 4★→2 turns; 5★: +5% DEF.,★★★ (5★ = +5% DEF),C,S,User screenshot @3★,Yes,User screenshot @3★
+Rexar,Forest,Front,Skill 3,Eternal Frostlands,Passive,HP / DMG Immune,Reduces all damage taken by 18%. Each star +3%. 5★: −33% total damage reduction.,★★★ (5★ = +3% reduction),C,S,User screenshot @3★,Yes,User screenshot @3★
+Rexar,Forest,Front,Skill 4,TBD,Active/Pasive,ATK,Locked at 3★ — unlock on ascend,Ascend required,C,S,User screenshot,No,User screenshot
+Alvarez,Nightfall,Back,Skill 1,Revolving Blades,Active,ATK / Penetration,Physical DMG: 346.6% ATK (Lv13→354.3%) single enemy. 5★ unlock: +270% bonus Physical DMG.,★★★★ (5★ = +270% DMG),S,A,Nightfall burst; DEF shred; 5★ for boss consideration,Yes,User screenshot CP 2565568
+Alvarez,Nightfall,Back,Skill 2,Terror Blade,Active (CS),ATK / Debuff,10 hits × 43% ATK (Lv12→44.2%) random enemies; reduces DEF 5% (max 25%) for 2 turns. 5★: +120% DMG + attacks scale to 20 hits at 4★.,★★★★ (5★ = +120% DMG),S,A,Nightfall burst; DEF shred; 5★ for boss consideration,Yes,User screenshot
+Alvarez,Nightfall,Back,Skill 3,Identify Weakness,Passive,ATK / Penetration,Increases Physical DMG dealt by 23.6% (Lv13→23.8%). Each star +3%. 5★ unlock: +3% more (~38%+ total).,★★★★ (5★ = +3% phys DMG),S,A,Nightfall burst; DEF shred; 5★ for boss consideration,Yes,User screenshot
+Alvarez,Nightfall,Back,Skill 4,TBD,Active/Pasive,ATK,Level 1 — not yet invested,—,S,A,Nightfall burst; DEF shred; 5★ for boss consideration,No,User screenshot
+Belial,Nightfall,Back,Skill 1,Malice Curse,Active,ATK / Execute,Physical DMG: 246.3% ATK (Lv10) to lowest-HP enemy. 5★ unlock: +270% bonus Physical DMG.,★★★ (5★ = +270% DMG),A,S,Execute + CRIT; Nightfall comps,Yes,User screenshot CP 2339655 @3★
+Belial,Nightfall,Back,Skill 2,Otherworld Distortion,Active,ATK,Physical DMG: 193.8% ATK (Lv10) to 3 random enemies. Stars: +30% DMG; +3/6% permanent ATK; +70/120% DMG.,★★★ (5★ = +120% DMG),A,S,Execute + CRIT; Nightfall comps,Yes,User screenshot @3★
+Belial,Nightfall,Back,Skill 3,Endless Trepidation,Passive,CRIT,+20% CRIT Rate during battle. Each star +3%. 5★: +35% total CRIT Rate.,★★★ (5★ = +3% CRIT),A,S,Execute + CRIT; Nightfall comps,Yes,User screenshot @3★
+Belial,Nightfall,Back,Skill 4,TBD,Active/Pasive,ATK,Locked at 3★ — unlock on ascend,Ascend required,A,S,Execute + CRIT; Nightfall comps,No,User screenshot
+Kataras,God/Nightfall,Back,Basic Attack,TBD,Basic,ATK,Standard attack,—,SS+,S,Raw burst; eats Yord ATK/CRIT buff; verify on meter,No,In-game
+Kataras,God/Nightfall,Back,Skill 1,TBD,Active,ATK,Demon masked burst,—,SS+,S,Raw burst; eats Yord ATK/CRIT buff; verify on meter,No,In-game
+Kataras,God/Nightfall,Back,Skill 2,TBD,Active,ATK,Asura damage skill,★,SS+,S,Raw burst; eats Yord ATK/CRIT buff; verify on meter,No,In-game
+Kataras,God/Nightfall,Back,Skill 3,TBD,Passive,ATK,Demon passive,★★,SS+,S,Raw burst; eats Yord ATK/CRIT buff; verify on meter,No,In-game
+Kataras,God/Nightfall,Back,Ultimate,TBD,Ultimate,ATK,Asura ultimate,★★★,SS+,S,Raw burst; eats Yord ATK/CRIT buff; verify on meter,No,In-game
+Mirana,Nightfall,Back,Skill 1,Ceremony,Active,ATK,Physical DMG: 246.3% ATK (Lv10) single enemy. 5★ unlock: +270% bonus Physical DMG.,★★★ (5★ = +270% DMG),S,A,AoE physical; Soul Drain +35% phys at 5★,Yes,User screenshot CP 2230237 @3★
+Mirana,Nightfall,Back,Skill 2,Resentful Chorus,Active (AoE),ATK,Physical DMG: 129.3% ATK (Lv10) to ALL enemies. 5★ unlock: +270% bonus Physical DMG.,★★★ (5★ = +270% DMG),S,A,AoE physical; Soul Drain +35% phys at 5★,Yes,User screenshot @3★
+Mirana,Nightfall,Back,Skill 3,Soul Drain,Passive,ATK / Penetration,+20% Physical DMG dealt during battle. Each star +3%. 5★: +35% total Physical DMG.,★★★ (5★ = +3% phys DMG),S,A,AoE physical; Soul Drain +35% phys at 5★,Yes,User screenshot @3★
+Mirana,Nightfall,Back,Skill 4,TBD,Active/Pasive,ATK,Locked at 3★ — unlock on ascend,Ascend required,S,A,AoE physical; Soul Drain +35% phys at 5★,No,User screenshot
+Chakiss,Human,Front,Skill 1,Valiant Charge,Active,ATK,Physical DMG: 297% ATK (Lv17→303%) single enemy. 5★: +150% bonus Physical DMG.,★★★★★ (+20/45/70/100/150%),B,C,User screenshot CP 2407331,Yes,User screenshot CP 2407331
+Chakiss,Human,Front,Skill 2,Valiant Counterattack,Active,ATK / Debuff,Physical DMG: 249.4% ATK (Lv14→256.5%) to all enemies in a row; reduces ATK 6% for 1 turn. 5★: +150% bonus Physical DMG.,★★★★★ (+20/45/70/100/150%),B,C,User screenshot,Yes,User screenshot
+Chakiss,Human,Front,Skill 3,Shield Shock,Passive,HP / DMG Immune,Reduces monster damage taken by 32.2% (Lv14→32.5%). Each star +4% monster DMG reduction.,★★★★★ (+4% per star),B,C,User screenshot,Yes,User screenshot
+Chakiss,Human,Front,Skill 4,TBD,Active/Pasive,ATK,Level 1 — not yet invested,—,B,C,User screenshot,No,User screenshot
+Edric,Forest,Front,Basic Attack,TBD,Basic,ATK,Standard attack,—,C,C,In-game,No,In-game
+Edric,Forest,Front,Skill 1,TBD,Active,ATK,Spore warrior damage,—,C,C,In-game,No,In-game
+Edric,Forest,Front,Skill 2,TBD,Active,ATK,Spore skill,★,C,C,In-game,No,In-game
+Edric,Forest,Front,Skill 3,TBD,Passive,ATK,Spore passive,★★,C,C,In-game,No,In-game
+Edric,Forest,Front,Ultimate,TBD,Ultimate,ATK,Spore burst,★★★,C,C,In-game,No,In-game
+Denise,Human,Back,Basic Attack,TBD,Basic,ATK,Standard attack,—,C,C,In-game,No,In-game
+Denise,Human,Back,Skill 1,TBD,Active,ATK / Buff,Bard team buff,—,C,C,Guide — PvE support,No,Guide — PvE support
+Denise,Human,Back,Skill 2,TBD,Active,ATK,Bard skill,★,C,C,In-game,No,In-game
+Denise,Human,Back,Skill 3,TBD,Passive,Buff,Bard passive,★★,C,C,In-game,No,In-game
+Denise,Human,Back,Ultimate,TBD,Ultimate,Buff,Team support ultimate,★★★,C,C,In-game,No,In-game
+Faerie,Forest,Back,Basic Attack,TBD,Basic,ATK,Standard attack,—,C,C,In-game,No,In-game
+Faerie,Forest,Back,Skill 1,TBD,Active,HP / Heal,Tree spirit heal/buff,—,C,C,Guide,No,Guide
+Faerie,Forest,Back,Skill 2,TBD,Active,Heal,Merciful support skill,★,C,C,In-game,No,In-game
+Faerie,Forest,Back,Skill 3,TBD,Passive,HP,Healing passive,★★,C,C,In-game,No,In-game
+Faerie,Forest,Back,Ultimate,TBD,Ultimate,Heal,Sustain ultimate,★★★,C,C,In-game,No,In-game
+Aaron,?,?,Basic Attack,TBD,Basic,ATK,Standard attack,—,?,?,In-game,No,In-game
+Aaron,?,?,Skill 1,TBD,Active,ATK,Wolf king damage,—,?,?,In-game,No,In-game
+Aaron,?,?,Skill 2,TBD,Active,ATK,Howling skill,★,?,?,In-game,No,In-game
+Aaron,?,?,Skill 3,TBD,Passive,ATK,Wolf passive,★★,?,?,In-game,No,In-game
+Aaron,?,?,Ultimate,TBD,Ultimate,ATK,Wolf burst,★★★,?,?,In-game,No,In-game
+Ali,?,?,Basic Attack,TBD,Basic,ATK,Standard attack,—,?,?,In-game,No,In-game
+Ali,?,?,Skill 1,TBD,Active,ATK,Electric boxer combo,—,?,?,In-game,No,In-game
+Ali,?,?,Skill 2,TBD,Active,ATK,Electric skill,★,?,?,In-game,No,In-game
+Ali,?,?,Skill 3,TBD,Passive,ATK,Boxer passive,★★,?,?,In-game,No,In-game
+Ali,?,?,Ultimate,TBD,Ultimate,ATK,Electric burst,★★★,?,?,In-game,No,In-game
+Cthylla,?,?,Basic Attack,TBD,Basic,ATK,Standard attack,—,?,?,In-game,No,In-game
+Cthylla,?,?,Skill 1,TBD,Active,ATK,Deep terror AoE,—,?,?,In-game,No,In-game
+Cthylla,?,?,Skill 2,TBD,Active,ATK / Control,Terror control skill,★,?,?,In-game,No,In-game
+Cthylla,?,?,Skill 3,TBD,Passive,ATK,Deep sea passive,★★,?,?,In-game,No,In-game
+Cthylla,?,?,Ultimate,TBD,Ultimate,ATK,Terror ultimate,★★★,?,?,In-game,No,In-game
+Garuda,?,?,Basic Attack,TBD,Basic,ATK,Standard attack,—,?,?,In-game,No,In-game
+Garuda,?,?,Skill 1,TBD,Active,ATK,Dragonslayer burst,—,?,?,In-game,No,In-game
+Garuda,?,?,Skill 2,TBD,Active,ATK,Slayer skill,★,?,?,In-game,No,In-game
+Garuda,?,?,Skill 3,TBD,Passive,ATK,Anti-beast passive,★★,?,?,In-game,No,In-game
+Garuda,?,?,Ultimate,TBD,Ultimate,ATK,Dragon slayer ultimate,★★★,?,?,In-game,No,In-game
+Marissa,?,?,Basic Attack,TBD,Basic,ATK,Standard attack,—,?,?,In-game,No,In-game
+Marissa,?,?,Skill 1,TBD,Active,ATK,Spear of revenge damage,—,?,?,In-game,No,In-game
+Marissa,?,?,Skill 2,TBD,Active,ATK,Revenge skill,★,?,?,In-game,No,In-game
+Marissa,?,?,Skill 3,TBD,Passive,ATK,Revenge passive,★★,?,?,In-game,No,In-game
+Marissa,?,?,Ultimate,TBD,Ultimate,ATK,Revenge burst,★★★,?,?,In-game,No,In-game
+Reina,?,?,Basic Attack,TBD,Basic,ATK,Standard attack,—,?,?,In-game,No,In-game
+Reina,?,?,Skill 1,TBD,Active,ATK / Debuff,Enchanting witch debuff,—,?,?,In-game,No,In-game
+Reina,?,?,Skill 2,TBD,Active,ATK,Witch skill,★,?,?,In-game,No,In-game
+Reina,?,?,Skill 3,TBD,Passive,ATK,Enchant passive,★★,?,?,In-game,No,In-game
+Reina,?,?,Ultimate,TBD,Ultimate,ATK,Witch ultimate,★★★,?,?,In-game,No,In-game
+Harold,?,?,Basic Attack,TBD,Basic,ATK / HP,Standard attack,—,?,?,In-game,No,In-game
+Harold,?,?,Skill 1,TBD,Active,HP,Tekken chief tank skill,—,?,?,In-game,No,In-game
+Harold,?,?,Skill 2,TBD,Active,HP,Chief skill,★,?,?,In-game,No,In-game
+Harold,?,?,Skill 3,TBD,Passive,HP,Tank passive,★★,?,?,In-game,No,In-game
+Harold,?,?,Ultimate,TBD,Ultimate,HP,Tekken ultimate,★★★,?,?,In-game,No,In-game
+Moga,?,?,Basic Attack,TBD,Basic,ATK,Standard attack,—,?,?,In-game,No,In-game
+Moga,?,?,Skill 1,TBD,Active,ATK,Garlic samurai slash,—,?,?,In-game,No,In-game
+Moga,?,?,Skill 2,TBD,Active,ATK,Samurai skill,★,?,?,In-game,No,In-game
+Moga,?,?,Skill 3,TBD,Passive,ATK,Samurai passive,★★,?,?,In-game,No,In-game
+Moga,?,?,Ultimate,TBD,Ultimate,ATK,Samurai burst,★★★,?,?,In-game,No,In-game
+Romano,?,?,Basic Attack,TBD,Basic,ATK,Standard attack,—,?,?,In-game,No,In-game
+Romano,?,?,Skill 1,TBD,Active,ATK,Holy inquisitor damage/buff,—,?,?,In-game,No,In-game
+Romano,?,?,Skill 2,TBD,Active,ATK,Inquisitor skill,★,?,?,In-game,No,In-game
+Romano,?,?,Skill 3,TBD,Passive,ATK,Holy passive,★★,?,?,In-game,No,In-game
+Romano,?,?,Ultimate,TBD,Ultimate,ATK,Inquisitor ultimate,★★★,?,?,In-game,No,In-game
+Torun,?,?,Basic Attack,TBD,Basic,ATK,Standard attack,—,?,?,In-game,No,In-game
+Torun,?,?,Skill 1,TBD,Active,ATK,Berserk axe damage,—,?,?,In-game,No,In-game
+Torun,?,?,Skill 2,TBD,Active,ATK,Berserk skill,★,?,?,In-game,No,In-game
+Torun,?,?,Skill 3,TBD,Passive,ATK,Berserk passive,★★,?,?,In-game,No,In-game
+Torun,?,?,Ultimate,TBD,Ultimate,ATK,Berserk burst,★★★,?,?,In-game,No,In-game

@@ -11,9 +11,14 @@ ROOT = Path(__file__).resolve().parents[1]
 SHEETS = [
     ("My Teams", "x-clash-my-teams.csv"),
     ("My Roster", "x-clash-my-roster.csv"),
+    ("Team Compositions", "x-clash-team-compositions.csv"),
+    ("Hero Slot Guide", "x-clash-hero-slot-guide.csv"),
+    ("Upgrade Priority", "x-clash-upgrade-priority.csv"),
+    ("Faction Reference", "x-clash-faction-reference.csv"),
+    ("Skills Spec", "x-clash-heroes-skills-spec.csv"),
     ("Heroes Master", "x-clash-heroes-master.csv"),
     ("Tier By Mode", "x-clash-heroes-tier-by-mode.csv"),
-    ("Skills", "x-clash-heroes-skills.csv"),
+    ("Skills Raw", "x-clash-heroes-skills.csv"),
     ("Roster Template", "x-clash-my-roster-template.csv"),
 ]
 

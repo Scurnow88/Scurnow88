@@ -1,16 +1,21 @@
 Team_ID,Mode,Team_Name,Slot,Position,Hero,Role,Notes
-UB1,Union Boss,Team 1 (Max Damage),1,Back,Sera,DPS/Buffer,Forest DPS — slot 1 in your 1.4G WB run (rank 16)
-UB1,Union Boss,Team 1 (Max Damage),2,Back,Monica,DPS,Forest DPS — slot 2 in 1.4G run
-UB1,Union Boss,Team 1 (Max Damage),3,Back,Kataras,DPS,Your highest WB score (1.4G) — core pick; NOT Yord
-UB1,Union Boss,Team 1 (Max Damage),4,Front,Dragonic,Tank/DPS,Demon front — in 1.4G run; your data beats no-tank theory
-UB1,Union Boss,Team 1 (Max Damage),5,Back,Crystal,Buffer/DPS,Mage/support slot in 1.4G run — Forest back-row buff
-WB1,World Boss,Team 1 (Verified Best),1,Back,Sera,DPS/Buffer,1.4G Ancient Mammoth — CP 18.6M team
-WB1,World Boss,Team 1 (Verified Best),2,Back,Monica,DPS,1.4G run rank 16
-WB1,World Boss,Team 1 (Verified Best),3,Back,Kataras,DPS,User confirmed — best WB performer
-WB1,World Boss,Team 1 (Verified Best),4,Front,Dragonic,Tank/DPS,1.4G run — demon/tank slot
-WB1,World Boss,Team 1 (Verified Best),5,Back,Crystal,Buffer/DPS,1.4G run — confirm in-game if different
-PVP1,PvP,Team 1 (3 Forest + 2 Human),1,Front,Andrew,Tank,Human faction + frontline
-PVP1,PvP,Team 1 (3 Forest + 2 Human),2,Back,Sera,DPS,Forest
-PVP1,PvP,Team 1 (3 Forest + 2 Human),3,Front,Dragonic,Tank,Forest
-PVP1,PvP,Team 1 (3 Forest + 2 Human),4,Back,Verna,DPS,Forest — PvP only
-PVP1,PvP,Team 1 (3 Forest + 2 Human),5,Back,Fenixia,DPS,Human
+UB1,Union Boss,Team 1 — Skill core,1,Back,Yord,Buffer,+14.5% ATK +10% CRIT — multiplies all DPS below
+UB1,Union Boss,Team 1 — Skill core,2,Back,Sera,DPS/Buffer,Amplification ramp; Forest ally for stacks
+UB1,Union Boss,Team 1 — Skill core,3,Back,Monica,DPS,555% + Savage Swoop + CRIT
+UB1,Union Boss,Team 1 — Skill core,4,Back,Kataras,DPS,Premium burst — user 1.4G WB validated
+UB1,Union Boss,Team 1 — Skill core,5,Back,Fenixia,DPS,AoE + CRIT; test swap → Crystal on meter
+WB1,World Boss,Team 1 — Same as UB1,1,Back,Yord,Buffer,Same as Union Boss Team 1
+WB1,World Boss,Team 1 — Same as UB1,2,Back,Sera,DPS/Buffer,Same
+WB1,World Boss,Team 1 — Same as UB1,3,Back,Monica,DPS,Same
+WB1,World Boss,Team 1 — Same as UB1,4,Back,Kataras,DPS,Same
+WB1,World Boss,Team 1 — Same as UB1,5,Back,Fenixia,DPS,Same
+WB2,World Boss,Forest buff variant,1,Back,Yord,Buffer,Forest back row
+WB2,World Boss,Forest buff variant,2,Back,Sera,DPS,Soul Protection +25.5%
+WB2,World Boss,Forest buff variant,3,Back,Monica,DPS,Soul Protection +25.5%
+WB2,World Boss,Forest buff variant,4,Back,Crystal,Buffer,Soul Protection provider — stay BACK
+WB2,World Boss,Forest buff variant,5,Back,Kataras,DPS,Flex — meter vs Fenixia
+PVP1,PvP,3 Forest + 2 Human,1,Front,Andrew,Tank,PvP front
+PVP1,PvP,3 Forest + 2 Human,2,Front,Dragonic,Tank,Forest front
+PVP1,PvP,3 Forest + 2 Human,3,Back,Sera,DPS,Forest
+PVP1,PvP,3 Forest + 2 Human,4,Back,Verna,DPS,Forest — PvP not boss
+PVP1,PvP,3 Forest + 2 Human,5,Back,Fenixia,DPS,Human faction slot

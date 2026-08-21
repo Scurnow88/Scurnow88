@@ -1,0 +1,17 @@
+Priority,Audience,Hero,Primary_Modes,Why_Invest,Stop_When
+1,F2P,Yord,All modes,Mandatory ATK+CRIT buffer; every team scales from this,Max skills + keep gear current
+2,F2P,Sera,Campaign / Boss / PvP,Main magic DPS; Amplification ramps in long fights,5★ + core skill 30+
+3,F2P,Monica,Boss / PvP (if owned),555% burst + CRIT; top spender boss DPS,Exclusive + skills maxed
+4,F2P,Fenixia,Boss / PvP,AoE + CRIT magic; Human synergy,5★ + Lucky Spin altar path
+5,F2P,Crystal,Boss,Soul Protection +25.5% to Forest back row; keep Forest DPS in back,Skill 3 max; pair 3+ Forest back
+6,F2P,Kataras,Boss / PvP,Premium burst — invest only if you pull; meter-validated carry,When CP matches Monica/Sera
+7,F2P,Dragonic,Campaign / PvP,Free tank until Andrew Day 60,Replace front with Andrew for PvP faction
+8,F2P,Andrew,PvP / Defense,Day 60 free; 3 Forest + 2 Human comp front,Don't over-invest for boss damage
+9,F2P,Verna,Boss (conditional),Monster % kit — ONLY if CP/gear matches team,Bench if WB meter underperforms
+10,F2P,Alvarez,PvP / Boss (5★),Nightfall burst + DEF shred; ascend before boss use,5★ awaken first
+11,Spender,Monica,All PvP / Boss,Primary DPS over Sera at max spend,Before other spenders
+12,Spender,Sophia,PvP / Boss,Back-row magic + stun; top tier spender,After Monica core
+13,Spender,Daphne,PvP,Nightfall anti-Human meta,After core 5 boss team
+14,Spender,Valkyr,PvP / Rally,God buffer-tank; Human Judgment synergy,If on server
+15,Spender,Belial / Mirana / Alvarez,Nightfall PvE/PvP,Nightfall burst stacks,After main team
+99,F2P,A-tier fillers,None,Do not spread — one of Chakiss OR Edric only,Never priority

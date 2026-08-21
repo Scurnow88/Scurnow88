@@ -1,0 +1,19 @@
+Topic,Detail,Value,Notes
+Faction Triangle,Forest beats,Human,Counter advantage in PvP/rally
+Faction Triangle,Human beats,Nightfall,
+Faction Triangle,Nightfall beats,Forest,Corrected per Van DeVaughn tier list
+Counter Bonus,When your faction counters enemy,~20% less damage taken,Applies in faction matchups
+Team Bonus,3 heroes same faction A + 2 same faction B,+10% HP / ATK / DEF,Example: 3 Forest + 2 Human
+Team Bonus,Example comp,Sera + Dragonic + Verna + Andrew + Fenixia,3 Forest + 2 Human
+Forest,Faction,Forest,Roles: Sera Yord Monica Crystal Verna Dragonic Edric Faerie Rexar
+Human,Faction,Human,Roles: Andrew Fenixia Sophia Ali Chakiss Denise Garuda Marissa
+Nightfall,Faction,Nightfall,Roles: Daphne Belial Alvarez Mirana Sparta Cthylla
+God,Faction,God,Roles: Valkyr Kataras (verify in client)
+Beastkins,Faction,Beastkins,Roles: Aaron Moga Torun — filler tier
+Formation Rule,Soul Protection (Crystal),Back-row Forest only,Sera Monica Yord Crystal must be BACK — not front
+Formation Rule,Yord Travel Invitation,All allies,Any row — buffs whole team
+Formation Rule,Sera Amplification cap,= Forest allies on team,More Forest in roster = more Sera stacks
+Formation Rule,Fenixia Flame Overload,+2 stacks per Human ally at start,Needs 2+ Humans for full value
+Boss Rule,Max damage,Buffers + DPS in back row,Skip tanks unless meter proves otherwise
+Boss Rule,Verna,Investment-gated,Needs CP/gear near other carries or % kit underperforms
+Boss Rule,Kataras,High investment burst,Proven over theory picks when fully built

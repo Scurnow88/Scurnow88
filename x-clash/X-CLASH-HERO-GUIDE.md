@@ -1,0 +1,435 @@
+# X-Clash Heroes — Tier List, Stats & Skills Reference
+
+> **📘 Full guide:** See [`X-CLASH-FULL-GUIDE.md`](X-CLASH-FULL-GUIDE.md) for tiers, teams, upgrade priority, faction bonuses, and skill-based team building.  
+> **Purpose:** Help you decide upgrade priority and pick teams for PvP, World Boss, Campaign, and events.  
+> **Note:** In-game numbers change with level, stars, gear, and runes. Use your screenshots as the source of truth for exact values — this sheet gives **roles, synergies, and tier context**.
+
+---
+
+## Quick Reference — Faction Triangle
+
+```
+Forest  →  beats  →  Human
+Human   →  beats  →  Nightfall
+Nightfall → beats →  Forest
+```
+
+*(Corrected per [Van DeVaughn's tier list video](https://youtu.be/5UhwSZXyLr0): Forest beats Nightfall, Nightfall beats Human, Human beats Forest.)*
+
+Pick heroes that **counter the enemy faction** when building arena and rally teams.
+
+---
+
+## S+ Tier — Full Roster (Combat Identity)
+
+| Hero | Full Name | Faction | Role | Combat Identity |
+|------|-----------|---------|------|-----------------|
+| **Sera** | Sera, Bow of Tomorrow | Forest | DPS | **16×127% magic hits** + Magic Amplification; 628% Butterfly crit skill ✅ |
+| **Dragonic** | Dragonic, Dragonborn | Forest | Tank | **−26% phys dmg** team buff + **462%** burst; front-row −26% damage taken ✅ |
+| **Yord** | Yord, Traveler of the Forest Sea | Forest | Buffer | **+14.55% ATK + CRIT buff** all allies; protects highest-ATK ally — **mandatory on every team** ✅ |
+| **Monica** | Monica, Shadowhunt | Forest | DPS | **555% magic + back-row splash**; Savage Swoop 5-hit random ✅ |
+| **Sophia** | Sophia, Spirit of Ripples | Human | DPS | **Back-row magic DPS** + Stun; Dragon's Waltz hits 3 targets at 4★ ✅ |
+| **Fenixia** | Fenixia, Fiery Plume | Human | DPS | **481% single + 254% AoE** magic; +42% CRIT; Flame Overload per Human ally ✅ |
+| **Daphne** | Daphne, Rose's Watch | Nightfall | DPS | **Best Nightfall DPS**; hard counter to Human teams *(skills pending)* |
+| **Andrew** | Andrew, Knight of Death | Human | Tank | **Anti-magic tank** — 33% magic reduction, AoE debuff; unlocks 3 Forest + 2 Human bonus ✅ |
+| **Crystal** | Crystal, Soul Ferrier | Forest | Support/DPS | **+25% monster DMG** to Forest backline; **1372% execute** on kill ✅ |
+| **Verna** | Verna, Starlit Princess | Forest | DPS/Support | **683% hit + 12% damage taken** debuff on monsters; +53% resource gains ✅ |
+| **Valkyr** | Valkyr, Valiant Warrior | God | Tank/Buffer | **Front-row buffer** with Judgment-stack burst damage |
+| **Sparta** | Sparta, God Slayer | Nightfall | Tank/DPS | **Mechanic-heavy** hybrid; strong PvP, skip for World Boss |
+| **Rexar** | Rexar, Winter's Wrath | Forest | DPS | **Forest PvP specialist**; pairs with Dragonic |
+| **Alvarez** | Alvarez, Shadow of Exile | Nightfall | DPS | High burst shadow damage dealer |
+| **Belial** | Belial, Cursed Soul of the Dark Tome | Nightfall | DPS | **Lowest-HP execute** + 35% CRIT; Otherworld Distortion hits 3 random ✅ |
+| **Kataras** | Kataras, Demon Masked Asura | God* | DPS | Demon warrior burst damage |
+| **Mirana** | Mirana, Spectral Rakkhasa | Nightfall* | DPS | Spectral damage dealer |
+
+*\*Verify faction in your client — some premium heroes use God/extended factions.*
+
+---
+
+## S Tier — Full Roster
+
+| Hero | Full Name | Faction | Role | Combat Identity |
+|------|-----------|---------|------|-----------------|
+| **Aaron** | Aaron, Howling Wolf King | Beastkins | DPS | Wolf burst damage; filler investment |
+| **Ali** | Ali, Electric Boxer | Human | DPS | Electric melee DPS |
+| **Chakiss** | Chakiss, Dragon Warrior | Human | DPS | Epic filler — pick **one** of Chakiss or Edric early |
+| **Cthylla** | Cthylla, Deep Terror | Nightfall | DPS | Deep sea AoE/control damage |
+| **Denise** | Denise, Bard | Human | Support | Team buffer; mainly PvE |
+| **Edric** | Edric, Spore Warrior | Forest | DPS | Epic filler — pick **one** of Chakiss or Edric early |
+| **Faerie** | Faerie, Merciful Tree Spirit | Forest | Healer | Sustain/healing for long fights |
+| **Garuda** | Garuda, Dragonslayer | Human | DPS | Anti-beast burst DPS |
+| **Marissa** | Marissa, Spear of Revenge | Human | DPS | Revenge single-target DPS |
+| **Reina** | Reina, Enchanting Witch | Nightfall* | Support | Enchant/debuff support |
+
+---
+
+## A Tier — Full Roster
+
+| Hero | Full Name | Faction | Role | Combat Identity |
+|------|-----------|---------|------|-----------------|
+| **Harold** | Harold, Tekken Chief | Human | Tank | Basic frontline; low priority |
+| **Moga** | Moga, Garlic Samurai | Beastkins | DPS | Melee filler DPS |
+| **Romano** | Romano, Holy Inquisitor | Human | Support | Holy support with damage |
+| **Torun** | Torun, Berserk Axe | Beastkins | DPS | Berserker melee DPS |
+
+---
+
+## Mode-Specific Tier Lists (First 60 Days)
+
+*Source: [Van DeVaughn — X-Clash Hero Tier List](https://youtu.be/5UhwSZXyLr0) + [LDShop tier list](https://www.ldshop.gg/blog/tier-list/x-clash-survival-challenge-tier-list.html)*
+
+### F2P PvP
+| Tier | Heroes |
+|------|--------|
+| **SS** | Sera, Yord |
+| **S** | Fenixia, Dragonic, Andrew, Crystal, Verna |
+| **A** | Chakiss/Edric (Jackie/Eldrich in some guides) |
+
+### F2P World Boss
+| Tier | Heroes |
+|------|--------|
+| **SS** | Yord, Sera |
+| **S** | Fenixia, Crystal, Monica, Kataras *(when built)* |
+| **B*** | Verna *(investment-gated — verify on meter)* |
+| **A** | Dragonic, Andrew (fillers only) |
+
+> **World Boss rule:** Stack **buffers + damage dealers**. Use **Crystal** only with **Forest back row**. **Verna** only when CP matches your other carries.
+
+### Spender PvP
+| Tier | Heroes |
+|------|--------|
+| **SS** | Monica, Sophia, Yord, Daphne, Sera (+ Valkyr if available) |
+| **S** | Fenixia, Rexar, Sparta |
+| **A** | Dragonic, Andrew |
+| **B** | Belial, Crystal, Verna |
+
+### Spender World Boss
+| Tier | Heroes |
+|------|--------|
+| **SS** | Monica, Sophia, Yord, Daphne, Sera, Fenixia |
+| **S** | Crystal, Verna |
+| **A** | Belial |
+
+---
+
+## Upgrade Priority Guide
+
+### F2P — Focus your core 5 first
+1. **Yord** — buffer for every mode; never skip
+2. **Sera** — main DPS from day 1
+3. **Monica / Kataras** — if owned and built; boss burst
+4. **Crystal + Fenixia** — boss (Crystal needs Forest back row)
+5. **Dragonic** — free tank until Andrew (Day 60)
+6. **Andrew** — on server day 60 free summons (PvP)
+7. **Verna** — only after CP/gear matches team; verify on meter
+
+### Spender — After F2P core
+1. **Monica** — replaces Sera as primary DPS at max investment
+2. **Sophia** — PvP single-target monster
+3. **Daphne** — Nightfall counter to Human meta
+4. **Valkyr** — if on your server; God-tier buffer-tank
+5. **Rexar** — only if running Forest-focused PvP with Dragonic
+
+### Do NOT spread resources
+- Max **one team of 5** before branching out
+- Star-up > collecting new heroes
+- Purple/Gold gear on a geared A-tier beats naked S-tier
+
+---
+
+## Recommended Team Compositions
+
+### F2P PvE / Campaign
+```
+Sera + Dragonic + Yord + Fenixia + Denise/Faerie
+```
+
+### F2P World Boss
+```
+Yord + Sera + Monica/Kataras + Fenixia + Crystal
+```
+*(Forest back row for Crystal; test 5th slot on meter. Verna only if CP matches.)*
+
+### Skill core (meter-validated)
+```
+Yord + Sera + Monica + Kataras + Fenixia
+```
+
+### Spender PvP
+```
+Monica + Sophia + Yord + Daphne + Valkyr/Sparta
+```
+
+### Spender World Boss
+```
+Monica + Sophia + Yord + Daphne + Sera/Fenixia
+```
+
+### Forest PvP (Faction Focus — late game)
+```
+Monica + Sera + Yord + Dragonic + Rexar
+```
+
+---
+
+## Known Skill Details (Fill gaps from your screenshots)
+
+### Sera — Bow of Tomorrow *(verified @ CP 3,874,489, 5★)*
+
+| Skill | Lv | Effect |
+|-------|-----|--------|
+| **Arrow of Destiny** | 33 MAX | **16 hits × 127% Magic** random; +1 hit per **Magic Amplification** stack |
+| **Arrow of the Butterfly** | 32/33 | **628.4% Magic** single; crit → 1–3 Amplification stacks (limit = Forest allies) |
+| **Shadow Sprite** | 32/33 | **+30.4% Magic DMG** dealt (+3% per star) |
+
+**Role:** Core Forest magic DPS — more Forest allies = more Amplification stacks = more hits.
+
+### Dragonic — Dragonborn *(verified @ CP 3,609,199, 5★)*
+
+| Skill | Lv | Effect |
+|-------|-----|--------|
+| **Thunder Breath** | 24/30 | **461.8% Physical** single target |
+| **Overload** | 22/30 | **−26.6% Physical DMG** to allies; 4★ → **all allies**, 2 turns at 2★ |
+| **Thunderous Wrath** | 24/30 | Front-row **−16.4% all damage** (+2% per star) |
+
+**Role:** Forest tank-buffer — team physical protection + solid burst damage.
+
+### Monica — Shadowhunt *(verified @ CP 3,221,797, 5★)*
+
+| Skill | Lv | Effect |
+|-------|-----|--------|
+| **Desert Ember** | 24/30 | **555.2% Magic** single; **splashes to back-row** if target is front row |
+| **Savage Swoop** | 22/30 | **3–5 hits × 348% Magic** random (more hits at higher stars) |
+| **Feline Fury** | 19/30 | **+27.8% CRIT** (+3% per star) |
+
+**Role:** Premium Forest DPS — confirmed backline splash mechanic for PvP.
+
+### Yord — Traveler of the Forest Sea *(verified @ CP 2,769,428, 5★)*
+
+| Skill | Lv | Effect | Star gates |
+|-------|-----|--------|------------|
+| **Travel Invitation** | 17/30 | **+14.55% ATK** all allies (1 turn) | 2★ +10% CRIT; **4★ → 2 turns**; 5★ +2% ATK |
+| **Lingering Echo** | 20/30 | **+35 Speed**; −11% dmg to highest-ATK ally | +2 Speed +1% reduction per tier |
+| **Universal Chord** | 17/30 | **402.7% Magic DMG** single | 5★: +270% bonus DMG |
+
+**Role:** Mandatory buffer — protects your top DPS and amplifies whole team. **Non-negotiable investment.**
+
+### Fenixia — Fiery Plume *(verified @ CP 2,764,305, 5★)*
+
+| Skill | Lv | Effect | Star gates |
+|-------|-----|--------|------------|
+| **Incinerate** | 17/31 | **481.5% Magic DMG** single; +2 Flame Overload per Human ally at battle start | 5★: +270% bonus DMG |
+| **Flame Spiral** | 17/31 | **253.7% Magic DMG** to **all enemies** | 5★: +270% bonus DMG |
+| **Fireborn** | 16/31 | **+27.2% CRIT Rate** | +3% CRIT per star (~42%+ at 5★) |
+
+**Role:** World Boss queen — AoE + single-target magic burst; synergizes with Human-heavy teams.
+
+### Crystal — Soul Ferrier *(verified @ CP 3,144,246, 5★)*
+
+| Skill | Lv | Effect | Star gates |
+|-------|-----|--------|------------|
+| **Ferry Soul** | 20/30 | **522.8% Physical DMG** single | 5★: +270% bonus DMG |
+| **Shadowy Soul** | 24/30 | **1372.7% Physical DMG** single; **recast at 50%** on kill | 5★: +270% bonus DMG |
+| **Soul Protection** | 30/30 MAX | Back-row **Forest** heroes **+25.5% monster damage** | +3% per star (~39.75%+ at 5★) |
+
+**Role:** World Boss enabler — buffs your Forest **back row** (+25.5% vs monsters @ Skill 3 max); massive execute on Shadowy Soul.
+
+**Formation:** Keep **Sera, Monica, Yord, and Crystal in the BACK row**. Front slot = flex (Kataras, Fenixia, tank).
+
+---
+
+### Valkyr — Valiant Warrior (Official preview)
+
+| Skill | Effect |
+|-------|--------|
+| **Ultimate Spear** | Burst damage using Judgment stacks |
+| **Shrine Shadow** | Judgment / mark mechanic |
+| **Mark of Judgment** | Stack system for burst |
+| **Unparalleled Domain** | Domain buff + burst |
+| Position | **Front row** buffer-tank |
+
+### Sparta — God Slayer (Official preview)
+
+| Feature | Detail |
+|---------|--------|
+| Faction | Nightfall |
+| Role | Warrior / taunt tank |
+| World Boss | Not recommended |
+
+### Andrew — Knight of Death *(verified @ Lv140)*
+
+| Skill | Lv | Current Effect (4★) | **5★ Awaken Unlock** |
+|-------|-----|----------------------|----------------------|
+| **Ultimate Duel** | 15/20 | **361.2% ATK** Physical DMG to **single enemy** | **+270% bonus Physical DMG** |
+| **Despair's Backlash** | 13/20 | **78% ATK** Physical DMG to **all enemies** + reduce enemy Magic DMG dealt by **12.45%** | **+120% bonus Physical DMG** (AoE) |
+| **Ode to Darkness** | 13/20 | Passive: reduce **Magic DMG taken by 29.2%** (+4% per star unlocked) | **+4% Magic DMG reduction** (~33%+ total) |
+| Skill 4 | 1 | Not yet invested | Check in-game |
+
+**What 5★ means for Andrew:** You unlock three big combat spikes at once — **+270%** on his single-target nuke, **+120%** on his AoE anti-magic debuff, and another **+4%** magic damage reduction. He becomes a true **anti-magic tank** that also hurts back.
+
+**Faction fit for your roster:** 3 Forest (Sera, Dragonic, Verna) + 2 Human (Andrew + your other Human) = **+10% HP/ATK/DEF** team bonus, plus Human **counters Forest** enemies (−20% damage taken).
+
+### Verna — Starlit Princess *(verified @ CP 2,328,133)*
+
+| Skill | Lv | Effect | 5★ bonus pattern |
+|-------|-----|--------|------------------|
+| **Whispers of the Stars** | 21/30 | **683% ATK** to random enemy; vs monsters **+12% damage taken** (2 turns) | +20/45/70/100/**150%** bonus DMG |
+| **Astral Guardian** | 23/30 | **+17.45% DMG to monsters**; team **+53.45%** Food/Iron/Gold after kills | +2% monster DMG +5% resources per star |
+| **Dance of the Stars** | 24/30 | **331.2% ATK** to **2 random** enemies | +20/45/70/100/**150%** bonus DMG |
+
+**Role:** World Boss / PvE specialist — monster damage amp + boss vulnerability debuff + resource farming.
+
+> **Account note:** Verna’s monster % kit only pays off when **CP, gear, and exclusive** match your other carries. At low CP (~2.4M vs ~3M+ DPS units), **Monica/Sera/Fenixia** often out-damage her in practice — verify on your World Boss meter before locking her in.
+
+### Alvarez — Shadow of Exile *(verified @ CP 2,565,568, 4★)*
+
+| Skill | Lv | Effect (4★) | **5★ Awaken unlock** |
+|-------|-----|-------------|----------------------|
+| **Revolving Blades** | 13/20 | **346.6% ATK** single target | **+270% bonus Physical DMG** |
+| **Terror Blade** | 12/20 | **10 hits × 43% ATK** random; **−5% DEF** (max 25%) 2 turns | **+120% bonus DMG** (hits scale to 20 at 4★) |
+| **Identify Weakness** | 13/20 | **+23.6% Physical DMG** dealt | **+3% more** (~38%+ total) |
+
+**Role:** Physical DPS / DEF-shred — multi-hit random attacks + self damage buff.
+
+### Chakiss — Dragon Warrior *(verified @ CP 2,407,331)*
+
+| Skill | Lv | Effect | 5★ bonus pattern |
+|-------|-----|--------|------------------|
+| **Valiant Charge** | 17/30 | **297% ATK** single target | +20/45/70/100/**150%** bonus DMG |
+| **Valiant Counterattack** | 14/30 | **249.4% ATK** row AoE; **−6% enemy ATK** 1 turn | +20/45/70/100/**150%** bonus DMG |
+| **Shield Shock** | 14/30 | **−32.2% monster damage** taken | +4% monster reduction per star |
+
+**Role:** PvE / monster tank-DPS — strong vs monsters, row AoE + ATK debuff.
+
+### Valkyr — Valiant Warrior *(verified @ CP 2,535,465, 3★)*
+
+| Skill | Lv | Effect (3★) | **5★ Awaken unlock** |
+|-------|-----|-------------|----------------------|
+| **Battle Realm** | 10/10 | **207% ATK** single target | **+270% bonus Physical DMG** |
+| **Battle Mark** | 10/10 | Front-row **−8%** all dmg + **−8%** magic dmg | **+1.5%** reduction (~15.5%+ total) |
+| **Judgment** | 10/10 | All allies **−13.3%** magic dmg (1 turn); Human +12% extra | **Duration → 2 turns** |
+
+**Role:** God faction front-row buffer-tank — protects front line; **Judgment** synergizes with Human teams (pairs with Andrew).
+
+### Sparta — God Slayer *(verified @ CP 2,391,258, 3★)*
+
+| Skill | Lv | Effect (3★) | **5★ Awaken unlock** |
+|-------|-----|-------------|----------------------|
+| **Demonic Sacrifice** | 10/10 | **205% ATK** single target | **+270% bonus Physical DMG** |
+| **Scatter the Weak** | 10/10 | **Taunt 3** enemies; **−11.5% ATK** (2 turns) | **−2%** more ATK reduction |
+| **Devil's Rage** | 10/10 | **−18%** all damage taken | **−3%** more (~**−33%** total) |
+
+**Role:** Nightfall taunt-tank — scales taunt to **4 targets** at 4★. Strong PvP; skip World Boss.
+
+### Belial — Cursed Soul of the Dark Tome *(verified @ CP 2,339,655, 3★)*
+
+| Skill | Lv | Effect (3★) | **5★ Awaken unlock** |
+|-------|-----|-------------|----------------------|
+| **Malice Curse** | 10/10 | **246.3% ATK** to **lowest-HP** enemy | **+270% bonus Physical DMG** |
+| **Otherworld Distortion** | 10/10 | **193.8% ATK** to **3 random**; +9% permanent ATK | **+120% bonus Physical DMG** |
+| **Endless Trepidation** | 10/10 | **+20% CRIT Rate** (+9% from stars) | **+3% CRIT** (~**35%** total) |
+
+**Role:** Execute-style Nightfall DPS — finishes low-HP targets; CRIT scales hard at 5★.
+
+### Mirana — Spectral Rakkhasa *(verified @ CP 2,230,237, 3★)*
+
+| Skill | Lv | Effect (3★) | **5★ Awaken unlock** |
+|-------|-----|-------------|----------------------|
+| **Ceremony** | 10/10 | **246.3% ATK** single target | **+270% bonus Physical DMG** |
+| **Resentful Chorus** | 10/10 | **129.3% ATK** to **all enemies** | **+270% bonus Physical DMG** |
+| **Soul Drain** | 10/10 | **+20% Physical DMG** dealt (+9% from stars) | **+3%** (~**35%** total) |
+
+**Role:** Nightfall AoE DPS — full-team physical damage; strong wave clear.
+
+### Sophia — Spirit of Ripples *(verified @ CP 2,212,015, 2★)*
+
+| Skill | Lv | Effect (2★) | **5★ Awaken unlock** |
+|-------|-----|-------------|----------------------|
+| **Dragonhunt** | 5/5 | **170% Magic DMG** single target | **+270% bonus Magic DMG** |
+| **Dragon's Waltz** | 5/5 | **156.2% Magic DMG** back-row; 10% Stun; **2 targets** | **+120% bonus Magic DMG** (3 targets at 4★) |
+| **Moonlit Ripples** | 5/5 | **+20.5% ATK** (+8% from stars) | **+4% ATK** (~**36.5%** total) |
+
+**Role:** S+ Human magic DPS — **back-row priority** + Stun; scales to **3 targets** at 4★. Top spender investment.
+
+### Rexar — Winter's Wrath *(verified @ CP 2,613,293, 3★)*
+
+| Skill | Lv | Effect (3★) | **5★ Awaken unlock** |
+|-------|-----|-------------|----------------------|
+| **Frostlord's Throne** | 10/10 | **204.4% ATK** single target | **+270% bonus Physical DMG** |
+| **Frostbite Touch** | 10/10 | **+35% DEF** to **all allies** (1 turn) | **+5% DEF** (2 turns at 4★) |
+| **Eternal Frostlands** | 10/10 | **−18%** all damage taken | **−3%** more (~**−33%** total) |
+
+**Role:** Forest tank-buffer — DEF buffs whole team at 3★; pairs with Dragonic for Forest PvP.
+
+---
+
+## Files in This Folder
+
+| File | Use |
+|------|-----|
+| **`X-CLASH-FULL-GUIDE.md`** | **Full guide** — tiers, teams, upgrade priority, factions, skill rules |
+| **`X-CLASH-MASTER-RAW-DATA.xlsx`** | Master workbook — 11 tabs |
+| `x-clash-heroes-skills-spec.csv` | **140 skills** — main stats, synergy, verified flag |
+| `x-clash-team-compositions.csv` | Best teams by mode with key skills |
+| `x-clash-hero-slot-guide.csv` | When to bring/bench each hero |
+| `x-clash-upgrade-priority.csv` | F2P + spender investment order |
+| `x-clash-faction-reference.csv` | Triangle, bonuses, formation rules |
+| `x-clash-my-teams.csv` | Your locked lineups |
+| `x-clash-my-roster.csv` | Your heroes — CP, teams |
+| `x-clash-heroes-master.csv` | All 31 heroes |
+| `x-clash-heroes-skills.csv` | Raw skill rows |
+| `x-clash-heroes-tier-by-mode.csv` | PvP / WB / Campaign tiers |
+
+```bash
+python3 x-clash/scripts/build-skills-spec.py
+python3 x-clash/scripts/generate-master-workbook.py
+```
+
+### Import to Google Sheets
+1. Open [Google Sheets](https://sheets.google.com) → Blank spreadsheet
+2. File → Import → Upload each CSV as a **separate tab**
+3. Copy `x-clash-my-roster-template.csv` tab and fill in your roster
+4. Use VLOOKUP/INDEX between tabs if you merge them
+
+---
+
+## Verified Hero Data Progress
+
+| Hero | Status | Source |
+|------|--------|--------|
+| Andrew | ✅ Complete (3 skills) | User screenshots |
+| Verna | ✅ Complete (3 skills) | User screenshots |
+| Alvarez | ✅ Complete (3 skills) | User screenshots |
+| Chakiss | ✅ Complete (3 skills) | User screenshots |
+| Valkyr | ✅ Complete (3 skills) | User screenshots @ 3★ |
+| Sparta | ✅ Complete (3 skills) | User screenshots @ 3★ |
+| Belial | ✅ Complete (3 skills) | User screenshots @ 3★ |
+| Mirana | ✅ Complete (3 skills) | User screenshots @ 3★ |
+| Sophia | ✅ Complete (3 skills) | User screenshots @ 2★ |
+| Rexar | ✅ Complete (3 skills) | User screenshots @ 3★ |
+| Fenixia | ✅ Complete (3 skills) | User screenshots @ 5★ |
+| Yord | ✅ Complete (3 skills) | User screenshots @ 5★ |
+| Crystal | ✅ Complete (3 skills) | User screenshots @ 5★ |
+| Sera | ✅ Complete (3 skills) | User screenshots @ 5★ CP 3.87M |
+| Dragonic | ✅ Complete (3 skills) | User screenshots @ 5★ CP 3.61M |
+| Monica | ✅ Complete (3 skills) | User screenshots @ 5★ CP 3.22M |
+| *Remaining 18 heroes* | ⏳ Pending | Send skill screenshots |
+
+---
+
+When you share screenshots, include for each hero you own:
+1. Hero name + level + star rating
+2. Each skill name + description + % values at current level
+3. Base stats panel (ATK, HP, DEF, Speed, etc.)
+4. Gear set if relevant
+
+I will update the CSV skill rows with exact per-level scaling.
+
+---
+
+## Sources
+
+- [Van DeVaughn — First 60 Days Tier List (YouTube)](https://youtu.be/5UhwSZXyLr0)
+- [LDShop — Survival Challenge Tier List](https://www.ldshop.gg/blog/tier-list/x-clash-survival-challenge-tier-list.html)
+- [TopUpLive — 2026 Hero Tier List](https://www.topuplive.com/news/x-clash-hero-tier-list-2026.html)
+- [Hero Clash Official — Sparta / Valkyr skill previews (Facebook)](https://www.facebook.com/heroclashbattle)

@@ -1,0 +1,21 @@
+Team_ID,Mode,Team_Name,Slot,Position,Hero,Role,Notes
+UB1,Union Boss,Team 1 — Skill core,1,Back,Yord,Buffer,+14.5% ATK +10% CRIT — multiplies all DPS below
+UB1,Union Boss,Team 1 — Skill core,2,Back,Sera,DPS/Buffer,Amplification ramp; Forest ally for stacks
+UB1,Union Boss,Team 1 — Skill core,3,Back,Monica,DPS,555% + Savage Swoop + CRIT
+UB1,Union Boss,Team 1 — Skill core,4,Back,Kataras,DPS,Premium burst — user 1.4G WB validated
+UB1,Union Boss,Team 1 — Skill core,5,Back,Fenixia,DPS,AoE + CRIT; test swap → Crystal on meter
+WB1,World Boss,Team 1 — Same as UB1,1,Back,Yord,Buffer,Same as Union Boss Team 1
+WB1,World Boss,Team 1 — Same as UB1,2,Back,Sera,DPS/Buffer,Same
+WB1,World Boss,Team 1 — Same as UB1,3,Back,Monica,DPS,Same
+WB1,World Boss,Team 1 — Same as UB1,4,Back,Kataras,DPS,Same
+WB1,World Boss,Team 1 — Same as UB1,5,Back,Fenixia,DPS,Same
+WB2,World Boss,Forest buff variant,1,Back,Yord,Buffer,Forest back row
+WB2,World Boss,Forest buff variant,2,Back,Sera,DPS,Soul Protection +25.5%
+WB2,World Boss,Forest buff variant,3,Back,Monica,DPS,Soul Protection +25.5%
+WB2,World Boss,Forest buff variant,4,Back,Crystal,Buffer,Soul Protection provider — stay BACK
+WB2,World Boss,Forest buff variant,5,Back,Kataras,DPS,Flex — meter vs Fenixia
+PVP1,PvP,3 Forest + 2 Human,1,Front,Andrew,Tank,PvP front
+PVP1,PvP,3 Forest + 2 Human,2,Front,Dragonic,Tank,Forest front
+PVP1,PvP,3 Forest + 2 Human,3,Back,Sera,DPS,Forest
+PVP1,PvP,3 Forest + 2 Human,4,Back,Verna,DPS,Forest — PvP not boss
+PVP1,PvP,3 Forest + 2 Human,5,Back,Fenixia,DPS,Human faction slot

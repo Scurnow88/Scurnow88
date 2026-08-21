@@ -1,0 +1,46 @@
+Mode,Team_ID,Team_Label,Slot,Position,Hero,Key_Skills,Why_In_Team
+World Boss,WB-F2P,F2P Boss (theory),1,Back,Yord,Travel Invitation +14.5% ATK +10% CRIT,Team multiplier
+World Boss,WB-F2P,F2P Boss (theory),2,Back,Sera,16×127% + Amplification +30% magic passive,Sustained magic DPS
+World Boss,WB-F2P,F2P Boss (theory),3,Back,Fenixia,481% + 254% AoE +27% CRIT,Human magic burst
+World Boss,WB-F2P,F2P Boss (theory),4,Back,Crystal,Soul Protection +25.5% Forest back monster DMG,Forest back-row buff
+World Boss,WB-F2P,F2P Boss (theory),5,Back,Verna,Astral Guardian +17% monster DMG,Only if CP matches team — else swap Fenixia
+World Boss,WB-SPEND,Spender Boss,1,Back,Yord,Travel Invitation,Mandatory buffer
+World Boss,WB-SPEND,Spender Boss,2,Back,Sera,Arrow of Destiny ramp,Core DPS
+World Boss,WB-SPEND,Spender Boss,3,Back,Monica,555% + Savage Swoop +28% CRIT,Crit burst
+World Boss,WB-SPEND,Spender Boss,4,Back,Kataras,Burst DPS (premium),When fully invested
+World Boss,WB-SPEND,Spender Boss,5,Back,Fenixia or Crystal,AoE CRIT OR Forest back buff,Test Fenixia vs Crystal on meter
+World Boss,WB-CRYSTAL,Forest Back Row Boss,1,Back,Yord,Buffer,Forest back
+World Boss,WB-CRYSTAL,Forest Back Row Boss,2,Back,Sera,DPS,Gets Soul Protection
+World Boss,WB-CRYSTAL,Forest Back Row Boss,3,Back,Monica,DPS,Gets Soul Protection
+World Boss,WB-CRYSTAL,Forest Back Row Boss,4,Back,Crystal,Soul Protection provider,Stay BACK with Forest DPS
+World Boss,WB-CRYSTAL,Forest Back Row Boss,5,Front,Kataras or Fenixia,Flex burst,Front slot — no Crystal buff needed
+Union Boss,UB-1,Max Damage (PeachesNme validated),1,Back,Yord,+ATK +CRIT all allies,Buffer
+Union Boss,UB-1,Max Damage (PeachesNme validated),2,Back,Sera,Amplification scaling,Ramp DPS
+Union Boss,UB-1,Max Damage (PeachesNme validated),3,Back,Monica,555% + multi-hit crit,Burst DPS
+Union Boss,UB-1,Max Damage (PeachesNme validated),4,Back,Kataras,Premium burst,User 1.4G meter
+Union Boss,UB-1,Max Damage (PeachesNme validated),5,Back,Fenixia,AoE + CRIT,5th DPS — test vs Crystal
+Union Boss,UB-2,Forest Buff Variant,1,Back,Yord,Buffer,Forest back
+Union Boss,UB-2,Forest Buff Variant,2,Back,Sera,DPS,Soul Protection target
+Union Boss,UB-2,Forest Buff Variant,3,Back,Monica,DPS,Soul Protection target
+Union Boss,UB-2,Forest Buff Variant,4,Back,Crystal,+25.5% monster DMG Forest back,Replace Fenixia or Kataras — meter test
+Union Boss,UB-2,Forest Buff Variant,5,Front,Kataras,Burst,Front flex if needed
+PvP,PVP-F2P,F2P 3 Forest 2 Human,1,Front,Andrew,Anti-magic tank + AoE debuff,Human front
+PvP,PVP-F2P,F2P 3 Forest 2 Human,2,Front,Dragonic,−26% team phys reduction,Forest front
+PvP,PVP-F2P,F2P 3 Forest 2 Human,3,Back,Sera,Magic DPS + splash,Forest
+PvP,PVP-F2P,F2P 3 Forest 2 Human,4,Back,Verna or Monica,Forest DPS,Forest
+PvP,PVP-F2P,F2P 3 Forest 2 Human,5,Back,Fenixia,Human DPS,Faction bonus slot
+PvP,PVP-SPEND,Spender PvP,1,Back,Monica,Back-row splash 555%,Assassin
+PvP,PVP-SPEND,Spender PvP,2,Back,Sophia,Back-row stun targets,Control DPS
+PvP,PVP-SPEND,Spender PvP,3,Back,Yord,Buffer,Non-negotiable
+PvP,PVP-SPEND,Spender PvP,4,Back,Daphne,Nightfall anti-Human,Counter pick
+PvP,PVP-SPEND,Spender PvP,5,Front,Valkyr or Sparta,Judgment / taunt,Front control
+Campaign,CA-F2P,F2P Campaign,1,Front,Dragonic,Tank + burst,Early game
+Campaign,CA-F2P,F2P Campaign,2,Back,Sera,DPS,Main damage
+Campaign,CA-F2P,F2P Campaign,3,Back,Yord,Buffer,Support
+Campaign,CA-F2P,F2P Campaign,4,Back,Fenixia,DPS,AoE clear
+Campaign,CA-F2P,F2P Campaign,5,Back,Denise or Faerie,Heal/support,Sustain
+Nightfall Burst,NF-1,Nightfall DPS stack,1,Back,Alvarez,Terror Blade multi-hit +38% phys,DEF shred
+Nightfall Burst,NF-1,Nightfall DPS stack,2,Back,Belial,Execute lowest HP +35% CRIT,Finisher
+Nightfall Burst,NF-1,Nightfall DPS stack,3,Back,Mirana,Resentful Chorus AoE +35% phys,AoE
+Nightfall Burst,NF-1,Nightfall DPS stack,4,Back,Daphne,Top Nightfall DPS,If owned
+Nightfall Burst,NF-1,Nightfall DPS stack,5,Back,Yord,Buffer,Optional multiplier

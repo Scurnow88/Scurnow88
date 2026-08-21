@@ -1,0 +1,13 @@
+Hero,Title,Faction,Role,CP,Stars,Skill1_Lv,Skill2_Lv,Skill3_Lv,Skill4_Lv,Exclusive_Gear_Lv,UB_Team,WB_Team,PvP_Team,UB_Priority,WB_Priority,Notes
+Sera,The Heiress,Forest,Buffer,3063938,5,34,33,33,,12,1,1,1,SS,SS,WB 1.4G run slot 1 — Aug stats; likely higher now (Lv150)
+Dragonic,The Dragon,Forest,Tank,3056086,5,33,33,33,,,1,1,1,A,S,WB 1.4G run front — demon slot; Aug stats stale
+Andrew,The King,Human,Tank,2982396,5,33,33,33,,,,,1,A,,PvP front only
+Fenixia,The Phoenix,Human,DPS,2861192,5,33,33,33,,7,,,,S,B,Strong DPS but not in your 1.4G best run
+Crystal,The Soul,Forest,Buffer,2839155,5,33,33,30,,,1,1,,SS,SS,WB 1.4G run slot 5 — confirm in-game
+Monica,The Assassin,Forest,DPS,2830483,5,33,33,33,,,1,1,,SS,SS,WB 1.4G run slot 2
+Yord,The Sage,Forest,Buffer,2812152,5,33,33,33,,,,,,SS,B,Not in 1.4G best run — optional buffer not core for you
+Daphne,The Shadow,Nightfall,DPS,2740110,5,12,14,12,,,,,,C,,Reserve
+Kataras,Demon Masked Asura,God/Nightfall,DPS,2739574,5,12,12,12,,,1,1,,SS+,SS+,BEST WB score 1.4G — was mislabeled tank; Aug skill lv stale (now Lv150)
+Alvarez,The Alchemist,Human,DPS,2596122,4,33,33,33,,,,,,C,S,May be slot 1 in 1.4G run — confirm vs Sera
+Belial,The Demon,Nightfall,DPS,2447229,3,16,12,12,,,,,,D,,May be slot 4 demon — confirm vs Dragonic
+Verna,The Star,Forest,DPS,2401789,5,33,33,33,,,,,1,F,F,Benched boss — user verified poor WB damage

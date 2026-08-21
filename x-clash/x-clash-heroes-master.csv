@@ -1,0 +1,32 @@
+Hero Name,Official Title,Overall Tier,Faction,Primary Role,Secondary Role,Row Position,Combat Identity,F2P or Spender,Upgrade Priority (1=Highest),Best Game Modes,Strong Against (Faction),Weak Against (Faction),Synergy Partners,Notes
+Alvarez,Shadow of Exile,S+,Nightfall,DPS,Debuffer,Back,Multi-hit physical DPS; DEF shred + self Physical DMG buff,Spender,8,PvP / PvE,Human,Forest,Belial / Daphne,Terror Blade scales hits with stars (10→20)
+Andrew,Knight of Death,S+,Human,Tank,Debuffer,Front,Anti-magic tank with debuffs; counters early Forest meta,F2P (Day 60),6,PvP / Defense,Forest,Nightfall,Dragonic,Free summon on server day 60
+Belial,Cursed Soul of the Dark Tome,S+,Nightfall,DPS,Execute,Back,Lowest-HP execute + CRIT scaling; 35% CRIT at 5★,Spender,9,PvP,Human,Forest,Alvarez / Daphne,Malice Curse targets lowest HP enemy
+Crystal,Soul Ferrier,S+,Forest,Support,DPS (WB),Back,Buffs back-row Forest monster DMG + execute nuke Shadowy Soul,F2P/Epic,5,World Boss / PvE,—,—,Sera / Verna / Yord,Soul Protection = core Forest backline buff
+Daphne,Rose's Watch,S+,Nightfall,DPS,—,Back,Best Nightfall DPS; hard counter to Human teams,Spender,3,PvP / Arena,Human,Forest,Monica / Sophia,Also called Rose's Wrath in some sources
+Dragonic,Dragonborn,S+,Forest,Tank,Burst DPS,Front,−26% phys DMG team buff + 462% burst; front-row −26% all-damage passive,F2P,4,PvP / Campaign,—,—,Andrew / Rexar,Verified @ CP 3.61M; first altar summon
+Fenixia,Fiery Plume,S+,Human,DPS,—,Back,481% single + 254% AoE magic; Flame Overload stacks with Human allies,F2P (Lucky Spin),5,World Boss / PvE,Nightfall,Human counters,Yord / Crystal / Sophia,42%+ CRIT at 5★ via Fireborn
+Kataras,Demon Masked Asura,S+,God/Nightfall,DPS,—,Back,High burst demon warrior; premium damage,Spender,5,PvP / World Boss,—,—,Belial / Mirana / Monica,Verify faction in-game; user WB 1.4G with Kataras
+Mirana,Spectral Rakkhasa,S+,Nightfall,DPS,—,Back,AoE physical DPS; Resentful Chorus hits all enemies,Spender,10,PvP / PvE,Human,Forest,Belial / Daphne,Soul Drain +35% Physical DMG at 5★
+Monica,Shadowhunt,S+,Forest,DPS,Assassin,Back,555% magic + back-row splash; Savage Swoop 5-hit random; +28% CRIT passive,Spender,2,PvP / World Boss,Human,Human tanks,Sera / Yord / Rexar,Verified @ CP 3.22M; backline splash confirmed
+Rexar,Winter's Wrath,S+,Forest,Tank,Buffer,Front,DEF buffer + damage reduction; Frostbite Touch buffs all allies at 3★,Spender,7,PvP (Forest),Human,—,Dragonic / Monica,Pairs with Dragonic for Forest PvP
+Sera,Bow of Tomorrow,S+,Forest,DPS,—,Back,16×127% Magic random + Amplification scaling; 628% Butterfly crit; +30% Magic DMG passive,F2P,1,PvP / Campaign / World Boss,Human,Human counters,Yord / Dragonic / Crystal,Verified @ CP 3.87M; also Arrow of Tomorrow
+Sophia,Spirit of Ripples,S+,Human,DPS,Control,Back,Magic DPS; back-row targeting + Stun; Dragon's Waltz hits 3 at 4★,Spender,2,PvP / World Boss,Nightfall,Forest,Monica / Fenixia,@2★ in screenshots — high spender priority
+Sparta,God Slayer,S+,Nightfall,Tank,DPS,Front,Taunt + damage reduction tank; −33% DMG at 5★,Spender,6,PvP (technical),Human,—,Daphne,Scatter the Weak taunts up to 4 at 4★; skip World Boss
+Valkyr,Valiant Warrior,S+,God,Tank,Buffer,Front,Front-row protection + Human magic reduction; Judgment 2 turns at 5★,Spender,3,PvP / Rally,—,—,Andrew / Sophia,Battle Mark protects front row; pairs with Human comps
+Yord,Traveler of the Forest Sea,S+,Forest,Support,Buffer,Back,Travel Invitation buffs ATK+CRIT; Lingering Echo protects top DPS,F2P/Spender,1,ALL MODES (especially World Boss),—,—,Sera / Fenixia / Monica,4★ Travel Invitation = 2 turn duration
+Aaron,Howling Wolf King,S,Beastkins,DPS,—,Back,Wolf-themed burst DPS,A/B tier filler,12,PvE / Filler,—,—,—,Lower investment priority
+Ali,Electric Boxer,S,Human,DPS,—,Front,Electric melee DPS,F2P/Epic,11,PvE / Arena,Forest,—,—,Solid epic; invest one of Chakiss/Edric instead per guides
+Chakiss,Dragon Warrior,S,Human,DPS,Tank (PvE),Front,Row AoE + monster damage reduction; PvE filler,F2P/Epic,9,PvE / Monsters,Forest,—,Andrew,Invest one of Chakiss or Edric—not both early
+Cthylla,Deep Terror,S,Nightfall,DPS,Control,Back,Deep sea terror; AoE/control damage,Spender/Epic,10,PvE / Nightfall,Human,Forest,—,Verify skills from screenshots
+Denise,Bard,S,Human,Support,Buffer,Back,Team buffer; strong PvE support,F2P/Epic,8,PvE / Campaign,—,—,Faerie / Yord,Mainly PvE-focused support
+Edric,Spore Warrior,S,Forest,DPS,Support,Front,Spore warrior epic filler,F2P/Epic,9,PvE / Filler,—,—,Crystal,Also spelled Eldrich in some guides
+Faerie,Merciful Tree Spirit,S,Forest,Support,Healer,Back,Healer/support for sustained fights,F2P/Epic,8,Campaign / Siege,—,—,Denise / Dragonic,Good for long siege battles
+Garuda,Dragonslayer,S,Human,DPS,—,Back,Anti-dragon burst DPS,F2P/Epic,10,PvE / PvP,Beastkins,—,Sophia,Effective until higher-tier heroes maxed
+Marissa,Spear of Revenge,S,Human,DPS,—,Front,Revenge-themed single-target DPS,F2P/Epic,11,PvE,—,—,—,Mid-tier epic DPS
+Reina,Enchanting Witch,S,Nightfall/Human,Support,DPS,Back,Enchant/debuff witch support,F2P/Epic,10,PvE / PvP,—,—,Denise,Verify faction in-game
+Verna,Starlit Princess,S,Forest,DPS,Support (WB),Back,Monster/boss specialist — +12% damage taken debuff + monster DMG amp,F2P/Epic,5,World Boss / PvE,—,—,Crystal / Yord / Sera,Also spelled Vera; Whispers of the Stars = core WB skill
+Harold,Tekken Chief,A,Human,Tank,—,Front,Basic frontline tank,F2P,14,Filler,—,—,—,Low priority unless no other tank
+Moga,Garlic Samurai,A,Beastkins,DPS,—,Front,Samurai melee DPS,F2P,15,Filler,—,—,—,Bench hero; spare resources only
+Romano,Holy Inquisitor,A,Human,Support,DPS,Back,Holy support with damage,F2P,14,PvE filler,Nightfall,—,Denise,Low investment priority
+Torun,Berserk Axe,A,Beastkins,DPS,—,Front,Berserker melee DPS,F2P,15,Filler,—,—,—,Low priority damage dealer
